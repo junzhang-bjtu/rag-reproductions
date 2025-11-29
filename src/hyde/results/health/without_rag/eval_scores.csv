@@ -1,0 +1,2 @@
+dataset,correctness_score,semantic_similarity_score,answer_relevancy_score,avg_score
+health.csv,63.388888888888886,55.73354549204349,60.0,59.707478126977456

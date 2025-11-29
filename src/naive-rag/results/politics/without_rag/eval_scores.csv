@@ -1,0 +1,2 @@
+dataset,correctness_score,semantic_similarity_score,answer_relevancy_score,avg_score
+politics.csv,62.16666666666667,54.74167750069137,63.33333333333333,60.080559166897125

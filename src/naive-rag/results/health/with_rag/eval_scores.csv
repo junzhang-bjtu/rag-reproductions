@@ -1,0 +1,2 @@
+dataset,correctness_score,semantic_similarity_score,faithfulness_score,context_relevancy_score,answer_relevancy_score,avg_score
+health,92.05555555555556,76.63121236531283,100.0,87.84722222222221,99.72222222222223,91.25124247306258

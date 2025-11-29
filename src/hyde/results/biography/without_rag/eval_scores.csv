@@ -1,0 +1,2 @@
+dataset,correctness_score,semantic_similarity_score,answer_relevancy_score,avg_score
+biography.csv,58.666666666666664,54.31482968621495,64.72222222222223,59.23457285836795

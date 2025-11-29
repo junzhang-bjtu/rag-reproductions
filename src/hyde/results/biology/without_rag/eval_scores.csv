@@ -1,0 +1,2 @@
+dataset,correctness_score,semantic_similarity_score,answer_relevancy_score,avg_score
+biology.csv,69.27272727272728,60.35762717320947,67.04545454545455,65.55860299713044

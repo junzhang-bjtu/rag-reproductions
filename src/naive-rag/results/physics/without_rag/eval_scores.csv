@@ -1,0 +1,2 @@
+dataset,correctness_score,semantic_similarity_score,answer_relevancy_score,avg_score
+physics.csv,82.5625,70.79370093334863,81.875,78.41040031111622

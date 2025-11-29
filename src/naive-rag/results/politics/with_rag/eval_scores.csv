@@ -1,0 +1,2 @@
+dataset,correctness_score,semantic_similarity_score,faithfulness_score,context_relevancy_score,answer_relevancy_score,avg_score
+politics,91.33333333333333,74.8190071648143,99.44444444444444,87.70833333333333,99.44444444444444,90.54991254407398

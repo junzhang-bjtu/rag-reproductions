@@ -1,0 +1,2 @@
+dataset,correctness_score,semantic_similarity_score,faithfulness_score,context_relevancy_score,answer_relevancy_score,avg_score
+philosophy,92.9,73.91232049074,100.0,88.59375,99.75,91.03121409814801

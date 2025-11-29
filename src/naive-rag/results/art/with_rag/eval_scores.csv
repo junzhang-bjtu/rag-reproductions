@@ -1,0 +1,2 @@
+dataset,correctness_score,semantic_similarity_score,faithfulness_score,context_relevancy_score,answer_relevancy_score,avg_score
+art,92.15,76.08760045580976,99.0,90.5,100.0,91.54752009116196

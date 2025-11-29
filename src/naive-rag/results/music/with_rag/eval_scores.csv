@@ -1,0 +1,2 @@
+dataset,correctness_score,semantic_similarity_score,faithfulness_score,context_relevancy_score,answer_relevancy_score,avg_score
+music,93.75,77.25349526926648,99.5,90.0625,98.75,91.8631990538533

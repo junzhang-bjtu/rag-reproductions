@@ -1,0 +1,2 @@
+dataset,correctness_score,semantic_similarity_score,faithfulness_score,context_relevancy_score,answer_relevancy_score,avg_score
+agriculture,95.3,77.78084636340621,100.0,93.75,98.5,93.06616927268124

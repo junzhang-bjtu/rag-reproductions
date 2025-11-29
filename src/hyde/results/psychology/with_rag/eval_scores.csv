@@ -1,0 +1,2 @@
+dataset,correctness_score,semantic_similarity_score,faithfulness_score,context_relevancy_score,answer_relevancy_score,avg_score
+psychology,96.35000000000001,77.20086677240005,100.0,94.53125,100.0,93.61642335448002

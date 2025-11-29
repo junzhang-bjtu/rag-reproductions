@@ -1,0 +1,2 @@
+dataset,correctness_score,semantic_similarity_score,answer_relevancy_score,avg_score
+cooking.csv,56.25,53.65915138661551,59.166666666666664,56.35860601776073

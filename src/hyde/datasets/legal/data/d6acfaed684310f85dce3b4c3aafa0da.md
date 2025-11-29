@@ -1,0 +1,3706 @@
+# Context
+
+Exhibit 10.3
+
+ 
+
+EXECUTION VERSION
+
+ 
+
+Subscription Agreement
+
+ 
+
+This SUBSCRIPTION AGREEMENT (this “Subscription Agreement”) is entered into this
+12th day of July, 2020, by and among Churchill Capital Corp III, a Delaware
+corporation (the “Issuer”), Polaris Investment Holdings, L.P., a Delaware
+limited partnership (“Holdings”), Polaris Parent Corp., a Delaware corporation
+(“Music”), and the undersigned (“Subscriber” or “you”). Defined terms used but
+not otherwise defined herein shall have the respective meanings ascribed thereto
+in the Merger Agreement (as defined below).
+
+ 
+
+WHEREAS, the Issuer, Holdings, Music and the other parties named therein will,
+immediately following the execution of this Subscription Agreement, enter into
+that certain Agreement and Plan of Merger, dated as of July 12, 2020 (as
+amended, modified, supplemented or waived from time to time in accordance with
+its terms, the “Merger Agreement”), pursuant to which, inter alia, a direct,
+wholly owned subsidiary of the Issuer will be merged with and into Music, with
+Music surviving as a wholly owned subsidiary of the Issuer, and immediately
+thereafter Music will be merged with and into another direct, wholly owned
+subsidiary of Music, with such subsidiary surviving as a wholly owned subsidiary
+of the Issuer (together, the “Mergers”), on the terms and subject to the
+conditions set forth therein (the Mergers, together with the other transactions
+contemplated by the Merger Agreement, the “Transactions”);
+
+ 
+
+WHEREAS, in connection with the Transactions, Subscriber desires to subscribe
+for and purchase from the Issuer that number of (i) shares of the Issuer’s
+Class A common stock, par value $0.0001 per share (the “Class A common stock”)
+set forth on the signature page hereto (the “Subscribed Shares”) for a purchase
+price of $10.00 per share and (ii) warrants to purchase one share of Class A
+common stock, on substantially the terms set forth in the form of Warrant
+Agreement attached hereto as Exhibit A hereto, as set forth on the signature
+page hereto, (the “Warrants”), for the aggregate purchase price set forth on
+Subscriber’s signature page hereto (the “Purchase Price”), and the Issuer
+desires to issue and sell to Subscriber the Shares (including Incentive Shares
+(as defined below), if any) and the Warrants in consideration of the payment of
+the Purchase Price therefor by or on behalf of Subscriber to the Issuer, all on
+the terms and conditions set forth herein;
+
+ 
+
+WHEREAS, certain other “qualified institutional buyers” (as defined in Rule 144A
+under the Securities Act of 1933, as amended (the “Securities Act”)) or
+“accredited investors” (within the meaning of Rule 501(a) under the Securities
+Act) (each, an “Other Subscriber”) have, severally and not jointly, entered into
+separate subscription agreements with the Issuer (the “Other Subscription
+Agreements”), pursuant to which such investors have agreed to purchase Class A
+common stock and Warrants on the Closing Date at the same per share purchase
+price as the Subscriber, and the aggregate amount of securities to be sold by
+the Issuer pursuant to this Subscription Agreement and the Other Subscription
+Agreements equals, as of the date hereof, 132,050,000 shares of Class A common
+stock and 6,500,000 Warrants;
+
+ 
+
+WHEREAS, certain other “qualified institutional buyers” or “accredited
+investors” (each, a “Convert Subscriber”) have, severally and not jointly,
+entered into separate convertible note subscription agreements with the Issuer
+(the “Convert Subscription Agreements”), pursuant to which such investors have
+agreed to purchase convertible notes of the Issuer on the Closing Date, and the
+aggregate amount of convertible notes to be sold by the Issuer pursuant the
+Convert Subscription Agreements equals, as of the date hereof, $1,300,000,000.
+
+ 
+
+
+
+ 
+
+ 
+
+ 
+
+NOW, THEREFORE, in consideration of the foregoing and the mutual
+representations, warranties and covenants, and subject to the conditions, herein
+contained, and intending to be legally bound hereby, the parties hereto hereby
+agree as follows:
+
+ 
+
+For ease of administration, this single Subscription Agreement is being executed
+so as to enable each Subscriber identified on the signature page to enter into a
+Subscription Agreement, severally, but not jointly. The parties agree that
+(i) the Subscription Agreement shall be treated as if it were a separate
+agreement with respect to each Subscriber listed on the signature page, as if
+each Subscriber entity had executed a separate Subscription Agreement naming
+only itself as Subscriber, and (ii) no Subscriber listed on the signature
+page shall have any liability under the Subscription Agreement for the
+obligations of any other Subscriber so listed.
+
+ 
+
+1.            Subscription. Subject to the terms and conditions hereof, at the
+Closing, Subscriber hereby agrees to subscribe for and purchase, and the Issuer
+hereby agrees to issue and sell to Subscriber, upon the payment of the Purchase
+Price, the Subscribed Shares and the Warrants (such subscription and issuance,
+the “Subscription”). In connection with such Subscription, Subscriber shall be
+entitled to, and Issuer agrees to issue to Subscriber, additional shares of
+Class A common stock (rounded up to the nearest whole share) equal to the number
+determined by multiplying (i) if the Purchase Price paid by Subscriber is less
+than $250,000,000 (A) the Subscribed Shares, by (B) 1%, or (ii) if the Purchase
+Price paid by Subscriber is equal to or exceeds $250,000,000 (A) the Subscribed
+Shares, by (B) 2.5%, (such shares, the “Incentive Shares” and together with the
+Subscribed Shares, the “Shares”).
+
+ 
+
+2.            Representations, Warranties and Agreements.
+
+ 
+
+2.1            Subscriber’s Representations, Warranties and Agreements. To
+induce the Issuer to issue the Shares and the Warrants to Subscriber, Subscriber
+hereby represents and warrants to the Issuer and acknowledges and agrees with
+the Issuer as follows:
+
+ 
+
+2.1.1            If Subscriber is not an individual, Subscriber has been duly
+formed or incorporated and is validly existing in good standing under the laws
+of its jurisdiction of incorporation or formation, with power and authority to
+enter into, deliver and perform its obligations under this Subscription
+Agreement. If Subscriber is an individual, Subscriber has the authority to enter
+into, deliver and perform its obligations under this Subscription Agreement.
+
+ 
+
+2.1.2            If Subscriber is not an individual, this Subscription Agreement
+has been duly authorized, validly executed and delivered by Subscriber. If
+Subscriber is an individual, the signature on this Subscription Agreement is
+genuine, and Subscriber has legal competence and capacity to execute the same.
+Assuming that this Subscription Agreement constitutes the valid and binding
+agreement of the Issuer, this Subscription Agreement is the valid and binding
+obligation of the Subscriber, is enforceable against Subscriber in accordance
+with its terms, except as may be limited or otherwise affected by
+(i) bankruptcy, insolvency, fraudulent conveyance, reorganization, moratorium or
+other laws relating to or affecting the rights of creditors generally, and
+(ii) principles of equity, whether considered at law or equity.
+
+ 
+
+
+
+Page 2 of 33
+
+ 
+
+ 
+
+2.1.3            The execution, delivery and performance by Subscriber of this
+Subscription Agreement and the consummation of the transactions contemplated
+herein do not and will not (i) conflict with or result in a breach or violation
+of any of the terms or provisions of, or constitute a default under, or result
+in the creation or imposition of any lien, charge or encumbrance upon any of the
+property or assets of Subscriber or any of its subsidiaries pursuant to the
+terms of any indenture, mortgage, deed of trust, loan agreement, lease, license
+or other agreement or instrument to which Subscriber or any of its subsidiaries
+is a party or by which Subscriber or any of its subsidiaries is bound or to
+which any of the property or assets of Subscriber or any of its subsidiaries is
+subject, which would reasonably be expected to have a material adverse effect on
+the legal authority of Subscriber to enter into and timely perform its
+obligations under this Subscription Agreement (a “Subscriber Material Adverse
+Effect”), (ii) if Subscriber is not an individual, result in any violation of
+the provisions of the organizational documents of Subscriber or any of its
+subsidiaries or (iii) result in any violation of any statute or any judgment,
+order, rule or regulation of any court or governmental agency or body, domestic
+or foreign, having jurisdiction over Subscriber or any of its subsidiaries or
+any of their respective properties that would reasonably be expected to have a
+Subscriber Material Adverse Effect.
+
+ 
+
+2.1.4            Subscriber (i) is a “qualified institutional buyer” (as defined
+in Rule 144A under the Securities Act) or an “accredited investor” (within the
+meaning of Rule 501(a) under the Securities Act) satisfying the applicable
+requirements set forth on Schedule I, (ii) is acquiring the Shares and the
+Warrants only for its own account and not for the account of others, or if
+Subscriber is subscribing for the Shares or the Warrants as a fiduciary or agent
+for one or more investor accounts, each owner of such account is a qualified
+institutional buyer, and Subscriber has full investment discretion with respect
+to each such account, and the full power and authority to make the
+acknowledgements, representations, warranties and agreements herein on behalf of
+each owner of each such account and (iii) is not acquiring the Shares or the
+Warrants with a view to, or for offer or sale in connection with, any
+distribution thereof in violation of the Securities Act (and shall provide the
+requested information on Schedule I following the signature page hereto).
+Subscriber is not an entity formed for the specific purpose of acquiring the
+Shares or the Warrants.
+
+ 
+
+2.1.5            Subscriber understands that the Shares and the Warrants are
+being offered in a transaction not involving any public offering within the
+meaning of the Securities Act and that the Shares and the Warrants have not been
+registered under the Securities Act. Subscriber understands that the Shares and
+the Warrants may not be resold, transferred, pledged or otherwise disposed of by
+Subscriber absent an effective registration statement under the Securities Act,
+except (i) to the Issuer or a subsidiary thereof, (ii) to non-U.S. persons
+pursuant to offers and sales that occur solely outside the United States within
+the meaning of Regulation S under the Securities Act or (iii) pursuant to
+another applicable exemption from the registration requirements of the
+Securities Act, and in each of cases (i) and (iii), in accordance with any
+applicable securities laws of the states and other jurisdictions of the United
+States, and that any certificates representing the Shares or the Warrants shall
+contain a legend to such effect. Subscriber acknowledges that the Shares or the
+Warrants will not be eligible for resale pursuant to Rule 144A promulgated under
+the Securities Act. Subscriber understands and agrees that the Shares or the
+Warrants will be subject to transfer restrictions and, as a result of these
+transfer restrictions, Subscriber may not be able to readily resell the Shares
+or the Warrants and may be required to bear the financial risk of an investment
+in the Shares or the Warrants for an indefinite period of time. Subscriber
+understands that it has been advised to consult legal counsel prior to making
+any offer, resale, pledge or transfer of any of the Shares or the Warrants.
+
+ 
+
+
+
+Page 3 of 33
+
+ 
+
+ 
+
+2.1.6            Subscriber understands and agrees that Subscriber is purchasing
+the Shares and the Warrants directly from the Issuer. Subscriber further
+acknowledges that there have been no representations, warranties, covenants or
+agreements made to Subscriber by the Issuer, Holdings, Music or any of their
+respective officers or directors, expressly or by implication, other than those
+representations, warranties, covenants and agreements expressly set forth in
+this Subscription Agreement.
+
+ 
+
+2.1.7            Subscriber represents and warrants that its acquisition and
+holding of the Shares and the Warrants will not constitute or result in a
+non-exempt prohibited transaction under Section 406 of the Employee Retirement
+Income Security Act of 1974, as amended (“ERISA”), Section 4975 of the Internal
+Revenue Code of 1986, as amended (the “Code”), or any applicable similar law.
+
+ 
+
+2.1.8            In making its decision to purchase the Shares and the Warrants,
+Subscriber represents that it has relied solely upon independent investigation
+made by Subscriber. Without limiting the generality of the foregoing, Subscriber
+has not relied on any statements or other information provided by anyone other
+than the Issuer and its representatives concerning the Issuer or the Shares and
+the Warrants or the offer and sale of the Shares and the Warrants. Subscriber
+acknowledges and agrees that Subscriber has received such information as
+Subscriber deems necessary in order to make an investment decision with respect
+to the Shares and the Warrants, including with respect to the Issuer, Holdings,
+Music and the Transactions. Subscriber represents and agrees that Subscriber and
+Subscriber’s professional advisor(s), if any, have had the full opportunity to
+ask such questions, receive such answers and obtain such information as
+Subscriber and such Subscriber’s professional advisor(s), if any, have deemed
+necessary to make an investment decision with respect to the Shares and the
+Warrants.
+
+ 
+
+2.1.9            Subscriber became aware of this offering of the Shares and the
+Warrants solely by means of direct contact between Subscriber and the Issuer or
+its representative. Subscriber has a pre-existing substantive relationship (as
+interpreted in guidance from the Commission under the Securities Act) with the
+Issuer or its representative, and the Shares and the Warrants were offered to
+Subscriber solely by direct contact between Subscriber and the Issuer or its
+representative. Subscriber did not become aware of this offering of the Shares
+and the Warrants, nor were the Shares or the Warrants offered to Subscriber, by
+any other means. Subscriber acknowledges that the Issuer represents and warrants
+that the Shares and the Warrants (i) were not offered by any form of general
+solicitation or general advertising, including methods described in section
+502(c) of Regulation D under the Securities Act and (ii) are not being offered
+in a manner involving a public offering under, or in a distribution in violation
+of, the Securities Act, or any state securities laws.
+
+ 
+
+
+
+Page 4 of 33
+
+ 
+
+ 
+
+2.1.10            Subscriber acknowledges that it is aware that there are
+substantial risks incident to the purchase and ownership of the Shares and the
+Warrants. Subscriber has such knowledge and experience in financial and business
+matters as to be capable of evaluating the merits and risks of an investment in
+the Shares and the Warrants, and Subscriber has sought such accounting, legal
+and tax advice as Subscriber has considered necessary to make an informed
+investment decision.
+
+ 
+
+2.1.11            Alone, or together with any professional advisor(s),
+Subscriber represents and acknowledges that Subscriber has adequately analyzed
+and fully considered the risks of an investment in the Shares and the Warrants
+and determined that the Shares and the Warrants are a suitable investment for
+Subscriber and that Subscriber is able at this time and in the foreseeable
+future to bear the economic risk of a total loss of Subscriber’s investment in
+the Issuer. Subscriber acknowledges specifically that a possibility of total
+loss exists.
+
+ 
+
+2.1.12            Subscriber understands and agrees that no federal or state
+agency has passed upon or endorsed the merits of the offering of the Shares or
+the Warrants or made any findings or determination as to the fairness of an
+investment in the Shares or the Warrants.
+
+ 
+
+2.1.13            Subscriber represents and warrants that Subscriber is not
+(i) a person or entity named on the List of Specially Designated Nationals and
+Blocked Persons administered by the U.S. Treasury Department’s Office of Foreign
+Assets Control (“OFAC”) or in any Executive Order issued by the President of the
+United States and administered by OFAC (“OFAC List”), or a person or entity
+prohibited by any OFAC sanctions program, (ii) a Designated National as defined
+in the Cuban Assets Control Regulations, 31 C.F.R. Part 515 or (iii) a non-U.S.
+shell bank or providing banking services indirectly to a non-U.S. shell bank
+(collectively, a “Prohibited Investor”). Subscriber agrees to provide law
+enforcement agencies, if requested thereby, such records as required by
+applicable law, provided that Subscriber is permitted to do so under applicable
+law. Subscriber represents that if it is a financial institution subject to the
+Bank Secrecy Act (31 U.S.C. Section 5311 et seq.) (the “BSA”), as amended by the
+USA PATRIOT Act of 2001 (the “PATRIOT Act”), and its implementing regulations
+(collectively, the “BSA/PATRIOT Act”), that Subscriber maintains policies and
+procedures reasonably designed to comply with applicable obligations under the
+BSA/PATRIOT Act. Subscriber also represents that, to the extent required, it
+maintains policies and procedures reasonably designed for the screening of its
+investors against the OFAC sanctions programs, including the OFAC List.
+Subscriber further represents and warrants that, to the extent required, it
+maintains policies and procedures reasonably designed to ensure that the funds
+held by Subscriber and used to purchase the Shares and the Warrants were legally
+derived.
+
+ 
+
+
+
+Page 5 of 33
+
+ 
+
+ 
+
+2.1.14            If Subscriber is an employee benefit plan that is subject to
+Title I of ERISA, a plan, an individual retirement account or other arrangement
+that is subject to section 4975 of the Code or an employee benefit plan that is
+a governmental plan (as defined in section 3(32) of ERISA), a church plan (as
+defined in section 3(33) of ERISA), a non-U.S. plan (as described in section
+4(b)(4) of ERISA) or other plan that is not subject to the foregoing but may be
+subject to provisions under any other federal, state, local, non-U.S. or other
+laws or regulations that are similar to such provisions of ERISA or the Code
+(collectively, “Similar Laws”), or an entity whose underlying assets are
+considered to include “plan assets” of any such plan, account or arrangement
+(each, a “Plan”) subject to the fiduciary or prohibited transaction provisions
+of ERISA or section 4975 of the Code, Subscriber represents and warrants that
+neither Issuer, nor any of its respective affiliates (the “Transaction Parties”)
+has acted as the Plan’s fiduciary, or has been relied on for advice, with
+respect to its decision to acquire and hold the Shares and the Warrants, and
+none of the Transaction Parties shall at any time be relied upon as the Plan’s
+fiduciary with respect to any decision to acquire, continue to hold or transfer
+the Shares and the Warrants.
+
+ 
+
+2.1.15            Except as expressly disclosed in a Schedule 13D or Schedule
+13G (or amendments thereto) filed by such Subscriber with the Commission with
+respect to the beneficial ownership of the Issuer’s common stock, Subscriber is
+not currently (and at all times through Closing will refrain from being or
+becoming) a member of a “group” (within the meaning of Section 13(d)(3) or
+Section 14(d)(2) of the Securities Exchange Act of 1934, as amended (the
+“Exchange Act”), or any successor provision), including any group acting for the
+purpose of acquiring, holding or disposing of equity securities of the Issuer
+(within the meaning of Rule 13d-5(b)(1) under the Exchange Act).
+
+ 
+
+2.1.16            Subscriber will not acquire a substantial interest (as defined
+in 31 C.F.R. Part 800.244) in the Issuer as a result of the purchase and sale of
+Shares and the Warrants hereunder such that a declaration to the Committee on
+Foreign Investment in the United States would be mandatory under 31 C.F.R.
+Part 800.401, and Subscriber will not have control (as defined in 31 C.F.R.
+Part 800.208) over the Issuer from and after the Closing as a result of the
+purchase and sale of Shares and the Warrants hereunder.
+
+ 
+
+2.1.17            Subscriber has, and on each date the Purchase Price would be
+required to be funded to the Issuer pursuant to Section 3.1 will have,
+sufficient immediately available funds to pay the Purchase Price pursuant to
+Section 3.1. Subscriber is an entity having total liquid assets and net assets
+in excess of the Purchase Price as of the date hereof and as of each date the
+Purchase Price would be required to be funded to the Issuer pursuant to
+Section 3.1 and was not formed for the purpose of acquiring the Shares and
+Warrants.
+
+ 
+
+2.1.18            No broker, finder or other financial consultant has acted on
+behalf of Subscriber in connection with this Subscription Agreement or the
+transactions contemplated hereby in such a way as to create any liability on the
+Issuer.
+
+ 
+
+
+
+Page 6 of 33
+
+ 
+
+ 
+
+2.2            Issuer’s Representations, Warranties and Agreements. To induce
+Subscriber to purchase the Shares and the Warrants, the Issuer hereby represents
+and warrants to Subscriber and agrees with Subscriber as follows:
+
+ 
+
+2.2.1            The Issuer has been duly incorporated and is validly existing
+as a corporation in good standing under the laws of the Delaware General
+Corporation Law (“DGCL”), with corporate power and authority to own, lease and
+operate its properties and conduct its business as presently conducted and to
+enter into, deliver and perform its obligations under this Subscription
+Agreement.
+
+ 
+
+2.2.2            The Shares and the Warrants have been duly authorized and, when
+issued and delivered to Subscriber against full payment for the Shares and the
+Warrants in accordance with the terms of this Subscription Agreement and
+registered with the Issuer’s transfer agent, the Shares and the Warrants will be
+validly issued, fully paid and non-assessable and will not have been issued in
+violation of or subject to any preemptive or similar rights created under the
+Issuer’s amended and restated certificate of incorporation or under the DGCL.
+The shares of Class A common stock issuable upon exercise of the Warrants (the
+“Warrant Shares”), when issued in accordance with the terms of the Warrants,
+will be validly issued, fully paid and non-assessable and will not have been
+issued in violation of or subject to any preemptive or similar rights created
+under the Issuer’s second amended and restated certificate of incorporation or
+under the DGCL.
+
+ 
+
+2.2.3            This Subscription Agreement has been duly authorized, validly
+executed and delivered by the Issuer and, assuming that this Subscription
+Agreement constitutes the valid and binding obligation of the Subscriber, is the
+valid and binding obligation of the Issuer, is enforceable against the Issuer in
+accordance with its terms, except as may be limited or otherwise affected by
+(i) bankruptcy, insolvency, fraudulent conveyance, reorganization, moratorium or
+other laws relating to or affecting the rights of creditors generally and
+(ii) principles of equity, whether considered at law or equity.
+
+ 
+
+2.2.4            The Issuer is classified as a Subchapter C corporation for U.S.
+federal income tax purposes.
+
+ 
+
+2.2.5            The execution, delivery and performance of this Subscription
+Agreement (including compliance by the Issuer with all of the provisions
+hereof), issuance and sale of the Shares and the Warrants and the consummation
+of the certain other transactions contemplated herein will not (i) conflict with
+or result in a breach or violation of any of the terms or provisions of, or
+constitute a default under, or result in the creation or imposition of any lien,
+charge or encumbrance upon any of the property or assets of the Issuer or any of
+its subsidiaries pursuant to the terms of any indenture, mortgage, deed of
+trust, loan agreement, lease, license or other agreement or instrument to which
+the Issuer or any of its subsidiaries is a party or by which the Issuer or any
+of its subsidiaries is bound or to which any of the property or assets of the
+Issuer or any of its subsidiaries is subject, which would reasonably be expected
+to have a material adverse effect on the legal authority of the Issuer to enter
+into and timely perform its obligations under this Subscription Agreement (a
+“Issuer Material Adverse Effect”), (ii) result in any violation of the
+provisions of the organizational documents of the Issuer or any of its
+subsidiaries or (iii) result in any violation of any statute or any judgment,
+order, rule or regulation of any court or governmental agency or body, domestic
+or foreign, having jurisdiction over the Issuer or any of its subsidiaries or
+any of their respective properties that would reasonably be expected to have an
+Issuer Material Adverse Effect.
+
+ 
+
+
+
+Page 7 of 33
+
+ 
+
+ 
+
+2.2.6            Neither the Issuer, nor any person acting on its behalf has,
+directly or indirectly, made any offers or sales of any Issuer security or
+solicited any offers to buy any security under circumstances that would
+adversely affect reliance by the Issuer on Section 4(a)(2) of the Securities Act
+for the exemption from registration for the transactions contemplated hereby or
+would require registration of the issuance of the Shares or the Warrants under
+the Securities Act.
+
+ 
+
+2.2.7            Neither the Issuer nor any person acting on its behalf has
+conducted any general solicitation or general advertising, including methods
+described in section 502(c) of Regulation D under the Securities Act, in
+connection with the offer or sale of any of the Shares or the Warrants and
+neither the Issuer nor any person acting on its behalf offered any of the Shares
+or the Warrants in a manner involving a public offering under, or in a
+distribution in violation of, the Securities Act or any state securities laws.
+
+ 
+
+2.2.8            Concurrently with the execution and delivery of this
+Subscription Agreement, the Issuer is entering into the Other Subscription
+Agreements providing for the sale of an aggregate of 132,050,000 Shares and
+6,500,000 Warrants for an aggregate purchase price of $1,300,000,000 (including
+the Shares and Warrants purchased and sold under this Subscription Agreement)
+(collectively, the “PIPE Securities”). There are no Other Subscription
+Agreements, side letter agreements or other agreements or understandings
+(including written summaries of any oral understandings) with any Other
+Subscriber (other than Subscriber in connection with the Other Subscription
+Agreements) (collectively, the “PIPE Agreements”) which include terms and
+conditions that are materially more advantageous to any such Other Holder (as
+compared to Subscriber) other than such PIPE Agreements containing any of the
+following: (i) any rights or benefits granted to an Other Subscriber in
+connection with such Other Subscriber’s compliance with any law, regulation or
+policy specifically applicable to such Other Subscriber or in connection with
+the taxable status of an Other Subscriber, (ii) any rights or benefits which are
+personal to an Other Subscriber based solely on its place of organization or
+headquarters, organizational form of, or other particular restrictions
+applicable to, such Other Subscriber, (iii) any rights with respect to the
+confidentiality or disclosure of an Other Subscriber’s identity, (iv) any rights
+granted to an Other Subscriber party to an Other Subscription Agreement with the
+Issuer to acquire Shares and Warrants having an aggregate purchase price (either
+alone or together with its Affiliates or with an investor that is commonly
+advised with the subscriber as determined by the Issuer) equal to or in excess
+of $500,000,000 in the aggregate or (vi) any rights or benefits granted to the
+Issuer, Holdings, Music or any of their respective Affiliates or any of their
+respective partners, members, shareholders, employees or agents.
+
+ 
+
+
+
+Page 8 of 33
+
+ 
+
+ 
+
+2.2.9            As of the date of this Subscription Agreement, the authorized
+capital stock of the Issuer consists of 301,000,000 shares of capital stock,
+including (a) 250,000,000 shares of Class A common stock, (b) 50,000,000 shares
+of Class B common stock, par value $0.0001 per share (“Existing Class B
+Shares”); and (c) 1,000,000 shares of preferred stock, par value $0.0001 per
+share (“Existing Preferred Shares”). As of the date hereof: (i) no Preferred
+Shares are issued and outstanding; (ii) 110,000,000 shares of Class A common
+stock are issued and outstanding; (iii) 27,500,000 Existing Class B Shares are
+issued and outstanding; (iv) 23,000,000 warrants to purchase 23,000,000 shares
+of Class A common stock (the “Private Placement Warrants”) are outstanding; and
+(v) 27,500,000 warrants to purchase 27,500,000 shares of Class A common stock
+(the “Public Warrants”) are outstanding. All (i) issued and outstanding shares
+of Class A common stock and Existing Class B Shares have been duly authorized
+and validly issued, are fully paid and are non-assessable and are not subject to
+preemptive rights and (ii) outstanding Private Placement Warrants and Public
+Warrants have been duly authorized and validly issued, are fully paid and are
+not subject to preemptive rights. Except as set forth above and pursuant to the
+Other Subscription Agreements, the Convert Subscription Agreements and the
+Merger Agreement, there are no outstanding options, warrants or other rights to
+subscribe for, purchase or acquire from the Issuer any shares of Class A common
+stock or Class B common stock, or any other equity interests in the Issuer, or
+securities convertible into or exchangeable or exercisable for such equity
+interests. As of the date hereof, other than the First Merger Sub and the Second
+Merger Sub, the Issuer has no subsidiaries and does not own, directly or
+indirectly, interests or investments (whether equity or debt) in any person,
+whether incorporated or unincorporated. There are no stockholder agreements,
+voting trusts or other agreements or understandings to which the Issuer is a
+party or by which it is bound relating to the voting of any securities of the
+Issuer, other than (A) as set forth in the SEC Documents and (B) as contemplated
+by the Merger Agreement and the Transaction Agreements.
+
+ 
+
+2.2.10            Assuming the accuracy of Subscriber’s representations and
+warranties set forth in Section 2.1 of this Subscription Agreement, (x) no
+registration under the Securities Act is required for the offer and sale of the
+Shares or the Warrants by the Issuer to Subscriber and (y) no consent, approval,
+order or authorization of, or registration, qualification, designation,
+declaration or filing with, any federal, state or local Governmental Authority
+is required on the part of the Issuer in connection with the consummation of the
+transactions contemplated by this Subscription Agreement, except for filings
+pursuant to Regulation D of the Securities Act and applicable state securities
+laws.
+
+ 
+
+
+
+Page 9 of 33
+
+ 
+
+ 
+
+2.2.11            The Issuer has made available to Subscriber (including via the
+Securities and Exchange Commission’s (the “Commission”) EDGAR system) a true,
+correct and complete copy of each form, report, statement, schedule, prospectus,
+proxy, registration statement and other documents filed by the Issuer with the
+Commission prior to the date of this Subscription Agreement (the “SEC
+Documents”). None of the SEC Documents filed under the Exchange Act, contained,
+when filed or, if amended prior to the date of this Subscription Agreement, as
+of the date of such amendment with respect to those disclosures that are
+amended, any untrue statement of a material fact or omitted to state a material
+fact required to be stated therein or necessary to make the statements therein,
+in light of the circumstances under which they were made, not misleading;
+provided, that the Issuer makes no such representation or warranty with respect
+to the proxy statement to be filed by the Issuer with respect to the
+Transactions or any other information relating to Music or any of its affiliates
+included in any SEC Document or filed as an exhibit thereto. The Issuer has
+timely filed each report, statement, schedule, prospectus, and registration
+statement that the Issuer was required to file with the Commission since its
+inception and through the date hereof. As of the date hereof, there are no
+material outstanding or unresolved comments in comment letters from the
+Commission staff with respect to any of the SEC Documents.
+
+ 
+
+2.2.12            As of the date hereof, there are no pending or, to the
+knowledge of the Issuer, threatened, Actions, which, if determined adversely,
+would, individually or in the aggregate, reasonably be expected to have a
+material adverse effect on the ability of the Issuer to enter into and perform
+its obligations under this Subscription Agreement. As of the date hereof, there
+is no unsatisfied judgment or any open injunction binding upon the Issuer which
+would, individually or in the aggregate, reasonably be expected to have a
+material adverse effect on the ability of the Issuer to enter into and perform
+its obligations under this Subscription Agreement.
+
+ 
+
+2.2.13            No broker, finder or other financial consultant has acted on
+behalf of Issuer in connection with this Subscription Agreement or the
+transactions contemplated hereby in such a way as to create any liability on the
+Subscriber. The Issuer agrees to indemnify and hold harmless Subscriber from any
+claim or demand for commission or other compensation by any broker, finder,
+financial consultant or similar agent claiming to have been employed by or on
+behalf of Issuer and to bear the cost of legal expenses incurred by Subscriber
+in defending against any such claim.
+
+ 
+
+2.2.14            The execution, delivery and performance of its obligations
+hereunder by Subscriber are, or are based on, commercial acts for purposes of
+applicable law.
+
+ 
+
+2.2.15            The Class A common stock of the Issuer is registered pursuant
+to Section 12(b) of the Exchange Act, and listed for trading on the NYSE. There
+is no suit, action, proceeding or investigation pending or, to the knowledge of
+the Issuer, threatened against the Issuer by the NYSE or the Commission with
+respect to any intention by such entity to deregister the Class A common stock
+or prohibit or terminate the listing of the Class A common stock on the NYSE.
+The Issuer has taken no action that is designed to terminate the registration of
+the Class A common stock under the Exchange Act.
+
+ 
+
+
+
+Page 10 of 33
+
+ 
+
+ 
+
+3.            Settlement Date and Delivery.
+
+ 
+
+3.1            Closing. The closing of the Subscription contemplated hereby (the
+“Closing”) shall occur on the date of, and immediately prior to, the
+consummation of the Transactions. Upon written notice from (or on behalf of) the
+Issuer to Subscriber (the “Closing Notice”) at least ten (10) Business Days
+prior to the date that the Issuer reasonably expects all conditions to the
+closing of the Transactions to be satisfied (the “Expected Closing Date”),
+Subscriber shall deliver to the Issuer no later than two (2) Business Days prior
+to the Expected Closing Date, the Purchase Price for the Shares and the
+Warrants, by wire transfer of United States dollars in immediately available
+funds to the account specified by the Issuer in the Closing Notice, such funds
+to be held by the Issuer in escrow until the Closing. If the Transactions are
+not consummated on or prior to the tenth (10th) Business Day after the Expected
+Closing Date, the Issuer shall return the Purchase Price to Subscriber by wire
+transfer of United States dollars in immediately available funds to an account
+specified by Subscriber. Notwithstanding such return, (i) a failure to close on
+the Expected Closing Date shall not, by itself, be deemed to be a failure of any
+of the conditions to Closing set forth in this Section 3 to be satisfied or
+waived on or prior to the Closing Date, and (ii) Subscriber shall remain
+obligated (A) to redeliver funds to the Issuer following the Issuer’s delivery
+to Subscriber of a new Closing Notice and (B) to consummate the Closing upon
+satisfaction of the conditions set forth in this Section 3. Unless otherwise
+agreed by Holdings and Music in writing, the Issuer shall deliver the Closing
+Notice at least eight (8) Business Days prior to the date of the Special
+Meeting. At the Closing, upon satisfaction (or, if applicable, waiver) of the
+conditions set forth in this Section 3, the Issuer shall deliver to Subscriber
+the Shares in certificated or book entry form (at the Issuer’s election) and the
+Warrants in book entry form, in the name of Subscriber (or its nominee in
+accordance with its delivery instructions) or to a custodian designated by
+Subscriber, as applicable. For purposes of this Subscription Agreement,
+“Business Day” means any day that, in New York, New York, is neither a legal
+holiday nor a day on which banking institutions are generally authorized or
+required by law or regulation to close.
+
+ 
+
+3.2            Conditions to Closing of the Issuer.
+
+ 
+
+The Issuer’s obligations to sell and issue the Shares and the Warrants at the
+Closing are subject to the fulfillment or (to the extent permitted by applicable
+law) written waiver by Issuer, on or prior to the Closing Date, of each of the
+following conditions:
+
+ 
+
+3.2.1            Representations and Warranties Correct. The representations and
+warranties made by Subscriber in Section 2.1 hereof shall be true and correct in
+all material respects when made (other than representations and warranties that
+are qualified as to materiality or Subscriber Material Adverse Effect, which
+representations and warranties shall be true and correct in all respects), and
+shall be true and correct in all material respects on and as of the Closing Date
+(unless they specifically speak as of another date in which case they shall be
+true and correct in all material respects as of such date) (other than
+representations and warranties that are qualified as to materiality or
+Subscriber Material Adverse Effect, which representations and warranties shall
+be true in all respects) with the same force and effect as if they had been made
+on and as of said date, but in each case without giving effect to consummation
+of the Transactions.
+
+ 
+
+
+
+Page 11 of 33
+
+ 
+
+ 
+
+3.2.2            Compliance with Covenants. Subscriber shall have performed,
+satisfied and complied in all material respects with the covenants, agreements
+and conditions required by this Subscription Agreement to be performed,
+satisfied or complied with by Subscriber at or prior to the Closing.
+
+ 
+
+3.2.3            Closing of the Transactions. All conditions precedent to the
+Issuer’s obligations to consummate, or cause to be consummated, the Transactions
+set forth in the Merger Agreement shall have been satisfied or waived by the
+party entitled to the benefit thereof under the Merger Agreement (other than
+those conditions that may only be satisfied at the consummation of the
+Transactions, but subject to satisfaction or waiver by such party of such
+conditions as of the consummation of the Transactions), and the Transactions
+will be consummated immediately following the Closing.
+
+ 
+
+3.2.4            Legality. There shall not be in force any order, judgment,
+injunction, decree, writ, stipulation, determination or award, in each case,
+entered by or with any Governmental Authority, statute, rule or regulation
+enjoining or prohibiting the consummation of the Subscription.
+
+ 
+
+3.3            Conditions to Closing of Subscriber.
+
+ 
+
+Subscriber’s obligation to purchase the Shares and the Warrants at the Closing
+is subject to the fulfillment or (to the extent permitted by applicable law)
+written waiver by Subscriber, on or prior to the Closing Date, of each of the
+following conditions:
+
+ 
+
+3.3.1            Representations and Warranties Correct. The representations and
+warranties made by the Issuer in Section 2.2 hereof shall be true and correct in
+all material respects when made (other than representations and warranties that
+are qualified as to materiality or Issuer Material Adverse Effect, which
+representations and warranties shall be true and correct in all respects), and
+shall be true and correct in all material respects on and as of the Closing Date
+(unless they specifically speak as of another date in which case they shall be
+true and correct in all material respects as of such date) (other than
+representations and warranties that are qualified as to materiality or Issuer
+Material Adverse Effect, which representations and warranties shall be true and
+correct in all respects) with the same force and effect as if they had been made
+on and as of said date, but in each case without giving effect to consummation
+of the Transactions; provided, that in the event this condition would otherwise
+fail to be satisfied as a result of a breach of one or more of the
+representations and warranties of the Issuer contained in this Subscription
+Agreement and the facts underlying such breach would also cause a condition to
+Music’s obligations under the Merger Agreement to fail to be satisfied, this
+condition shall nevertheless be deemed satisfied in the event Music waives such
+condition with respect to such breach under the Merger Agreement.
+
+ 
+
+3.3.2            Compliance with Covenants. The Issuer shall have performed,
+satisfied and complied in all material respects with the covenants, agreements
+and conditions required by this Subscription Agreement to be performed,
+satisfied or complied with by the Issuer at or prior to the Closing, except
+where the failure of such performance or compliance would not or would not
+reasonably be expected to prevent, materially delay, or materially impair the
+ability of the Issuer to consummate the Closing.
+
+ 
+
+
+
+Page 12 of 33
+
+ 
+
+ 
+
+3.3.3            Closing of the Transactions. (i) All conditions precedent to
+the consummation of the Transactions set forth in the Merger Agreement shall
+have been satisfied or waived by the party entitled to the benefit thereof under
+the Merger Agreement (other than those conditions that may only be satisfied at
+the consummation of the Transactions, but subject to satisfaction or waiver by
+such party of such conditions as of the consummation of the Transactions),
+(ii) no amendment or modification of the Merger Agreement (as the same exists on
+the date hereof as provided to the Subscriber) shall have occurred that would
+reasonably be expected to materially and adversely affect the economic benefits
+that the Subscriber would reasonably expect to receive under this Agreement
+without having received Subscriber’s prior written consent (not to be
+unreasonably withheld, conditioned or delayed) and (iii) the Transactions will
+be consummated immediately following the Closing.
+
+ 
+
+3.3.4            Legality. There shall not be in force any order, judgment,
+injunction, decree, writ, stipulation, determination or award, in each case,
+entered by or with any governmental authority, statute, rule or regulation
+enjoining or prohibiting the transactions contemplated by this Subscription
+Agreement.
+
+ 
+
+4.            Registration Statement.
+
+ 
+
+4.1            The Issuer agrees that, within 15 Business Days after the
+consummation of the Transactions (the “Filing Date”), the Issuer will file with
+the Commission (at the Issuer’s sole cost and expense) a registration statement
+(the “Registration Statement”) registering the resale of the Shares and the
+Warrant Shares (the “Registrable Securities”), and the Issuer shall use its
+commercially reasonable efforts to have the Registration Statement declared
+effective as soon as practicable after the filing thereof, but no later than the
+earlier of (i) the 75th calendar day (or 135th calendar day if the Commission
+notifies the Issuer that it will “review” the Registration Statement) following
+the Closing and (ii) the 5th Business Day after the date the Issuer is notified
+(orally or in writing, whichever is earlier) by the Commission that the
+Registration Statement will not be “reviewed” or will not be subject to further
+review (such earlier date, the “Effectiveness Date”); provided, however, that
+the Issuer’s obligations to include the Registrable Securities in the
+Registration Statement are contingent upon Subscriber furnishing a completed and
+executed selling shareholders questionnaire in customary form to the Issuer that
+contains the information required by Commission rules for a Registration
+Statement regarding Subscriber, the securities of the Issuer held by Subscriber
+and the intended method of disposition of the Registrable Securities to effect
+the registration of the Registrable Securities, and Subscriber shall execute
+such documents in connection with such registration as the Issuer may reasonably
+request that are customary of a selling stockholder in similar situations,
+including providing that the Issuer shall be entitled to postpone and suspend
+the effectiveness or use of the Registration Statement during any customary
+blackout or similar period or as permitted hereunder. For purposes of
+clarification, any failure by the Issuer to file the Registration Statement by
+the Filing Date or to effect such Registration Statement by the Effectiveness
+Date shall not otherwise relieve the Issuer of its obligations to file or effect
+the Registration Statement as set forth above in this Section 4.
+
+ 
+
+
+
+Page 13 of 33
+
+ 
+
+ 
+
+4.2            In the case of the registration effected by the Issuer pursuant
+to this Subscription Agreement, the Issuer shall, upon reasonable request,
+inform Subscriber as to the status of such registration. At its expense the
+Issuer shall:
+
+ 
+
+4.2.1            except for such times as the Issuer is permitted hereunder to
+suspend the use of the prospectus forming part of a Registration Statement, use
+its commercially reasonable efforts to keep such registration, and any
+qualification, exemption or compliance under state securities laws which the
+Issuer determines to obtain, continuously effective with respect to Subscriber,
+and to keep the applicable Registration Statement or any subsequent shelf
+registration statement free of any material misstatements or omissions, until
+the earlier of the following: (i) Subscriber ceases to hold any Registrable
+Securities and (ii) the date all Registrable Securities held by Subscriber may
+be sold without restriction under Rule 144, including without limitation, any
+volume and manner of sale restrictions which may be applicable to affiliates
+under Rule 144 and without the requirement for the Issuer to be in compliance
+with the current public information required under Rule 144(c)(1) (or
+Rule 144(i)(2), if applicable) ;
+
+ 
+
+4.2.2            advise Subscriber within five (5) Business Days:
+
+ 
+
+(a)      when a Registration Statement or any post-effective amendment thereto
+has become effective;
+
+ 
+
+(b)      of the issuance by the Commission of any stop order suspending the
+effectiveness of any Registration Statement or the initiation of any proceedings
+for such purpose;
+
+ 
+
+(c)      of the receipt by the Issuer of any notification with respect to the
+suspension of the qualification of the Registrable Securities included therein
+for sale in any jurisdiction or the initiation or threatening of any proceeding
+for such purpose; and
+
+ 
+
+(d)      subject to the provisions in this Subscription Agreement, of the
+occurrence of any event that requires the making of any changes in any
+Registration Statement or prospectus so that, as of such date, the statements
+therein are not misleading and do not omit to state a material fact required to
+be stated therein or necessary to make the statements therein (in the case of a
+prospectus, in the light of the circumstances under which they were made) not
+misleading.
+
+ 
+
+Notwithstanding anything to the contrary set forth herein, the Issuer shall not,
+when so advising Subscriber of such events, provide Subscriber with any
+material, nonpublic information regarding the Issuer other than to the extent
+that providing notice to Subscriber of the occurrence of the events listed in
+(a) through (d) above constitutes material, nonpublic information regarding the
+Issuer;
+
+ 
+
+4.2.3            use its commercially reasonable efforts to obtain the
+withdrawal of any order suspending the effectiveness of any Registration
+Statement as soon as reasonably practicable;
+
+ 
+
+
+
+Page 14 of 33
+
+ 
+
+ 
+
+4.2.4            upon the occurrence of any event contemplated in
+Section 4.10.2(d), except for such times as the Issuer is permitted hereunder to
+suspend, and has suspended, the use of a prospectus forming part of a
+Registration Statement, the Issuer shall use its commercially reasonable efforts
+to as soon as reasonably practicable prepare a post-effective amendment to such
+Registration Statement or a supplement to the related prospectus, or file any
+other required document so that, as thereafter delivered to purchasers of the
+Registrable Securities included therein, such prospectus will not include any
+untrue statement of a material fact or omit to state any material fact necessary
+to make the statements therein, in the light of the circumstances under which
+they were made, not misleading; and
+
+ 
+
+4.2.5            use its commercially reasonable efforts to cause all Shares and
+Warrant Shares to be listed on each securities exchange or market, if any, on
+which the Issuer’s Class A common stock is then listed.
+
+ 
+
+4.3            Notwithstanding anything to the contrary in this Subscription
+Agreement, the Issuer shall be entitled to delay or postpone the effectiveness
+of the Registration Statement, and from time to time to require Subscriber not
+to sell under the Registration Statement or to suspend the effectiveness
+thereof, if the filing, effectiveness or continued use of any Registration
+Statement would require the Issuer to make any public disclosure of material
+non-public information, which disclosure, in the good faith determination of the
+board of directors of the Issuer, after consultation with counsel to the Issuer,
+(a) would be required to be made in any Registration Statement in order for the
+applicable Registration Statement not to contain any untrue statement of a
+material fact or omit to state a material fact necessary to make the statements
+contained therein not misleading, (b) would not be required to be made at such
+time if the Registration Statement were not being filed, and (c) the Issuer has
+a bona fide business purpose for not making such information public (each such
+circumstance, a “Suspension Event”); provided, however, that the Issuer may not
+delay or suspend the Registration Statement on more than two occasions or for
+more than sixty (60) consecutive calendar days, or more than one hundred and
+twenty (120) total calendar days, in each case during any twelve-month period.
+Upon receipt of any written notice from the Issuer of the happening of any
+Suspension Event during the period that the Registration Statement is effective
+or if as a result of a Suspension Event the Registration Statement or related
+prospectus contains any untrue statement of a material fact or omits to state
+any material fact required to be stated therein or necessary to make the
+statements therein, in light of the circumstances under which they were made (in
+the case of the prospectus) not misleading, Subscriber agrees that (i) it will
+immediately discontinue offers and sales of the Shares and the Warrants under
+the Registration Statement until Subscriber receives copies of a supplemental or
+amended prospectus (which the Issuer agrees to promptly prepare) that corrects
+the misstatement(s) or omission(s) referred to above and receives notice that
+any post-effective amendment has become effective or unless otherwise notified
+by the Issuer that it may resume such offers and sales, and (ii) it will
+maintain the confidentiality of any information included in such written notice
+delivered by the Issuer except (A) for disclosure to the Subscriber’s employees,
+agents and professional advisers who need to know such information and are
+obligated to keep it confidential, (B) for disclosures to the extent required in
+order to comply with reporting obligations to its limited partners who have
+agreed to keep such information confidential and (C) as required by law. If so
+directed by the Issuer, Subscriber will deliver to the Issuer or, in
+Subscriber’s sole discretion destroy, all copies of the prospectus covering the
+Shares and the shares of Class A common stock underlying the Warrants in
+Subscriber’s possession; provided, however, that this obligation to deliver or
+destroy all copies of the prospectus covering the Shares and the shares of
+Class A common stock underlying the Warrants shall not apply (i) to the extent
+Subscriber is required to retain a copy of such prospectus (a) in order to
+comply with applicable legal, regulatory, self-regulatory or professional
+requirements or (b) in accordance with a bona fide pre-existing document
+retention policy or (ii) to copies stored electronically on archival servers as
+a result of automatic data back-up.
+
+ 
+
+
+
+Page 15 of 33
+
+ 
+
+ 
+
+5.            Termination. This Subscription Agreement shall terminate and be
+void and of no further force and effect, and all rights and obligations of the
+parties hereunder shall terminate without any further liability on the part of
+any party in respect thereof, upon the earlier to occur of (i) such date and
+time as the Merger Agreement is validly terminated in accordance with its terms
+and (ii) upon the mutual written agreement of each of the parties hereto to
+terminate this Subscription Agreement; provided, that nothing herein will
+relieve any party from liability for any willful breach hereof prior to the time
+of termination, and each party will be entitled to any remedies at law or in
+equity to recover losses, liabilities or damages arising from such breach. The
+Issuer shall promptly notify Subscriber of (i) the termination of the Merger
+Agreement promptly after the termination of such agreement, and (ii) any waiver
+by the Issuer of any of the conditions specified in Article X of the Merger
+Agreement.
+
+ 
+
+6.            Miscellaneous.
+
+ 
+
+6.1            Further Assurances. At the Closing, the parties hereto shall
+execute and deliver such additional documents and take such additional actions
+as the parties reasonably may deem to be practical and necessary in order to
+consummate the Subscription as contemplated by this Subscription Agreement.
+
+ 
+
+6.1.1            Subscriber acknowledges that the Issuer, Holdings, Music and
+others will rely on the acknowledgments, understandings, agreements,
+representations and warranties made by Subscriber contained in this Subscription
+Agreement. Prior to the Closing, Subscriber agrees to promptly notify the
+Issuer, Holdings and Music if any of the acknowledgments, understandings,
+agreements, representations and warranties set forth herein are no longer
+accurate in all material respects.
+
+ 
+
+6.1.2            Each of the Issuer, Subscriber, Holdings and Music is entitled
+to rely upon this Subscription Agreement and is irrevocably authorized to
+produce this Subscription Agreement or a copy hereof to any interested party in
+any administrative or legal proceeding or official inquiry with respect to the
+matters covered hereby.
+
+ 
+
+6.1.3            The Issuer may request from Subscriber such additional
+information as the Issuer may deem necessary to evaluate the eligibility of
+Subscriber to acquire the Shares, and Subscriber shall provide such information
+as may be reasonably requested, to the extent within Subscriber’s possession and
+control or otherwise readily available to Subscriber.
+
+ 
+
+
+
+Page 16 of 33
+
+ 
+
+ 
+
+6.1.4            Each of Subscriber and the Issuer shall pay all of its own
+expenses in connection with this Subscription Agreement and the transactions
+contemplated herein.
+
+ 
+
+6.1.5            Each of Subscriber and the Issuer shall take, or cause to be
+taken, all actions and do, or cause to be done, all things necessary, proper or
+advisable to consummate the transactions contemplated by this Subscription
+Agreement on the terms and conditions described therein no later than
+immediately prior to the consummation of the Transactions.
+
+ 
+
+6.2            Notices. Any notice or communication required or permitted
+hereunder shall be in writing and either delivered personally, emailed or sent
+by overnight mail via a reputable overnight carrier, or sent by certified or
+registered mail, postage prepaid, and shall be deemed to be given and received
+(i) when so delivered personally, (ii) when sent, with no mail undeliverable or
+other rejection notice, if sent by email, or (iii) three (3) Business Days after
+the date of mailing to the address below or to such other address or addresses
+as such person may hereafter designate by notice given hereunder:
+
+ 
+
+(i)             if to Subscriber, to such address or addresses set forth on the
+signature page hereto;
+
+ 
+
+(ii)            if to the Issuer, to:
+
+ 
+
+Churchill Capital Corp. III
+
+640 Fifth Avenue, 12th Floor
+
+New York, NY 10019
+
+Attention:       Michael S. Klein
+
+Telephone:     212-380-7775
+
+Email:               Michael.klein@mkleinandcompany.com
+
+ 
+
+with a required copy (which copy shall not constitute notice) to:
+
+ 
+
+Weil, Gotshal & Manges LLP
+
+767 Fifth Avenue
+
+New York, NY 10153
+
+Attention: Michael J. Aiello and Matthew Gilroy
+
+Email: michael.aiello@weil.com and matthew.gilroy@weil.com
+
+ 
+
+(iii)            if to Music, to:
+
+ 
+
+c/o MultiPlan, Inc.
+
+115 Fifth Avenue
+
+New York, NY 10003
+
+Attention: Mark Tabak and David Redmond
+
+Email: mtabak@multiplan.com and david.redmond@multiplan.com
+
+ 
+
+with a required copy (which copy shall not constitute notice) to:
+
+ 
+
+
+
+Page 17 of 33
+
+ 
+
+ 
+
+c/o Hellman & Friedman
+
+415 Mission Street
+
+Suite 5700
+
+San Francisco, CA 94105
+
+Attn: Arrie Park
+
+Email: apark@hf.com
+
+ 
+
+and
+
+ 
+
+Kirkland & Ellis LLP
+
+300 N. LaSalle
+
+Chicago, IL 60654
+
+Attention: Richard J. Campbell, P.C., Jon-Micheal A. Wheat, P.C. and Emma E.
+Lange-Novak
+
+Email:  rcampbell@kirkland.com, jwheat@kirkland.com and
+emma.lange-novak@kirkland.com
+
+ 
+
+(iv)            if to Holdings, to:
+
+ 
+
+c/o Hellman & Friedman
+
+415 Mission Street
+
+Suite 5700
+
+San Francisco, CA 94105
+
+Attn: Arrie Park
+
+Email: apark@hf.com
+
+ 
+
+and
+
+ 
+
+Kirkland & Ellis LLP
+
+300 N. LaSalle
+
+Chicago, IL 60654
+
+Attention: Richard J. Campbell, P.C., Jon-Micheal A. Wheat, P.C. and Emma E.
+Lange-Novak
+
+Email:  rcampbell@kirkland.com, jwheat@kirkland.com and
+emma.lange-novak@kirkland.com
+
+ 
+
+6.3            Entire Agreement. This Subscription Agreement constitutes the
+entire agreement, and supersedes all other prior agreements, understandings,
+representations and warranties, both written and oral, among the parties, with
+respect to the subject matter hereof, including any commitment letter entered
+into relating to the subject matter hereof.
+
+ 
+
+6.4            Modifications and Amendments. This Subscription Agreement may not
+be amended, modified, supplemented or waived (i) except by an instrument in
+writing, signed by the party against whom enforcement of such amendment,
+modification, supplement or waiver is sought and (ii) without the prior written
+consent of Holdings and Music; provided that any rights (but not obligations) of
+a party under this Agreement may be waived, in whole or in part, by such party
+on its own behalf without the prior consent of any other party.
+
+ 
+
+
+
+Page 18 of 33
+
+ 
+
+ 
+
+ 
+
+6.5            Assignment. Neither this Subscription Agreement nor any rights,
+interests or obligations that may accrue to the parties hereunder (including
+Subscriber’s rights to purchase the Shares) may be transferred or assigned
+without the prior written consent of each of the other parties hereto (other
+than the Shares and Warrants acquired hereunder, if any, and then only in
+accordance with this Subscription Agreement); provided that Subscriber’s rights
+and obligations hereunder may be assigned to any fund or account managed by the
+same investment manager as Subscriber, without the prior consent of the Issuer,
+provided that such assignee(s) agrees in writing to be bound by the terms
+hereof, and upon such assignment by a Subscriber, the assignee(s) shall become
+Subscriber hereunder and have the rights and obligations and be deemed to make
+the representations and warrants of Subscriber provided for herein to the extent
+of such assignment; provided further that, no assignment shall relieve the
+assigning party of any of its obligations hereunder, including any assignment to
+any fund or account managed by the same investment manager as Subscriber.
+
+ 
+
+
+
+6.6            Benefit.
+
+ 
+
+6.6.1            Except as otherwise provided herein, this Subscription
+Agreement shall be binding upon, and inure to the benefit of the parties hereto
+and their heirs, executors, administrators, successors, legal representatives,
+and permitted assigns, and the agreements, representations, warranties,
+covenants and acknowledgments contained herein shall be deemed to be made by,
+and be binding upon, such heirs, executors, administrators, successors, legal
+representatives and permitted assigns. This Subscription Agreement shall not
+confer rights or remedies upon any person other than the parties hereto and
+their respective successors and assigns.
+
+ 
+
+6.6.2            Each of the Issuer and Subscriber acknowledges and agrees that
+(a) this Subscription Agreement is being entered into in order to induce each of
+Holdings and Music to execute and deliver the Merger Agreement and without the
+representations, warranties, covenants and agreements of the Issuer and
+Subscriber hereunder, each of Holdings and Music would not enter into the Merger
+Agreement, (b) each representation, warranty, covenant and agreement of the
+Issuer and Subscriber hereunder is being made also for the benefit of Holdings
+and Music, and (c) each of Holdings and Music may directly enforce (including by
+an action for specific performance, injunctive relief or other equitable relief)
+each of the covenants and agreements of each of the Issuer and Subscriber under
+this Subscription Agreement.
+
+ 
+
+6.6.3            Each party hereto agrees that the Holdings Equityholders are
+third party beneficiaries of this Agreement and each Holdings Equityholder may
+directly enforce (including by an action for specific performance, injunctive
+relief or other equitable relief) each of the covenants and agreements of
+Subscriber under this Agreement, as amended, modified, supplemented or waived in
+accordance with Section 6.4.
+
+ 
+
+6.7            Governing Law. This Subscription Agreement, and any claim or
+cause of action hereunder based upon, arising out of or related to this
+Subscription Agreement (whether based on law, in equity, in contract, in tort or
+any other theory) or the negotiation, execution, performance or enforcement of
+this Subscription Agreement, shall be governed by and construed in accordance
+with the Laws of the State of Delaware, without giving effect to the principles
+of conflicts of law thereof.
+
+ 
+
+
+
+Page 19 of 33
+
+ 
+
+ 
+
+
+
+6.8            Consent to Jurisdiction; Waiver of Jury Trial. Each of the
+parties irrevocably consents to the exclusive jurisdiction and venue of the
+Court of Chancery of the State of Delaware, provided, that if subject matter
+jurisdiction over the matter that is the subject of the legal proceeding is
+vested exclusively in the U.S. federal courts, such legal proceeding shall be
+heard in the U.S. District Court for the District of Delaware (together with the
+Court of Chancery of the State of Delaware “Chosen Courts”), in connection with
+any matter based upon or arising out of this Subscription Agreement. Each party
+hereby waives, and shall not assert as a defense in any legal dispute, that
+(i) such person is not personally subject to the jurisdiction of the Chosen
+Courts for any reason, (ii) such legal proceeding may not be brought or is not
+maintainable in the Chosen Courts, (iii) such person’s property is exempt or
+immune from execution, (iv) such legal proceeding is brought in an inconvenient
+forum or (v) the venue of such legal proceeding is improper. Each Party hereby
+consents to service of process in any such proceeding in any manner permitted by
+Delaware law, further consents to service of process by nationally recognized
+overnight courier service guaranteeing overnight delivery, or by registered or
+certified mail, return receipt requested, at its address specified pursuant to
+Section 6.2 and waives and covenants not to assert or plead any objection which
+they might otherwise have to such manner of service of process. Notwithstanding
+the foregoing in this Section 6.8, a party may commence any action, claim, cause
+of action or suit in a court other than the Chosen Courts solely for the purpose
+of enforcing an order or judgment issued by the Chosen Courts. TO THE EXTENT NOT
+PROHIBITED BY APPLICABLE LAW WHICH CANNOT BE WAIVED, EACH OF THE PARTIES WAIVES
+ANY RIGHT TO TRIAL BY JURY ON ANY CLAIMS OR COUNTERCLAIMS ASSERTED IN ANY LEGAL
+DISPUTE RELATING TO THIS SUBSCRIPTION AGREEMENT WHETHER NOW EXISTING OR
+HEREAFTER ARISING. IF THE SUBJECT MATTER OF ANY SUCH LEGAL DISPUTE IS ONE IN
+WHICH THE WAIVER OF JURY TRIAL IS PROHIBITED, NO PARTY SHALL ASSERT IN SUCH
+LEGAL DISPUTE A NONCOMPULSORY COUNTERCLAIM ARISING OUT OF OR RELATING TO THIS
+SUBSCRIPTION AGREEMENT. FURTHERMORE, NO PARTY SHALL SEEK TO CONSOLIDATE ANY SUCH
+LEGAL DISPUTE WITH A SEPARATE ACTION OR OTHER LEGAL PROCEEDING IN WHICH A JURY
+TRIAL CANNOT BE WAIVED.
+
+ 
+
+6.9            Severability. If any provision of this Subscription Agreement
+shall be invalid, illegal or unenforceable, the validity, legality or
+enforceability of the remaining provisions of this Subscription Agreement shall
+not in any way be affected or impaired thereby and shall continue in full force
+and effect.
+
+ 
+
+6.10          No Waiver of Rights, Powers and Remedies. No failure or delay by a
+party hereto in exercising any right, power or remedy under this Subscription
+Agreement, and no course of dealing between the parties hereto, shall operate as
+a waiver of any such right, power or remedy of such party. No single or partial
+exercise of any right, power or remedy under this Subscription Agreement by a
+party hereto, nor any abandonment or discontinuance of steps to enforce any such
+right, power or remedy, shall preclude such party from any other or further
+exercise thereof or the exercise of any other right, power or remedy hereunder.
+The election of any remedy by a party hereto shall not constitute a waiver of
+the right of such party to pursue other available remedies. No notice to or
+demand on a party not expressly required under this Subscription Agreement shall
+entitle the party receiving such notice or demand to any other or further notice
+or demand in similar or other circumstances or constitute a waiver of the rights
+of the party giving such notice or demand to any other or further action in any
+circumstances without such notice or demand.
+
+ 
+
+
+
+Page 20 of 33
+
+ 
+
+ 
+
+
+
+6.11          Remedies.
+
+ 
+
+6.11.1          The parties agree that the irreparable damage would occur if
+this Subscription Agreement was not performed or the Closing is not consummated
+in accordance with its specific terms or was otherwise breached and that money
+damages or other legal remedies would not be an adequate remedy for any such
+damage. It is accordingly agreed that the parties hereto shall be entitled to
+equitable relief, including in the form of an injunction or injunctions, to
+prevent breaches or threatened breaches of this Subscription Agreement and to
+enforce specifically the terms and provisions of this Subscription Agreement in
+an appropriate court of competent jurisdiction as set forth in Section 6.8, this
+being in addition to any other remedy to which any party is entitled at law or
+in equity, including money damages.  The right to specific enforcement shall
+include the right of the parties hereto to cause to cause the other parties
+hereto to cause the transactions contemplated hereby to be consummated on the
+terms and subject to the conditions and limitations set forth in this
+Subscription Agreement. The parties hereto further agree (i) to waive any
+requirement for the security or posting of any bond in connection with any such
+equitable remedy, (ii) not to assert that a remedy of specific enforcement
+pursuant to this Section 6.11 is unenforceable, invalid, contrary to applicable
+law or inequitable for any reason and (iii) to waive any defenses in any action
+for specific performance, including the defense that a remedy at law would be
+adequate.  In connection with any Action for which Holdings or Music is being
+granted an award of money damages, each of the Issuer and Subscriber agrees that
+such damages, to the extent payable by such party, shall include, without
+limitation, damages related to the cash consideration that is or was to be paid
+to Holdings or its equityholders under the Merger Agreement and/or Subscription
+Agreement and such damages are not limited to an award of out-of-pocket fees and
+expenses related to the Merger Agreement and Subscription Agreement.
+
+ 
+
+6.11.2          The parties acknowledge and agree that this Section 6.11 is an
+integral part of the transactions contemplated hereby and without that right,
+the parties hereto would not have entered into this Subscription Agreement.
+
+ 
+
+
+
+Page 21 of 33
+
+ 
+
+ 
+
+6.11.3          If the Closing does not occur prior to the consummation of the
+Transactions due to a breach by Subscriber of any of its obligations hereunder,
+then Holdings or one or more of the Holdings Equityholders (as defined below)
+shall have the right (exercisable by written notice to Subscriber (the “Demand
+Notice”) on or before the date that is thirty (30) days after the consummation
+of the Transactions and as a non-exclusive remedy for any such breach and in
+addition to and without in any limiting or amending the provisions of
+Section 6.11.1) to cause Subscriber to purchase from Holdings (or its
+assignee(s) or designee(s), including the Holdings Equityholders) all or a
+portion of the number of Subscribed Shares that Subscriber failed to purchase at
+the Closing (the “Subject Shares”) for a purchase price of $10 per Subject
+Share. At any time and from time to time as of, from and after the consummation
+of the Transactions under the Merger Agreement, Holdings may designate one or
+more of its direct or indirect equityholders that are transferees of the
+Acquiror Shares from Holdings that were held by Holdings as of the consummation
+of the Transactions (the “Holdings Equityholders”) as sellers of the Subject
+Shares on a pro rata basis based upon such equityholders’ ownership of Holdings
+as of immediately prior to the consummation of the Transactions. The
+consummation of such purchase and sale shall take place on a date fixed by
+Holdings or the Holdings Equityholders, as applicable, in the Demand Notice,
+which date shall be not sooner than ten (10) Business Days after the date of
+Subscriber’s receipt of the Demand Notice. Holdings and each Holdings
+Equityholder, as applicable, shall be entitled to receive customary
+representations and warranties from Subscriber regarding such purchase and sale,
+and Subscriber agrees to execute and deliver all customary purchase
+documentation as Holdings or such Holdings Equityholder may reasonably request.
+Each such Subscriber and the Issuer shall (and shall cause their and their
+respective affiliates’ directors, officers, employees, partners, agents and
+representatives to) promptly (but in no event later than ten (10) Business Days)
+following Subscriber’s receipt of the Demand Notice make all governmental
+filings and obtain all governmental consents and approvals that are required to
+be made or obtained prior to the consummation of such purchase and sale,
+including compliance with the notification and reporting requirements of the HSR
+Act in respect of such purchase and sale. Without limiting the generality of the
+foregoing, each of Subscriber and the Issuer shall (and shall cause their and
+their respective affiliates’ directors, officers, employees, partners, agents
+and representatives to) undertake promptly any and all action required to
+complete lawfully the transactions contemplated by this Section 6.11.3 as soon
+as practicable and any and all action necessary or advisable to avoid, prevent,
+eliminate or remove the actual or threatened commencement of any proceeding in
+any forum by or on behalf of any Governmental Authority or the issuance of any
+Governmental Order that would delay, enjoin, prevent, restrain or otherwise
+prohibit the consummation of the transactions contemplated by this
+Section 6.11.3, including (i) proffering and consenting and/or agreeing to a
+Governmental Order or other agreement providing for (A) the sale, licensing or
+other disposition, or the holding separate, of particular assets, categories of
+assets or lines of business of Subscriber or (B) the termination, amendment or
+assignment of existing relationships and contractual rights and obligations of
+Subscriber and (ii) promptly effecting the disposition, licensing or holding
+separate of assets or lines of business or the termination, amendment or
+assignment of existing relationships and contractual rights, in each case, at
+such time as may be necessary to permit the lawful consummation of the
+transactions contemplated hereby as promptly as practicable.
+
+ 
+
+
+
+6.11.4          In any dispute arising out of or related to this Subscription
+Agreement, or any other agreement, document, instrument or certificate
+contemplated hereby, or any transactions contemplated hereby or thereby, the
+applicable adjudicating body shall award to the prevailing party, if any, the
+costs and attorneys’ fees reasonably incurred by the prevailing party in
+connection with the dispute and the enforcement of its rights under this
+Subscription Agreement or any other agreement, document, instrument or
+certificate contemplated hereby and, if the adjudicating body determines a party
+to be the prevailing party under circumstances where the prevailing party won on
+some but not all of the claims and counterclaims, the adjudicating body may
+award the prevailing party an appropriate percentage of the costs and attorneys’
+fees reasonably incurred by the prevailing party in connection with the
+adjudication and the enforcement of its rights under this Subscription Agreement
+or any other agreement, document, instrument or certificate contemplated hereby
+or thereby.
+
+ 
+
+
+
+Page 22 of 33
+
+ 
+
+ 
+
+
+
+6.12          Survival of Representations and Warranties. All representations
+and warranties made by the parties hereto in this Subscription Agreement shall
+survive the Closing. For the avoidance of doubt, if for any reason the Closing
+does not occur prior to the consummation of the Transactions, all
+representations, warranties, covenants and agreements of the parties hereunder
+shall survive the consummation of the Transactions and remain in full force and
+effect.
+
+ 
+
+6.13          No Broker or Finder. Each of the Issuer and Subscriber agrees to
+indemnify and hold the other parties hereto harmless from any claim or demand
+for commission or other compensation by any broker, finder, financial consultant
+or similar agent claiming to have been employed by or on behalf of such party
+and to bear the cost of legal expenses incurred in defending against any such
+claim.
+
+ 
+
+6.14          Headings and Captions. The headings and captions of the various
+subdivisions of this Subscription Agreement are for convenience of reference
+only and shall in no way modify or affect the meaning or construction of any of
+the terms or provisions hereof.
+
+ 
+
+6.15          Counterparts. This Subscription Agreement may be executed in one
+or more counterparts, all of which when taken together shall be considered one
+and the same agreement and shall become effective when counterparts have been
+signed by each party and delivered to the other parties, it being understood
+that the parties need not sign the same counterpart. In the event that any
+signature is delivered by facsimile transmission or any other form of electronic
+delivery, such signature shall create a valid and binding obligation of the
+party executing (or on whose behalf such signature is executed) with the same
+force and effect as if such signature page were an original thereof.
+
+ 
+
+6.16          Construction. The words “include,” “includes,” and “including”
+will be deemed to be followed by “without limitation.” Pronouns in masculine,
+feminine, and neuter genders will be construed to include any other gender, and
+words in the singular form will be construed to include the plural and vice
+versa, unless the context otherwise requires. The words “this Subscription
+Agreement,” “herein,” “hereof,” “hereby,” “hereunder,” and words of similar
+import refer to this Subscription Agreement as a whole and not to any particular
+subdivision unless expressly so limited. The parties hereto intend that each
+representation, warranty, and covenant contained herein will have independent
+significance. If any party hereto has breached any representation, warranty, or
+covenant contained herein in any respect, the fact that there exists another
+representation, warranty or covenant relating to the same subject matter
+(regardless of the relative levels of specificity) which such party hereto has
+not breached will not detract from or mitigate the fact that such party hereto
+is in breach of the first representation, warranty, or covenant. All references
+in this Subscription Agreement to numbers of shares, per share amounts and
+purchase prices shall be appropriately adjusted to reflect any stock split,
+stock dividend, stock combination, recapitalization or the like occurring after
+the date hereof.
+
+ 
+
+
+
+Page 23 of 33
+
+ 
+
+ 
+
+6.17          Mutual Drafting. This Subscription Agreement is the joint product
+of the parties hereto and each provision hereof has been subject to the mutual
+consultation, negotiation and agreement of the parties and shall not be
+construed for or against any party hereto.
+
+ 
+
+
+
+7.            Cleansing Statement; Disclosure.
+
+ 
+
+7.1            The Issuer shall, by 9:00 a.m., New York City time, on the first
+(1st) Business Day immediately following the date of this Subscription
+Agreement, issue one or more press releases or file with the Commission a
+Current Report on Form 8-K (collectively, the “Disclosure Document”) disclosing
+all material terms of the transactions contemplated hereby and by the Other
+Subscription Agreements, the Convert Subscription Agreements and the
+Transactions.
+
+ 
+
+7.2            Subscriber hereby consents to the publication and disclosure in
+(x) any Form 8-K filed by the Issuer with the Commission in connection with the
+execution and delivery of the Merger Agreement, the Proxy Statement or any other
+filing with the Commission pursuant to applicable securities laws, in each case,
+as and to the extent required by the federal securities laws or the Commission
+or any other securities authorities, and (y) any other documents or
+communications provided by the Issuer, Holdings or Music to any Governmental
+Authority or to securityholders of the Issuer, in each case, as and to the
+extent required by applicable law or the Commission or any other Governmental
+Authority, of Subscriber’s name and identity and the nature of Subscriber’s
+commitments, arrangements and understandings under and relating to this
+Subscription Agreement and, if deemed required or appropriate by the Issuer,
+Holdings or Music, a copy of this Subscription Agreement. Other than as set
+forth in the immediately preceding sentence, without Subscriber’s prior written
+consent, each of the Issuer, Holdings or Music will not use or disclose the name
+of Subscriber or any information relating to Subscriber or this Subscription
+Agreement, other than to the Issuer’s, Holdings’ or Music’s lawyers, independent
+accountants and to other advisors and service providers who reasonably require
+such information in connection with the provision of services to such person,
+are advised of the confidential nature of such information and are obligated to
+keep such information confidential. Without Subscriber’s prior written
+consent, Issuer, Holdings and Music shall not use Subscriber’s name in any press
+release issued in connection with the Transactions. Subscriber will promptly
+provide any information reasonably requested by the Issuer, Holdings or Music
+for any regulatory application or filing made or approval sought in connection
+with the Transactions (including filings with the Commission).
+
+ 
+
+8.            Trust Account Waiver. In addition to the waiver of Music pursuant
+to Section 6.04 of the Merger Agreement, and notwithstanding anything to the
+contrary set forth herein, each of Holdings, Music and Subscriber acknowledges
+that the Issuer has established a trust account containing the proceeds of its
+initial public offering and from certain private placements (collectively, with
+interest accrued from time to time thereon, the “Trust Account”). Each of
+Holdings, Music and Subscriber agrees that (i) it has no right, title, interest
+or claim of any kind in or to any monies held in the Trust Account, and (ii) it
+shall have no right of set-off or any right, title, interest or claim of any
+kind (“Claim”) to, or to any monies in, the Trust Account, in each case in
+connection with this Subscription Agreement, and hereby irrevocably waives any
+Claim to, or to any monies in, the Trust Account that it may have in connection
+with this Subscription Agreement; provided, however, that nothing in this
+Section 8 shall be deemed to limit Subscriber’s right, title, interest or claim
+to the Trust Account by virtue of such Subscriber’s record or beneficial
+ownership of securities of the Issuer acquired by any means other than pursuant
+to this Subscription Agreement, including, but not limited to, any redemption
+right with respect to any such securities of the Issuer. In the event Holdings,
+Music or Subscriber has any Claim against the Issuer under this Subscription
+Agreement, each of Holdings, Music or Subscriber shall pursue such Claim solely
+against the Issuer and its assets outside the Trust Account and not against the
+property or any monies in the Trust Account. Each of Holdings, Music and
+Subscriber agrees and acknowledges that such waiver is material to this
+Subscription Agreement and has been specifically relied upon by the Issuer to
+induce the Issuer to enter into this Subscription Agreement and each of
+Holdings, Music and Subscriber further intends and understands such waiver to be
+valid, binding and enforceable under applicable law. In the event Holdings,
+Music or Subscriber, in connection with this Subscription Agreement, commences
+any action or proceeding which seeks, in whole or in part, relief against the
+funds held in the Trust Account or distributions therefrom or any of the
+Issuer’s stockholders, whether in the form of monetary damages or injunctive
+relief, Holdings, Music or Subscriber, as applicable, shall be obligated to pay
+to the Issuer all of its legal fees and costs in connection with any such action
+in the event that the Issuer prevails in such action or proceeding.
+
+ 
+
+
+
+Page 24 of 33
+
+ 
+
+ 
+
+
+
+9.            Non-Reliance. Subscriber acknowledges that it is not relying upon,
+and has not relied upon, any statement, representation or warranty made by any
+person, firm or corporation (including, without limitation, Holdings, Music, any
+of their respective affiliates or any of its or their respective control
+persons, officers, directors or employees), other than the representations and
+warranties of the Issuer expressly set forth in this Subscription Agreement, in
+making its investment or decision to invest in the Issuer. Subscriber agrees
+that neither (i) any other Subscriber pursuant to this Subscription Agreement or
+any other agreement related to the private placement of shares of the Issuer’s
+capital stock (including the controlling persons, officers, directors, partners,
+agents or employees of any such Subscriber) nor (ii) Holdings or Music, their
+respective affiliates or any of their or their respective affiliates’ control
+persons, officers, directors, partners, agents or employees, shall be liable to
+any other Subscriber pursuant to this Subscription Agreement or any other
+agreement related to the private placement of shares of the Issuer’s capital
+stock for any action heretofore or hereafter taken or omitted to be taken by any
+of them in connection with the purchase of the Shares hereunder.
+
+ 
+
+10.          Rule 144. From and after such time as the benefits of Rule 144
+promulgated under the Securities Act or any other similar rule or regulation of
+the Commission that may allow Subscriber to sell securities of the Issuer to the
+public without registration are available to holders of the Issuer’s common
+stock and until the third anniversary of the Closing Date, the Issuer agrees to:
+
+ 
+
+10.1.1            make and keep public information available, as those terms are
+understood and defined in Rule 144;
+
+ 
+
+10.1.2            file with the Commission in a timely manner all reports and
+other documents required of the Issuer under the Securities Act and the Exchange
+Act so long as the Issuer remains subject to such requirements and the filing of
+such reports and other documents is required for the applicable provisions of
+Rule 144; and
+
+ 
+
+
+
+Page 25 of 33
+
+ 
+
+ 
+
+10.1.3            furnish to Subscriber, promptly upon request, (x) a written
+statement by the Issuer, if true, that it has complied with the reporting
+requirements of Rule 144, the Securities Act and the Exchange Act, (y) a copy of
+the most recent annual or quarterly report of the Issuer and such other reports
+and documents so filed by the Issuer and (z) such other information as may be
+reasonably requested to permit Subscriber to sell such securities pursuant to
+Rule 144 without registration.
+
+ 
+
+
+
+If the Shares, the Warrants and/or the Warrant Shares are eligible to be sold
+without restriction under, and without the Issuer being in compliance with the
+current public information requirements of, Rule 144 under the Securities Act,
+then at Subscriber’s request, the Issuer will cause its transfer agent to remove
+the legend set forth in Section 2.1.5. In connection therewith, if required by
+the Issuer’s transfer agent, the Issuer will promptly cause an opinion of
+counsel to be delivered to and maintained with its transfer agent, together with
+any other authorizations, certificates and directions required by the transfer
+agent that authorize and direct the transfer agent to issue such Shares and the
+Warrants without any such legend; provided, that, notwithstanding the
+foregoing, Issuer will not be required to deliver any such opinion,
+authorization, certificate or direction if it reasonably believes that removal
+of the legend could result in or facilitate transfers of securities in violation
+of applicable law.
+
+ 
+
+[Signature Page Follows]
+
+ 
+
+Page 26 of 33
+
+ 
+
+ 
+
+IN WITNESS WHEREOF, each of the Issuer, Holdings, Music and Subscriber has
+executed or caused this Subscription Agreement to be executed by its duly
+authorized representative as of the date set forth below.
+
+ 
+
+  CHURCHILL CAPITAL CORP III             By:               Name:     Title:    
+          POLARIS INVESTMENT HOLDINGS, L.P.               By:     Name:    
+Title:           polaris parent corp.             By:     Name:     Title:  
+
+ 
+
+
+
+ 
+
+ 
+
+
+
+Accepted and agreed this [●] day of [●], 2020.             SUBSCRIBER:        
+Signature of Subscriber:   Signature of Joint Subscriber, if applicable:      
+By:           By:          Name:   Name: Title:   Title:      
+
+ 
+
+
+
+Date:     [●], 2020           Name of Subscriber:     Name of Joint Subscriber,
+if applicable:             (Please print. Please indicate name and capacity of
+person signing above)   (Please Print. Please indicate name and capacity of
+person signing above)                   Name in which securities are to be
+registered (if different from the name of Subscriber listed directly above):    
+      Email Address:                 If there are joint investors, please check
+one:           ¨  Joint Tenants with Rights of Survivorship          
+¨ Tenants-in-Common           ¨  Community Property          
+
+ 
+
+Subscriber’s EIN:     Joint Subscriber’s EIN:                   Business
+Address-Street:   Mailing Address-Street (if different):                        
+
+ 
+
+
+
+
+
+ 
+
+ 
+
+
+
+City, State, Zip:   City, State, Zip:       Attn:   Attn:       Telephone No.:  
+  Telephone No.:             Facsimile No.:     Facsimile No.:                  
+   
+
+ 
+
+Aggregate Number of Subscribed Shares subscribed for:               Aggregate
+Number of Incentive Shares to be issued:               Aggregate Number of
+Warrants (which shall be 1/20th of the number of Subscribed Shares listed above)
+subscribed for:      
+
+ 
+
+Aggregate Purchase Price: $ ._______________
+
+ 
+
+You must pay the Purchase Price by wire transfer of U.S. dollars in immediately
+available funds, to be held in escrow until the Closing, to the account
+specified by the Issuer in the Closing Notice.
+
+ 
+
+
+
+ 
+
+
+
+ 
+
+SCHEDULE I
+ELIGIBILITY REPRESENTATIONS OF SUBSCRIBER
+
+ 
+
+A.QUALIFIED INSTITUTIONAL BUYER STATUS
+(Please check the applicable subparagraphs):
+
+ 
+
+1.¨ We are a “qualified institutional buyer” (as defined in Rule 144A under the
+Securities Act of 1933, as amended (the “Securities Act”) (a “QIB”)).
+
+ 
+
+2.¨ We are subscribing for the Shares as a fiduciary or agent for one or more
+investor accounts, and each owner of such account is a QIB.
+
+ 
+
+*** OR ***
+
+ 
+
+B.INSTITUTIONAL ACCREDITED INVESTOR STATUS (Please check the applicable
+subparagraphs):
+
+ 
+
+1.¨ We are an “accredited investor” (within the meaning of Rule 501(a) under the
+Securities Act) or an entity in which all of the equity holders are accredited
+investors within the meaning of Rule 501(a) under the Securities Act, and have
+marked and initialed the appropriate box on the following page indicating the
+provision under which we qualify as an “accredited investor.”
+
+ 
+
+2.¨ We are not a natural person.
+
+ 
+
+*** AND ***
+
+ 
+
+C.AFFILIATE STATUS
+(Please check the applicable box) SUBSCRIBER:
+
+ 
+
+¨is:
+
+ 
+
+¨is not:
+
+ 
+
+an “affiliate” (as defined in Rule 144 under the Securities Act) of the Issuer
+or acting on behalf of an affiliate of the Issuer.
+
+ 
+
+This page should be completed by Subscriber
+and constitutes a part of the Subscription Agreement.
+
+ 
+
+
+
+ 
+
+ 
+
+Rule 501(a) under the Securities Act, in relevant part, states that an
+“accredited investor” shall mean any person who comes within any of the below
+listed categories, or who the issuer reasonably believes comes within any of the
+below listed categories, at the time of the sale of the securities to that
+person. Subscriber has indicated, by marking and initialing the appropriate box
+below, the provision(s) below which apply to Subscriber and under which
+Subscriber accordingly qualifies as an “accredited investor.”
+
+ 
+
+¨ Any bank as defined in section 3(a)(2) of the Securities Act, or any savings
+and loan association or other institution as defined in section 3(a)(5)(A) of
+the Securities Act whether acting in its individual or fiduciary capacity;
+
+ 
+
+¨ Any broker or dealer registered pursuant to section 15 of the Securities
+Exchange Act of 1934, as amended;
+
+ 
+
+¨ Any insurance company as defined in section 2(a)(13) of the Securities Act;
+
+ 
+
+¨ Any investment company registered under the Investment Company Act of 1940, as
+amended (the “Investment Company Act”) or a business development company as
+defined in section 2(a)(48) of the Investment Company Act;
+
+ 
+
+¨ Any Small Business Investment Company licensed by the U.S. Small Business
+Administration under section 301(c) or (d) of the Small Business Investment Act
+of 1958, as amended;
+
+ 
+
+¨ Any plan established and maintained by a state, its political subdivisions, or
+any agency or instrumentality of a state or its political subdivisions, for the
+benefit of its employees, if such plan has total assets in excess of $5,000,000;
+
+ 
+
+¨ Any employee benefit plan within the meaning of the Employee Retirement Income
+Security Act of 1974, as amended (“ERISA”), if (i) the investment decision is
+made by a plan fiduciary, as defined in section 3(21) of ERISA, which is either
+a bank, a savings and loan association, an insurance company, or a registered
+investment adviser, (ii) the employee benefit plan has total assets in excess of
+$5,000,000 or, (iii) such plan is a self-directed plan, with investment
+decisions made solely by persons that are “accredited investors”;
+
+ 
+
+¨ Any private business development company as defined in section 202(a)(22) of
+the Investment Advisers Act of 1940, as amended;
+
+ 
+
+¨ Any (i) corporation, limited liability company or partnership,
+(ii) Massachusetts or similar business trust, or (iii) organization described in
+section 501(c)(3) of the Internal Revenue Code of 1986, as amended, not formed
+for the specific purpose of acquiring the securities offered, and with total
+assets in excess of $5,000,000;
+
+ 
+
+¨ Any director, executive officer, or general partner of the issuer of the
+securities being offered or sold, or any director, executive officer, or general
+partner of a general partner of that issuer;
+
+ 
+
+
+
+
+
+ 
+
+
+
+ 
+
+¨ Any natural person whose individual net worth, or joint net worth with that
+person’s spouse, exceeds $1,000,000. For purposes of calculating a natural
+person’s net worth: (a) the person’s primary residence shall not be included as
+an asset; (b) indebtedness that is secured by the person’s primary residence, up
+to the estimated fair market value of the primary residence at the time of the
+sale of securities, shall not be included as a liability (except that if the
+amount of such indebtedness outstanding at the time of sale of securities
+exceeds the amount outstanding 60 days before such time, other than as a result
+of the acquisition of the primary residence, the amount of such excess shall be
+included as a liability); and (c) indebtedness that is secured by the person’s
+primary residence in excess of the estimated fair market value of the primary
+residence at the time of the sale of securities shall be included as a
+liability;
+
+ 
+
+¨ Any natural person who had an individual income in excess of $200,000 in each
+of the two most recent years or joint income with that person’s spouse in excess
+of $300,000 in each of those years and has a reasonable expectation of reaching
+the same income level in the current year;
+
+ 
+
+¨ Any trust, with total assets in excess of $5,000,000, not formed for the
+specific purpose of acquiring the securities offered, whose purchase is directed
+by a sophisticated person as described in Section 230.506(b)(2)(ii) of
+Regulation D; or
+
+ 
+
+¨ Any entity in which all of the equity owners are “accredited investors.”
+
+ 
+
+
+
+ 
+
+ 
+
+ 
+
+Exhibit A
+
+ 
+
+Form of Warrant Agreement
+
+ 
+
+(see attached)
+
+ 
+
+
+
+ 
+
+ 
+
+ 
+
+CHURCHILL CAPITAL CORP III
+
+ 
+
+and
+
+ 
+
+CONTINENTAL STOCK TRANSFER & TRUST COMPANY
+
+ 
+
+WARRANT AGREEMENT
+
+ 
+
+Dated as of [•], 2020
+
+ 
+
+THIS WARRANT AGREEMENT (this “Agreement”), dated as of [•], 2020, is by and
+between Churchill Capital Corp III, a Delaware corporation (the “Company”), and
+Continental Stock Transfer & Trust Company, a New York corporation, as warrant
+agent (the “Warrant Agent”).
+
+ 
+
+WHEREAS, the Company and the other parties named therein entered into that
+certain Agreement and Plan of Merger, dated as of [•], 2020 (the “Merger
+Agreement”), pursuant to which, inter alia, a direct, wholly owned subsidiary of
+the Company will be merged with and into Polaris Parent Corp., a Delaware
+corporation (“Music”), with Music surviving as a wholly owned subsidiary of the
+Company, and immediately thereafter Music will be merged with and into another
+direct, wholly owned subsidiary of Music, with such subsidiary surviving as a
+wholly owned subsidiary of the Issuer (together, the “Mergers”), on the terms
+and subject to the conditions set forth therein (the Mergers, together with the
+other transactions contemplated by the Merger Agreement, the “Transactions”);
+
+ 
+
+WHEREAS, in connection with and as of the consummation of the Transactions, the
+Company shall issue to certain investors pursuant to a private placement (each,
+an “Investor”) warrants (subject to rounding to avoid fractional warrants), each
+entitling the Investor to purchase one share of Class A common stock of the
+Company, par value $0.0001 per share (the “Common Stock”) at an exercise price
+of $12.50 per share, subject to adjustment as described herein and bearing the
+legend set forth in Exhibit B hereto (the “PIPE Warrants”);
+
+ 
+
+WHEREAS, the Company desires the Warrant Agent to act on behalf of the Company,
+and the Warrant Agent is willing to so act, in connection with the issuance,
+registration, transfer, exchange, redemption and exercise of the PIPE Warrants;
+
+ 
+
+WHEREAS, the Company desires to provide for the form and provisions of the PIPE
+Warrants, the terms upon which they shall be issued and exercised, and the
+respective rights, limitation of rights, and immunities of the Company, the
+Warrant Agent, and the holders of the PIPE Warrants; and
+
+ 
+
+WHEREAS, all acts and things have been done and performed which are necessary to
+make the PIPE Warrants, when executed on behalf of the Company and countersigned
+by or on behalf of the Warrant Agent, as provided herein, the valid, binding and
+legal obligations of the Company, and to authorize the execution and delivery of
+this Agreement.
+
+ 
+
+NOW, THEREFORE, in consideration of the mutual agreements herein contained, the
+parties hereto agree as follows:
+
+ 
+
+
+
+   
+
+ 
+
+ 
+
+1.             Appointment of Warrant Agent. The Company hereby appoints the
+Warrant Agent to act as agent for the Company for the PIPE Warrants, and the
+Warrant Agent hereby accepts such appointment and agrees to perform the same in
+accordance with the express terms and conditions set forth in this Agreement.
+
+ 
+
+2.             Warrants.
+
+ 
+
+2.1              Form of PIPE Warrant. Each PIPE Warrant shall initially be
+issued in registered form only. PIPE Warrants may be represented by one or more
+physical definitive certificates or by book entry.
+
+ 
+
+2.2              Effect of Countersignature. If a physical definitive
+certificate is issued, unless and until countersigned by the Warrant Agent,
+either by manual or facsimile signature, pursuant to this Agreement, a PIPE
+Warrant shall be invalid and of no effect and may not be exercised by the holder
+thereof.
+
+ 
+
+2.3              Registration.
+
+ 
+
+2.3.1        PIPE Warrant Register. The Warrant Agent shall maintain books (the
+“Warrant Register”), for the registration of original issuance and the
+registration of transfer of the PIPE Warrants. Upon the initial issuance of the
+PIPE Warrants in book-entry form, the Warrant Agent shall issue and register the
+PIPE Warrants in the names of the respective holders thereof in such
+denominations and otherwise in accordance with instructions delivered to the
+Warrant Agent by the Company.
+
+ 
+
+The physical definitive certificates, if issued, shall be in the form annexed
+hereto as Exhibit A, and shall be signed by, or bear the facsimile signature of,
+the Chairman of the Board, Chief Executive Officer, Chief Financial Officer, the
+President or the Secretary or other principal officer of the Company. In the
+event the person whose facsimile signature has been placed upon any PIPE Warrant
+shall have ceased to serve in the capacity in which such person signed the PIPE
+Warrant before such PIPE Warrant is issued, it may be issued with the same
+effect as if he or she had not ceased to be such at the date of issuance.
+
+ 
+
+2.3.2        Registered Holder. Prior to due presentment for registration of
+transfer of any PIPE Warrant, the Company and the Warrant Agent may deem and
+treat the person in whose name such PIPE Warrant is registered in the Warrant
+Register (the “Registered Holder”) as the absolute owner of such PIPE Warrant
+and of each PIPE Warrant represented thereby (notwithstanding any notation of
+ownership or other writing on any physical definitive certificate made by anyone
+other than the Company or the Warrant Agent), for the purpose of any exercise
+thereof, and for all other purposes, and neither the Company nor the Warrant
+Agent shall be affected by any notice to the contrary.
+
+ 
+
+2.4              Fractional Warrants. The Company shall not issue fractional
+PIPE Warrants and the Company shall round down to the nearest whole number the
+number of PIPE Warrants to be issued to such holder.
+
+ 
+
+
+
+ 2 
+
+ 
+
+ 
+
+3.             Terms and Exercise of PIPE Warrants.
+
+ 
+
+3.1              PIPE Warrant Price. Each PIPE Warrant shall entitle the
+Registered Holder thereof, subject to the provisions of such PIPE Warrant and of
+this Agreement, to purchase from the Company the number of shares of Common
+Stock stated therein, at the price of $12.50 per share, subject to the
+adjustments provided in Section 4 hereof and in the last sentence of this
+Section 3.1. The term “Warrant Price” as used in this Agreement shall mean the
+price per share described in the prior sentence at which shares of Common Stock
+may be purchased at the time a PIPE Warrant is exercised. The Company in its
+sole discretion may lower the Warrant Price at any time prior to the Expiration
+Date (as defined below) for a period of not less than twenty (20) business days,
+provided, that the Company shall provide at least twenty (20) days prior written
+notice of such reduction to Registered Holders of the PIPE Warrants and,
+provided further that any such reduction shall be identical among all of the
+PIPE Warrants.
+
+ 
+
+3.2              Duration of PIPE Warrants. A PIPE Warrant may be exercised only
+during the period (the “Exercise Period”) (A) commencing on the date that is
+thirty (30) days after the date of this Agreement, and (B) terminating at 5:00
+p.m., New York City time on the earlier to occur of (w) the date that is five
+(5) years after the date of this Agreement, (x) the liquidation of the Company
+in accordance with the Company’s certificate of incorporation, as amended from
+time to time, and (y) the Redemption Date (as defined below) as provided in
+Section 6.2 hereof (the “Expiration Date”); provided, however, that the exercise
+of any PIPE Warrant shall be subject to the satisfaction of any applicable
+conditions, as set forth in subsection 3.3.2 below, with respect to an effective
+registration statement. Except with respect to the right to receive the
+Redemption Price (as defined below) in the event of a redemption (as set forth
+in Section 6 hereof), each PIPE Warrant not exercised on or before the
+Expiration Date shall become null and void, and all rights thereunder and all
+rights in respect thereof under this Agreement shall cease at 5:00 p.m. New York
+City time on the Expiration Date. The Company in its sole discretion may extend
+the duration of the PIPE Warrants by delaying the Expiration Date; provided that
+the Company shall provide at least twenty (20) days prior written notice of any
+such extension to Registered Holders of the PIPE Warrants, and, provided further
+that any such extension shall be identical in duration among all the PIPE
+Warrants.
+
+ 
+
+3.3              Exercise of PIPE Warrants.
+
+ 
+
+3.3.1        Payment. Subject to the provisions of the PIPE Warrant and this
+Agreement, a PIPE Warrant may be exercised by the Registered Holder thereof at
+any time prior to the Expiration Date by surrendering it at the office of the
+Warrant Agent or at the office of its successor as Warrant Agent, together with
+(i) an election to purchase form, duly executed, electing to exercise such PIPE
+Warrant; and (ii) payment in full of the Warrant Price for each full share of
+Common Stock as to which the PIPE Warrant is exercised and any and all
+applicable taxes due in connection with the exercise of the PIPE Warrant, the
+exchange of the PIPE Warrant for the shares of Common Stock and the issuance of
+such shares of Common Stock, as follows:
+
+ 
+
+(a)               in lawful money of the United States, in good certified check
+or good bank draft payable to the order of the Warrant Agent or by wire;
+
+ 
+
+ 3 
+
+ 
+
+ 
+
+(b)               in the event of a redemption pursuant to Section 6 hereof in
+which the Company’s board of directors (the “Board”) has elected to require all
+holders of the PIPE Warrants to exercise such PIPE Warrants on a “cashless
+basis,” by surrendering the PIPE Warrants for that number of shares of Common
+Stock equal to the quotient obtained by dividing (x) the product of the number
+of shares of Common Stock underlying the PIPE Warrants, multiplied by the excess
+of the “Fair Market Value” (as defined in this subsection 3.3.1(b)) over the
+Warrant Price by (y) the Fair Market Value. Solely for purposes of this
+subsection 3.3.1(b) and Section 6.3, the “Fair Market Value” shall mean the
+average closing price of the Common Stock for the ten (10) trading days ending
+on the third trading day prior to the date on which the notice of redemption is
+sent to the holders of the PIPE Warrants, pursuant to Section 6 hereof; or
+
+ 
+
+(c)               as provided in Section 7.4 hereof.
+
+ 
+
+The Warrant Agent shall forward funds received for warrant exercises in a given
+month by the 5th business day of the following month by wire transfer to an
+account designated by the Company.
+
+ 
+
+3.3.2        Issuance of Shares of Common Stock on Exercise. As soon as
+practicable after the exercise of any PIPE Warrant and the clearance of the
+funds in payment of the Warrant Price (if payment is pursuant to subsection
+3.3.1(a)), the Company shall issue to the Registered Holder of such PIPE Warrant
+a book-entry position or certificate, as applicable, for the number of full
+shares of Common Stock to which he, she or it is entitled, registered in such
+name or names as may be directed by him, her or it, and if such PIPE Warrant
+shall not have been exercised in full, a new book-entry position or
+countersigned PIPE Warrant, as applicable, for the number of shares of Common
+Stock as to which such PIPE Warrant shall not have been exercised.
+Notwithstanding the foregoing, the Company shall not be obligated to deliver any
+shares of Common Stock pursuant to the exercise of a PIPE Warrant and shall have
+no obligation to settle such PIPE Warrant exercise unless a (a) registration
+statement under the Securities Act covering the issuance of the Common Stock
+underlying the PIPE Warrants is then effective and (b) a prospectus relating
+thereto is current, subject to the Company’s satisfying its obligations under
+Section 7.4. No PIPE Warrant shall be exercisable and the Company shall not be
+obligated to issue shares of Common Stock upon exercise of a PIPE Warrant unless
+the shares of Common Stock issuable upon such PIPE Warrant exercise have been
+registered, qualified or deemed to be exempt from registration or qualification
+under the securities laws of the state of residence of the Registered Holder of
+the PIPE Warrants. In the event that the conditions in the two immediately
+preceding sentences are not satisfied with respect to a PIPE Warrant, the holder
+of such PIPE Warrant shall not be entitled to exercise such PIPE Warrant and
+such PIPE Warrant may have no value and expire worthless. Subject to Section 4.6
+of this Agreement, a Registered Holder of PIPE Warrants may exercise its PIPE
+Warrants only for a whole number of shares of Common Stock. In no event will the
+Company be required to net cash settle the PIPE Warrant exercise. The Company
+may require holders of PIPE Warrants to settle the PIPE Warrant on a “cashless
+basis” pursuant to Subsection 3.3.1(b), Section 6.3 and Section 7.4. If, by
+reason of any exercise of PIPE Warrants on a “cashless basis,” the holder of any
+PIPE Warrant would be entitled, upon the exercise of such PIPE Warrant, to
+receive a fractional interest in a share of Common Stock, the Company shall
+round down to the nearest whole number, the number of shares of Common Stock to
+be issued to such holder.
+
+ 
+
+
+
+ 4 
+
+ 
+
+ 
+
+3.3.3        Valid Issuance. All shares of Common Stock issued upon the proper
+exercise of a PIPE Warrant in conformity with this Agreement shall be validly
+issued, fully paid and non-assessable.
+
+ 
+
+3.3.4        Date of Issuance. Each person in whose name any book entry position
+or certificate, as applicable, for shares of Common Stock is issued shall for
+all purposes be deemed to have become the holder of record of such shares of
+Common Stock on the date on which the PIPE Warrant, or book entry position
+representing such PIPE Warrant, was surrendered and payment of the Warrant Price
+was made, irrespective of the date of delivery of such certificate in the case
+of a certificated PIPE Warrant, except that, if the date of such surrender and
+payment is a date when the share transfer books of the Company or book entry
+system of the Warrant Agent are closed, such person shall be deemed to have
+become the holder of such shares at the close of business on the next succeeding
+date on which the share transfer books or book entry system are open.
+
+ 
+
+3.3.5        Maximum Percentage. A holder of a PIPE Warrant may notify the
+Company in writing in the event it elects to be subject to the provisions
+contained in this subsection 3.3.5; however, no holder of a PIPE Warrant shall
+be subject to this subsection 3.3.5 unless he, she or it makes such election. If
+the election is made by a holder, the Warrant Agent shall not affect the
+exercise of the holder’s PIPE Warrant, and such holder shall not have the right
+to exercise such PIPE Warrant, to the extent that after giving effect to such
+exercise, such person (together with such person’s affiliates) to the Warrant
+Agent’s actual knowledge, would beneficially own in excess of 4.9% or 9.8% (or
+such other amount as a holder may specify) (the “Maximum Percentage”) of the
+shares of Common Stock outstanding immediately after giving effect to such
+exercise. For purposes of the foregoing sentence, the aggregate number of shares
+of Common Stock beneficially owned by such person and its affiliates shall
+include the number of shares of Common Stock issuable upon exercise of the PIPE
+Warrant with respect to which the determination of such sentence is being made,
+but shall exclude shares of Common Stock that would be issuable upon (x)
+exercise of the remaining, unexercised portion of the PIPE Warrant beneficially
+owned by such person and its affiliates and (y) exercise or conversion of the
+unexercised or unconverted portion of any other securities of the Company
+beneficially owned by such person and its affiliates (including, without
+limitation, any convertible notes or convertible preferred stock or warrants)
+subject to a limitation on conversion or exercise analogous to the limitation
+contained herein. Except as set forth in the preceding sentence, for purposes of
+this paragraph, beneficial ownership shall be calculated in accordance with
+Section 13(d) of the Securities Exchange Act of 1934, as amended (the “Exchange
+Act”). For purposes of the PIPE Warrant, in determining the number of issued and
+outstanding shares of Common Stock, the holder may rely on the number of issued
+and outstanding shares of Common Stock as reflected in (1) the Company’s most
+recent annual report on Form 10-K, quarterly report on Form 10-Q, current report
+on Form 8-K or other public filing with the U.S. Securities and Exchange
+Commission (the “Commission”) as the case may be, (2) a more recent public
+announcement by the Company or (3) any other notice by the Company or the
+Warrant Agent setting forth the number of Common Stock issued and outstanding.
+For any reason at any time, upon the written request of the holder of the PIPE
+Warrant, the Company shall, within two (2) business days, confirm orally and in
+writing to such holder the number of shares of Common Stock then outstanding. In
+any case, the number of outstanding shares of Common Stock shall be determined
+after giving effect to the conversion or exercise of equity securities of the
+Company by the holder and its affiliates since the date as of which such number
+of outstanding shares of Common Stock was reported. By written notice to the
+Company, the holder of a PIPE Warrant may from time to time increase or decrease
+the Maximum Percentage applicable to such holder to any other percentage
+specified in such notice; provided, however, that any such increase shall not be
+effective until the sixty-first (61st) day after such notice is delivered to the
+Company.
+
+ 
+
+ 5 
+
+ 
+
+ 
+
+4.             Adjustments.
+
+ 
+
+4.1              Stock Dividends.
+
+ 
+
+4.1.1        Split-Ups. If after the date hereof, and subject to the provisions
+of Section 4.6 below, the number of outstanding shares of Common Stock is
+increased by a stock dividend payable in shares of Common Stock, or by a
+split-up of shares of Common Stock or other similar event, then, on the
+effective date of such stock dividend, split-up or similar event, the number of
+shares of Common Stock issuable on exercise of each PIPE Warrant shall be
+increased in proportion to such increase in the number of outstanding shares of
+Common Stock. A rights offering to holders of shares of Common Stock entitling
+holders to purchase shares of Common Stock at a price less than the “Fair Market
+Value” (as defined below) shall be deemed a stock dividend of a number of shares
+of Common Stock equal to the product of (i) the number of shares of Common Stock
+actually sold in such rights offering (or issuable under any other equity
+securities sold in such rights offering that are convertible into or exercisable
+for the shares of Common Stock) multiplied by (ii) one (1) minus the quotient of
+(x) the price per share of Common Stock paid in such rights offering divided by
+(y) the Fair Market Value. For purposes of this subsection 4.1.1, (i) if the
+rights offering is for securities convertible into or exercisable for shares of
+Common Stock, in determining the price payable for shares of Common Stock, there
+shall be taken into account any consideration received for such rights, as well
+as any additional amount payable upon exercise or conversion and (ii) “Fair
+Market Value” means the volume weighted average price of the Common Stock as
+reported during the ten (10) trading day period ending on the trading day prior
+to the first date on which the shares of Common Stock trade on the applicable
+exchange or in the applicable market, regular way, without the right to receive
+such rights.
+
+ 
+
+4.1.2        Extraordinary, Dividends. If the Company, at any time while the
+PIPE Warrants are outstanding and unexpired, shall pay a dividend or make a
+distribution in cash, securities or other assets to the holders of the shares of
+Common Stock on account of such shares of Common Stock (or other shares of the
+Company’s capital stock into which the PIPE Warrants are convertible), other
+than (a) as described in subsection 4.1.1 above, (b) Ordinary Cash Dividends (as
+defined below) or (c) in connection with any distribution of its assets upon its
+liquidation (any such non-excluded event being referred to herein as an
+“Extraordinary Dividend”), then the Warrant Price shall be decreased, effective
+immediately after the effective date of such Extraordinary Dividend, by the
+amount of cash and/or the fair market value (as determined by the Board, in good
+faith) of any securities or other assets paid on each share of Common Stock in
+respect of such Extraordinary Dividend. For purposes of this subsection 4.1.2,
+“Ordinary Cash Dividends” means any cash dividend or cash distribution which,
+when combined on a per share basis, with the per share amounts of all other cash
+dividends and cash distributions paid on the shares of Common Stock during the
+365-day period ending on the date of declaration of such dividend or
+distribution (as adjusted to appropriately reflect any of the events referred to
+in other subsections of this Section 4 and excluding cash dividends or cash
+distributions that resulted in an adjustment to the Warrant Price or to the
+number of shares of Common Stock issuable on exercise of each PIPE Warrant) does
+not exceed $0.50.
+
+ 
+
+
+
+ 6 
+
+ 
+
+ 
+
+4.2              Aggregation of Shares. If after the date hereof, and subject to
+the provisions of Section 4.6 hereof, the number of outstanding shares of Common
+Stock is decreased by a consolidation, combination, reverse stock split or
+reclassification of shares of Common Stock or other similar event, then, on the
+effective date of such consolidation, combination, reverse stock split,
+reclassification or similar event, the number of shares of Common Stock issuable
+on exercise of each PIPE Warrant shall be decreased in proportion to such
+decrease in outstanding shares of Common Stock.
+
+ 
+
+4.3              Adjustments in Warrant Price. Whenever the number of shares of
+Common Stock purchasable upon the exercise of the PIPE Warrants is adjusted, the
+Warrant Price shall be adjusted (to the nearest cent) by multiplying such
+Warrant Price immediately prior to such adjustment by a fraction (x) the
+numerator of which shall be the number of shares of Common Stock purchasable
+upon the exercise of the PIPE Warrants immediately prior to such adjustment, and
+(y) the denominator of which shall be the number of shares of Common Stock so
+purchasable immediately thereafter.
+
+ 
+
+
+
+ 7 
+
+ 
+
+ 
+
+4.4              Replacement of Securities upon Reorganization, Etc. In case of
+any reclassification or reorganization of the outstanding shares of Common Stock
+(other than a change under Section 4.1 or Section 4.2 hereof or that solely
+affects the par value of such shares of Common Stock), or in the case of any
+merger or consolidation of the Company with or into another entity or conversion
+of the Company into another type of entity (other than a consolidation or merger
+in which the Company is the continuing corporation (and is not a subsidiary of
+another entity whose stockholders did not own all or substantially all of the
+Common Stock of the Company in substantially the same proportions immediately
+before such transaction) and that does not result in any reclassification or
+reorganization of the outstanding shares of Common Stock), or in the case of any
+sale or conveyance to another corporation or entity of the assets or other
+property of the Company as an entirety or substantially as an entirety in
+connection with which the Company is dissolved, the holders of the PIPE Warrants
+shall thereafter have the right to purchase and receive, upon the basis and upon
+the terms and conditions specified in the PIPE Warrants and in lieu of the
+shares of Common Stock of the Company immediately theretofore purchasable and
+receivable upon the exercise of the rights represented thereby, the kind and
+amount of shares of stock or other securities or property (including cash)
+receivable upon such reclassification, reorganization, merger or consolidation,
+or upon a dissolution following any such sale or transfer, that the holder of
+the PIPE Warrants would have received if such holder had exercised his, her or
+its PIPE Warrant(s) immediately prior to such event (the “Alternative
+Issuance”); provided, however, that (i) if the holders of the shares of Common
+Stock were entitled to exercise a right of election as to the kind or amount of
+securities, cash or other assets receivable upon such consolidation or merger,
+then the kind and amount of securities, cash or other assets constituting the
+Alternative Issuance for which each PIPE Warrant shall become exercisable shall
+be deemed to be the weighted average of the kind and amount received per share
+by the holders of the shares of Common Stock in such consolidation or merger
+that affirmatively make such election, and (ii) if a tender, exchange or
+redemption offer shall have been made to and accepted by the holders of the
+shares of Common Stock under circumstances in which, upon completion of such
+tender or exchange offer, the maker thereof, together with members of any group
+(within the meaning of Rule 13d-5(b)(1) under the Exchange Act (or any successor
+rule)) of which such maker is a part, and together with any affiliate or
+associate of such maker (within the meaning of Rule 12b-2 under the Exchange Act
+(or any successor rule)) and any members of any such group of which any such
+affiliate or associate is a part, own beneficially (within the meaning of Rule
+13d-3 under the Exchange Act (or any successor rule)) more than 50% of the
+outstanding shares of Common Stock, the holder of a PIPE Warrant shall be
+entitled to receive as the Alternative Issuance, the highest amount of cash,
+securities or other property to which such holder would actually have been
+entitled as a stockholder if such PIPE Warrant holder had exercised the PIPE
+Warrant prior to the expiration of such tender or exchange offer, accepted such
+offer and all of the shares of Common Stock held by such holder had been
+purchased pursuant to such tender or exchange offer, subject to adjustments
+(from and after the consummation of such tender or exchange offer) as nearly
+equivalent as possible to the adjustments provided for in this Section 4;
+provided, further, that if less than 70% of the consideration receivable by the
+holders of the shares of Common Stock in the applicable event is payable in the
+form of common stock in the successor entity that is listed for trading on a
+national securities exchange or is quoted in an established over-the-counter
+market, or is to be so listed for trading or quoted immediately following such
+event, and if the Registered Holder properly exercises the PIPE Warrant within
+thirty (30) days following the public disclosure of the consummation of such
+applicable event by the Company pursuant to a Current Report on Form 8-K filed
+with the Commission, the Warrant Price shall be reduced by an amount (in
+dollars) equal to the difference, if positive, of (i) the Warrant Price in
+effect prior to such reduction minus (ii) (A) the Per Share Consideration (as
+defined below) minus (B) the Black-Scholes Warrant Value (as defined below)
+(which amount determined under this clause (ii) shall not be less than zero).
+The “Black-Scholes Warrant Value” means the value of a PIPE Warrant immediately
+prior to the consummation of the applicable event based on the Black-Scholes
+Warrant Model for a Capped American Call on Bloomberg Financial Markets
+(“Bloomberg”). For purposes of calculating such amount, (1) Section 6 of this
+Agreement shall be taken into account, (2) the price of each share of Common
+Stock shall be the volume weighted average price of the Common Stock as reported
+during the ten (10) trading day period ending on the trading day prior to the
+effective date of the applicable event, (3) the assumed volatility shall be the
+90 day volatility obtained from the HVT function on Bloomberg determined as of
+the trading day immediately prior to the day of the announcement of the
+applicable event, and (4) the assumed risk-free interest rate shall correspond
+to the U.S. Treasury rate for a period equal to the remaining term of the PIPE
+Warrant. “Per Share Consideration” means (i) if the consideration paid to
+holders of the shares of Common Stock consists exclusively of cash, the amount
+of such cash per share of Common Stock, and (ii) in all other cases, the volume
+weighted average price of the Common Stock as reported during the ten (10)
+trading day period ending on the trading day prior to the effective date of the
+applicable event. If any reclassification or reorganization also results in a
+change in shares of Common Stock covered by subsection 4.1.1, then such
+adjustment shall be made pursuant to subsection 4.1.1 or Sections 4.2, 4.3 and
+this Section 4.4. The provisions of this Section 4.4 shall similarly apply to
+successive reclassifications, reorganizations, mergers or consolidations, sales
+or other transfers. In no event will the Warrant Price be reduced to less than
+the par value per share issuable upon exercise of the PIPE Warrant.
+
+ 
+
+
+
+ 8 
+
+ 
+
+ 
+
+4.5              Notices of Changes in PIPE Warrant. Upon every adjustment of
+the Warrant Price or the number of shares of Common Stock issuable upon exercise
+of a PIPE Warrant, the Company shall give written notice thereof to the Warrant
+Agent, which notice shall state the Warrant Price resulting from such adjustment
+and the increase or decrease, if any, in the number of shares of Common Stock
+purchasable at such price upon the exercise of a PIPE Warrant, setting forth in
+reasonable detail the method of calculation and the facts upon which such
+calculation is based; provided, however, that no adjustment to the number of
+shares of Common Stock issuable upon exercise of a PIPE Warrant shall be
+required until cumulative adjustments amount to 1% or more of the number of
+shares of Common Stock issuable upon exercise of a PIPE Warrant as last
+adjusted; provided, further, that any such adjustments that are not made are
+carried forward and taken into account in any subsequent adjustment.
+Notwithstanding the foregoing, all such carried forward adjustments shall be
+made (i) in connection with any subsequent adjustment that (taken together with
+such carried forward adjustments) would result in a change of at least 1% in the
+number of shares of Common Stock issuable upon exercise of a PIPE Warrant and
+(ii) on the exercise date of any PIPE Warrant. Upon the occurrence of any event
+specified in Sections 4.1, 4.2, 4.3 or 4 4 in connection with which an
+adjustment is made to the Warrant Price or the number of shares of Common Stock
+issuable upon exercise of a PIPE Warrant, the Company shall give written notice
+of the occurrence of such event to each holder of a PIPE Warrant, at the last
+address set forth for such holder in the Warrant Register, of the record date or
+the effective date of the event. Failure to give such notice, or any defect
+therein, shall not affect the legality or validity of such event.
+
+ 
+
+4.6              No Fractional Shares. Notwithstanding any provision contained
+in this Agreement to the contrary, the Company shall not issue fractional shares
+of Common Stock upon the exercise of PIPE Warrants. If, by reason of any
+adjustment made pursuant to this Section 4, the holder of any PIPE Warrant would
+be entitled, upon the exercise of such PIPE Warrant, to receive a fractional
+interest in a share, the Company shall, upon such exercise, round down to the
+nearest whole number the number of shares of Common Stock to be issued to such
+holder.
+
+ 
+
+4.7              Form of PIPE Warrant. The form of PIPE Warrant need not be
+changed because of any adjustment pursuant to this Section 4, and PIPE Warrants
+issued after such adjustment may state the same Warrant Price and the same
+number of shares of Common Stock as is stated in the PIPE Warrants initially
+issued pursuant to this Agreement; provided, however, that the Company may at
+any time in its sole discretion make any change in the form of PIPE Warrant that
+the Company may deem appropriate and that does not affect the substance thereof,
+and any PIPE Warrant thereafter issued or countersigned, whether in exchange or
+substitution for an outstanding PIPE Warrant or otherwise, may be in the form as
+so changed.
+
+ 
+
+4.8              Other Events. In case any event shall occur affecting the
+Company as to which none of the provisions of the preceding subsections of this
+Section 4 are strictly applicable, but which would require an adjustment to the
+terms of the PIPE Warrants in order to (i) avoid an adverse impact on the PIPE
+Warrants and (ii) effectuate the intent and purpose of this Section 4, then, in
+each such case, the Company shall appoint a firm of independent public
+accountants, investment banking or other appraisal firm of recognized national
+standing, which shall give its opinion as to whether or not any adjustment to
+the rights represented by the PIPE Warrants is necessary to effectuate the
+intent and purpose of this Section 4 and, if they determine that an adjustment
+is necessary, the terms of such adjustment. The Company shall adjust the terms
+of the PIPE Warrants in a manner that is consistent with any adjustment
+recommended in such opinion.
+
+ 
+
+
+
+ 9 
+
+ 
+
+ 
+
+5.             Transfer and Exchange of PIPE Warrants.
+
+ 
+
+5.1              Registration of Transfer. The Warrant Agent shall register the
+transfer, from time to time, of any outstanding PIPE Warrant upon the Warrant
+Register, upon surrender of such PIPE Warrant for transfer, in the case of
+certificated warrants, properly endorsed with signatures properly guaranteed and
+accompanied by appropriate instructions for transfer. Upon any such transfer, a
+new PIPE Warrant representing an equal aggregate number of PIPE Warrants shall
+be issued and the old PIPE Warrant shall be cancelled by the Warrant Agent. In
+the case of certificated warrants, the PIPE Warrants so cancelled shall be
+delivered by the Warrant Agent to the Company from time to time upon request.
+
+ 
+
+5.2              Procedure for Surrender of Warrants. PIPE Warrants may be
+surrendered to the Warrant Agent, together with a written request for exchange
+or transfer and thereupon the Warrant Agent shall issue in exchange therefor one
+or more new PIPE Warrants as requested by the Registered Holder of the PIPE
+Warrants so surrendered, representing an equal aggregate number of PIPE
+Warrants; provided, however, that in the event that a PIPE Warrant surrendered
+for transfer bears a restrictive legend, the Warrant Agent shall not cancel such
+PIPE Warrant and issue new PIPE Warrants in exchange thereof until the Warrant
+Agent has received an opinion of counsel for the Company stating that such
+transfer may be made and indicating whether the new PIPE Warrants must also bear
+a restrictive legend.
+
+ 
+
+5.3              Fractional Warrants. The Warrant Agent shall not be required to
+effect any registration of transfer or exchange which shall result in the
+issuance of a warrant certificate or book-entry position for a fraction of a
+PIPE Warrant.
+
+ 
+
+5.4              Service Charges. No service charge shall be made for any
+exchange or registration of transfer of PIPE Warrants.
+
+ 
+
+5.5              Warrant Execution and Countersignature. The Warrant Agent is
+hereby authorized to countersign and to deliver, in accordance with the terms of
+this Agreement, the PIPE Warrants required to be issued pursuant to the
+provisions of this Section 5, and the Company, whenever required by the Warrant
+Agent, shall supply the Warrant Agent with PIPE Warrants duly executed on behalf
+of the Company for such purpose.
+
+ 
+
+6.             Redemption.
+
+ 
+
+6.1              Redemption of PIPE Warrants. Subject to Section 6.4 hereof, not
+less than all of the outstanding PIPE Warrants may be redeemed, at the option of
+the Company, at any time while they are exercisable and prior to their
+expiration, at the office of the Warrant Agent, upon notice to the Registered
+Holders of the PIPE Warrants, as described in Section 6.2 below, at the price of
+$0.01 per PIPE Warrant (the “Redemption Price”), provided that the closing price
+of the Common Stock reported has been at least $18.00 per share (subject to
+adjustment in compliance with Section 4 hereof), on each of twenty (20) trading
+days, within the thirty (30) trading-day period ending on the third trading day
+prior to the date on which notice of the redemption is given and provided that
+there is an effective registration statement covering the shares of Common Stock
+issuable upon exercise of the PIPE Warrants, and a current prospectus relating
+thereto, available throughout the 30-day Redemption Period (as defined in
+Section 6.2 below) or the Company has elected to require the exercise of the
+PIPE Warrants on a “cashless basis” pursuant to subsection 3.3.1 and such
+cashless exercise is exempt from registration under the Securities Act.
+
+ 
+
+
+
+ 10 
+
+ 
+
+ 
+
+6.2              Date Fixed for, and Notice of, Redemption. In the event that
+the Company elects to redeem all of the PIPE Warrants pursuant to Section 6.1,
+the Company shall fix a date for the redemption (the “Redemption Date”). Notice
+of redemption shall be mailed by first class mail, postage prepaid, by the
+Company not less than thirty (30) days prior to the Redemption Date (such 30-day
+period, the “Redemption Period”) to the Registered Holders of the PIPE Warrants
+to be redeemed at their last addresses as they shall appear on the registration
+books. Any notice mailed in the manner herein provided shall be conclusively
+presumed to have been duly given whether or not the Registered Holder received
+such notice.
+
+ 
+
+6.3              Exercise After Notice of Redemption. The PIPE Warrants may be
+exercised, for cash (or on a “cashless basis” in accordance with subsection
+3.3.1(b) of this Agreement) at any time after notice of redemption shall have
+been given by the Company pursuant to Section 6.2 hereof and prior to the
+Redemption Date. In the event that the Company determines to require all holders
+of PIPE Warrants to exercise their PIPE Warrants on a “cashless basis” pursuant
+to subsection 3.3.1, the notice of redemption shall contain the information
+necessary to calculate the number of shares of Common Stock to be received upon
+exercise of the PIPE Warrants, including the “Fair Market Value” (as such term
+is defined in subsection 3.3.1(b) hereof) in such case. On and after the
+Redemption Date, the record holder of the PIPE Warrants shall have no further
+rights except to receive, upon surrender of the PIPE Warrants, the Redemption
+Price.
+
+ 
+
+7.             Other Provisions Relating to Rights of Holders of PIPE Warrants.
+
+ 
+
+7.1              No Rights as Stockholder. A PIPE Warrant does not entitle the
+Registered Holder thereof to any of the rights of a stockholder of the Company,
+including, without limitation, the right to receive dividends, or other
+distributions, exercise any preemptive rights to vote or to consent or to
+receive notice as stockholders in respect of the meetings of stockholders or the
+election of directors of the Company or any other matter.
+
+ 
+
+7.2              Lost, Stolen, Mutilated, or Destroyed Warrants. If any PIPE
+Warrant is lost, stolen, mutilated or destroyed, the Company and the Warrant
+Agent may on such terms as to indemnity or otherwise as they may in their
+discretion impose (which shall, in the case of a mutilated PIPE Warrant, include
+the surrender thereof), issue a new PIPE Warrant of like denomination, tenor and
+date as the PIPE Warrant so lost, stolen, mutilated or destroyed, and
+countersigned by the Warrant Agent. Any such new PIPE Warrant shall constitute a
+substitute contractual obligation of the Company, whether or not the allegedly
+lost, stolen, mutilated or destroyed PIPE Warrant shall be at any time
+enforceable by anyone. Warrant Agent may, at its option, countersign replacement
+PIPE Warrants for mutilated certificates upon presentation thereof without such
+indemnity.
+
+ 
+
+
+
+ 11 
+
+ 
+
+ 
+
+7.3              Reservation of Shares of Common Stock. The Company shall at all
+times reserve and keep available a number of its authorized but unissued shares
+of Common Stock that shall be sufficient to permit the exercise in full of all
+outstanding PIPE Warrants issued pursuant to this Agreement.
+
+ 
+
+7.4              Registration of Shares of Common Stock; Cashless Exercise at
+Company’s Option.
+
+ 
+
+7.4.1        Registration of Shares of Common Stock. The issuance of shares of
+Common Stock upon the exercise of a PIPE Warrant shall be registered in the same
+manner and on the same terms the resale of Common Stock pursuant to the terms of
+the Subscription Agreement by and between the Company and the Investor, dated as
+of the date hereof.
+
+ 
+
+7.4.2        Cashless Exercise at Company’s Option. If the shares of Common
+Stock are at the time of any exercise of a PIPE Warrant not listed on a national
+securities exchange such that it satisfies the definition of a “covered
+security” under Section 18(b)(1) of the Securities Act (or any successor
+statute) and there is no effective registration statement covering the shares
+issuable upon exercise of the PIPE Warrants at such time, the Company may, at
+its option, require holders of PIPE Warrants who exercise PIPE Warrants to
+exercise such PIPE Warrants on a “cashless basis” in accordance with Section
+3(a)(9) of the Securities Act (or any successor statute) or such other
+applicable exemption, for that number of shares of Common Stock equal to the
+quotient obtained by dividing (x) the product of the number of shares of Common
+Stock underlying the PIPE Warrants, multiplied by the excess of the “Fair Market
+Value” (as defined below) over the Warrant Price by (y) the Fair Market Value.
+Solely for purposes of this subsection 7.4.2, “Fair Market Value” shall mean the
+average closing price of the Common Stock for the ten (10) trading days ending
+on the third trading day prior to the date that notice of exercise is sent to
+the Warrant Agent from the holder of such PIPE Warrants or its securities broker
+or intermediary, and if the Company does not so elect, the Company agrees to use
+its best efforts to register or qualify for sale the shares of Common Stock
+issuable upon exercise of the PIPE Warrant under the blue sky laws of the state
+of residence of the exercising PIPE Warrant holder to the extent an exemption is
+not available.
+
+ 
+
+8.             Concerning the Warrant Agent and Other Matters.
+
+ 
+
+8.1              Payment of Taxes. The Company shall from time to time promptly
+pay all taxes and charges that may be imposed upon the Company or the Warrant
+Agent in respect of the issuance or delivery of shares of Common Stock upon the
+exercise of the PIPE Warrants, but the Company and the Warrant Agent shall not
+be obligated to pay any transfer taxes in respect of the PIPE Warrants or such
+shares of Common Stock.
+
+ 
+
+8.2              Resignation, Consolidation, or Merger of Warrant Agent.
+
+ 
+
+ 12 
+
+ 
+
+ 
+
+8.2.1        Appointment of Successor Warrant Agent. The Warrant Agent, or any
+successor to it hereafter appointed, may resign its duties and be discharged
+from all further duties and liabilities hereunder after giving sixty (60) days
+notice in writing to the Company. If the office of the Warrant Agent becomes
+vacant by resignation or incapacity to act or otherwise, the Company shall
+appoint in writing a successor Warrant Agent in place of the Warrant Agent. If
+the Company shall fail to make such appointment within a period of ninety (90)
+days after it has been notified in writing of such resignation or incapacity by
+the Warrant Agent or by the holder of a PIPE Warrant (who shall, with such
+notice, submit his PIPE Warrant for inspection by the Company), then the holder
+of any PIPE Warrant may apply to the Supreme Court of the State of New York for
+the County of New York for the appointment of a successor Warrant Agent at the
+Company’s cost. Any successor Warrant Agent, whether appointed by the Company or
+by such court, shall be authorized under applicable laws to exercise the powers
+of a transfer agent and subject to supervision or examination by federal or
+state authority. After appointment, any successor Warrant Agent shall be vested
+with all the authority, powers, rights, immunities, duties, and obligations of
+its predecessor Warrant Agent with like effect as if originally named as Warrant
+Agent hereunder, without any further act or deed; but if for any reason it
+becomes necessary or appropriate, the predecessor Warrant Agent shall execute
+and deliver, at the expense of the Company, an instrument transferring to such
+successor Warrant Agent all the authority, powers, and rights of such
+predecessor Warrant Agent hereunder; and upon request of any successor Warrant
+Agent the Company shall make, execute, acknowledge, and deliver any and all
+instruments in writing for more fully and effectually vesting in and confirming
+to such successor Warrant Agent all such authority, powers, rights, immunities,
+duties, and obligations.
+
+ 
+
+8.2.2        Notice of Successor Warrant Agent. In the event a successor Warrant
+Agent shall be appointed, the Company shall give notice thereof to the
+predecessor Warrant Agent and the Company’s transfer agent for the shares of
+Common Stock not later than the effective date of any such appointment.
+
+ 
+
+8.2.3        Merger or Consolidation of Warrant Agent. Any entity into which the
+Warrant Agent may be merged or with which it may be consolidated or any entity
+resulting from any merger or consolidation to which the Warrant Agent shall be a
+party shall be the successor Warrant Agent under this Agreement without any
+further act.
+
+ 
+
+8.3              Fees and Expenses of Warrant Agent.
+
+ 
+
+8.3.1        Remuneration. The Company agrees to pay the Warrant Agent
+reasonable remuneration for its services as such Warrant Agent hereunder and
+shall, pursuant to its obligations under this Agreement, reimburse the Warrant
+Agent upon demand for all expenditures that the Warrant Agent may reasonably
+incur in the execution of its duties hereunder.
+
+ 
+
+8.3.2        Further Assurances. The Company agrees to perform, execute,
+acknowledge, and deliver or cause to be performed, executed, acknowledged, and
+delivered all such further and other acts, instruments, and assurances as may
+reasonably be required by the Warrant Agent for the carrying out or performing
+of the provisions of this Agreement.
+
+ 
+
+
+
+ 13 
+
+ 
+
+ 
+
+8.4              Liability of Warrant Agent.
+
+ 
+
+8.4.1        Reliance on Company Statement. Whenever in the performance of its
+duties under this Agreement, the Warrant Agent shall deem it necessary or
+desirable that any fact or matter be proved or established by the Company prior
+to taking or suffering any action hereunder, such fact or matter (unless other
+evidence in respect thereof be herein specifically prescribed) may be deemed to
+be conclusively proved and established by a statement signed by the Chairman of
+the Board, Chief Executive Officer, Chief Financial Officer, the President or
+the Secretary or other principal officer of the Company and delivered to the
+Warrant Agent. The Warrant Agent may rely upon such statement for any action
+taken or suffered in good faith by it pursuant to the provisions of this
+Agreement.
+
+ 
+
+8.4.2        Indemnity. The Warrant Agent shall be liable hereunder only for its
+own, or its representatives’, gross negligence, willful misconduct, bad faith or
+material breach of this Agreement. The Company agrees to indemnify the Warrant
+Agent and save it harmless against any and all liabilities, including judgments,
+costs and reasonable counsel fees, for anything done or omitted by the Warrant
+Agent in the execution of this Agreement, except as a result of the Warrant
+Agent’s, or its representatives’, gross negligence, willful misconduct, bad
+faith or material breach of this Agreement.
+
+ 
+
+8.4.3        Exclusions. The Warrant Agent shall have no responsibility with
+respect to the validity of this Agreement or with respect to the validity or
+execution of any PIPE Warrant (except its countersignature thereof). The Warrant
+Agent shall not be responsible for any breach by the Company of any covenant or
+condition contained in this Agreement or in any PIPE Warrant. The Warrant Agent
+shall not be responsible to make any adjustments required under the provisions
+of Section 4 hereof or responsible for the manner, method, or amount of any such
+adjustment or the ascertaining of the existence of facts that would require any
+such adjustment; nor shall it by any act hereunder be deemed to make any
+representation or warranty as to the authorization or reservation of any shares
+of Common Stock to be issued pursuant to this Agreement or any PIPE Warrant or
+as to whether any shares of Common Stock shall, when issued, be valid and fully
+paid and non-assessable.
+
+ 
+
+8.5              Acceptance of Agency. The Warrant Agent hereby accepts the
+agency established by this Agreement and agrees to perform the same upon the
+terms and conditions herein set forth and among other things, shall account
+promptly to the Company with respect to PIPE Warrants exercised and concurrently
+account for, and pay to the Company, all monies received by the Warrant Agent
+for the purchase of shares of Common Stock through the exercise of the PIPE
+Warrants.
+
+ 
+
+8.6              Waiver. The Warrant Agent has no right of set-off or any other
+right, title, interest or claim of any kind (“Claim”) in, or to any distribution
+of, the Trust Account (as defined in that certain Investment Management Trust
+Agreement, dated as of February 13, 2020, by and between the Company and the
+Warrant Agent as trustee thereunder) and hereby agrees not to seek recourse,
+reimbursement, payment or satisfaction for any Claim against the Trust Account
+for any reason whatsoever. The Warrant Agent hereby waives any and all Claims
+against the Trust Account and any and all rights to seek access to the Trust
+Account.
+
+ 
+
+
+
+ 14 
+
+ 
+
+ 
+
+9.             Miscellaneous Provisions.
+
+ 
+
+9.1              Successors. All the covenants and provisions of this Agreement
+by or for the benefit of the Company or the Warrant Agent shall bind and inure
+to the benefit of their respective successors and assigns.
+
+ 
+
+9.2              Notices. Any notice, statement or demand authorized by this
+Agreement to be given or made by the Warrant Agent or by the holder of any PIPE
+Warrant to or on the Company shall be sufficiently given when so delivered if by
+hand or overnight delivery or if sent by certified mail or private courier
+service within five (5) days after deposit of such notice, postage prepaid,
+addressed (until another address is filed in writing by the Company with the
+Warrant Agent), as follows:
+
+ 
+
+Churchill Capital Corp III
+640 Fifth Avenue, 12th Floor
+New York, New York 10019
+Attention: Lee Jay Taragin
+
+ 
+
+with a copy to (which shall not constitute notice):
+
+ 
+
+Weil Gotshal & Manges LLP
+767 Fifth Avenue
+New York, NY 10153
+Attention: Michael J. Aiello and Matthew Gilroy
+
+ 
+
+Any notice, statement or demand authorized by this Agreement to be given or made
+by the holder of any PIPE Warrant or by the Company to or on the Warrant Agent
+shall be sufficiently given when so delivered if by hand or overnight delivery
+or if sent by certified mail or private courier service within five (5) days
+after deposit of such notice, postage prepaid, addressed (until another address
+is filed in writing by the Warrant Agent with the Company), as follows:
+
+ 
+
+Continental Stock Transfer & Trust Company
+1 State Street, 30th Floor
+New York, NY 10004
+Attention: Compliance Department
+
+ 
+
+in each case, with copy to:
+
+ 
+
+[●]
+
+ 
+
+9.3              Applicable Law. The validity, interpretation, and performance
+of this Agreement and of the PIPE Warrants shall be governed in all respects by
+the laws of the State of New York, without giving effect to conflicts of law
+principles that would result in the application of the substantive laws of
+another jurisdiction. The Company hereby agrees that any action, proceeding or
+claim against it arising out of or relating in any way to this Agreement shall
+be brought and enforced in the courts of the City of New York, County of New
+York, State of New York or the United States District Court for the Southern
+District of New York, and irrevocably submits to such jurisdiction, which
+jurisdiction shall be exclusive. The Company hereby waives any objection to such
+exclusive jurisdiction and that such courts represent an inconvenient forum.
+
+ 
+
+
+
+ 15 
+
+ 
+
+ 
+
+9.4              Compliance and Confidentiality. The Warrant Agent shall perform
+its duties under this Agreement in compliance with all applicable laws and keep
+confidential all information relating to this Agreement and, except as required
+by applicable law, shall not use such information for any purpose other than the
+performance of the Warrant Agent’s obligations under this Agreement.
+
+ 
+
+9.5              Persons Having Rights under this Agreement. Nothing in this
+Agreement shall be construed to confer upon, or give to, any person or
+corporation other than the parties hereto and the Registered Holders of the PIPE
+Warrants any right, remedy, or claim under or by reason of this Agreement or of
+any covenant, condition, stipulation, promise, or agreement hereof. All
+covenants, conditions, stipulations, promises, and agreements contained in this
+Agreement shall be for the sole and exclusive benefit of the parties hereto and
+their successors and assigns and of the Registered Holders of the PIPE Warrants.
+
+ 
+
+9.6              Examination of the Warrant Agreement. A copy of this Agreement
+shall be available at all reasonable times at the office of the Warrant Agent
+for inspection by the Registered Holder of any PIPE Warrant. The Warrant Agent
+may require any such holder to submit such holder’s PIPE Warrant for inspection
+by the Warrant Agent.
+
+ 
+
+9.7              Counterparts; Electronic Signatures. This Agreement may be
+executed in any number of original or facsimile counterparts and each of such
+counterparts shall for all purposes be deemed to be an original, and all such
+counterparts shall together constitute but one and the same instrument. A
+signature to this Agreement transmitted electronically shall have the same
+authority, effect, and enforceability as an original signature.
+
+ 
+
+9.8              Effect of Headings. The section headings herein are for
+convenience only and arc not part of this Agreement and shall not affect the
+interpretation thereof.
+
+ 
+
+9.9              Amendments. This Agreement may be amended by the parties hereto
+without the consent of any Registered Holder for the purpose of curing any
+ambiguity, or curing, correcting or supplementing any defective provision
+contained herein or adding or changing any other provisions with respect to
+matters or questions arising under this Agreement as the parties may deem
+necessary or desirable and that the parties deem shall not adversely affect the
+interest of the Registered Holders. All other modifications or amendments,
+including any modification or amendment to increase the Warrant Price or shorten
+the Exercise Period shall require the vote or written consent of the Registered
+Holders of 50% of the number of the then outstanding PIPE Warrants.
+Notwithstanding the foregoing, the Company may lower the Warrant Price or extend
+the duration of the Exercise Period pursuant to Sections 3.1 and 2,
+respectively, without the consent of the Registered Holders.
+
+ 
+
+ 16 
+
+ 
+
+ 
+
+9.10          Severability. This Agreement shall be deemed severable, and the
+invalidity or unenforceability of any term or provision hereof shall not affect
+the validity or enforceability of this Agreement or of any other term or
+provision hereof. Furthermore, in lieu of any such invalid or unenforceable term
+or provision, the parties hereto intend that there shall be added as a part of
+this Agreement a provision as similar in terms to such invalid or unenforceable
+provision as may be possible and be valid and enforceable.
+
+ 
+
+Exhibit A Form of Warrant Certificate
+
+ 
+
+Exhibit B Legend – PIPE Warrants
+
+ 
+
+ 
+
+ 17 
+
+ 
+
+ 
+
+IN WITNESS WHEREOF, the parties hereto have caused this Agreement to be duly
+executed as of the date first above written.
+
+ 
+
+  CHURCHILL CAPITAL CORP III           By:         Name:       Title:           
+                CONTINENTAL STOCK TRANSFER & TRUST COMPANY           By:        
+Name:       Title: 
+
+ 
+
+ 
+
+[SIGNATURE PAGE TO WARRANT AGREEMENT]
+
+ 
+
+ 
+
+EXHIBIT A
+
+ 
+
+Form of Warrant Certificate
+
+ 
+
+[FACE]
+
+ 
+
+Number
+
+ 
+
+Warrants
+
+ 
+
+THIS WARRANT SHALL BE NULL AND VOID IF NOT EXERCISED PRIOR
+TO THE EXPIRATION OF THE EXERCISE PERIOD PROVIDED FOR IN THE
+WARRANT AGREEMENT DESCRIBED BELOW
+
+ 
+
+Churchill Capital Corp III
+Incorporated Under the Laws of the State of Delaware
+
+ 
+
+CUSIP [●]
+
+ 
+
+Warrant Certificate
+
+ 
+
+This Warrant Certificate certifies that, or registered assigns, is the
+registered holder of warrant(s) evidenced hereby (the “PIPE Warrants” and each,
+a “PIPE Warrant”) to purchase shares of Class A common stock, $0.0001 par value
+per share (“Common Stock”), of Churchill Capital Corp III, a Delaware
+corporation (the “Company”). Each whole PIPE Warrant entitles the holder, upon
+exercise during the period set forth in the Warrant Agreement referred to below,
+to receive from the Company that number of fully paid and non-assessable shares
+of Common Stock as set forth below, at the exercise price (the “Warrant Price”)
+as determined pursuant to the Warrant Agreement, payable in lawful money (or
+through “cashless exercise” as provided for in the Warrant Agreement) of the
+United States of America upon surrender of this Warrant Certificate and payment
+of the Warrant Price at the office or agency of the Warrant Agent referred to
+below, subject to the conditions set forth herein and in the Warrant Agreement.
+Defined terms used in this Warrant Certificate but not defined herein shall have
+the meanings given to them in the Warrant Agreement.
+
+ 
+
+Each whole PIPE Warrant is initially exercisable for one fully paid and
+non-assessable share of Common Stock. No fractional shares will be issued upon
+exercise of any PIPE Warrant. If, upon the exercise of PIPE Warrants, a holder
+would be entitled to receive a fractional interest in a share of Common Stock,
+the Company will, upon exercise, round down to the nearest whole number of the
+number of shares of Common Stock to be issued to the holder. The number of
+shares of Common Stock issuable upon exercise of the PIPE Warrants is subject to
+adjustment upon the occurrence of certain events as set forth in the Warrant
+Agreement. The initial Warrant Price per share of Common Stock for any PIPE
+Warrant is equal to $12.50 per share. The Warrant Price is subject to adjustment
+upon the occurrence of certain events as set forth in the Warrant Agreement.
+
+ 
+
+[Form of Warrant]
+
+ 
+
+ 
+
+ 
+
+ 
+
+Subject to the conditions set forth in the Warrant Agreement, the PIPE Warrants
+may be exercised only during the Exercise Period and to the extent not exercised
+by the end of such Exercise Period, such PIPE Warrants shall become null and
+void. The PIPE Warrants may be redeemed, subject to certain conditions, as set
+forth in the Warrant Agreement.
+
+ 
+
+Reference is hereby made to the further provisions of this Warrant Certificate
+set forth on the reverse hereof and such further provisions shall for all
+purposes have the same effect as though fully set forth at this place.
+
+ 
+
+This Warrant Certificate shall not be valid unless countersigned by the Warrant
+Agent, as such term is used in the Warrant Agreement. This Warrant Certificate
+shall be governed by and construed in accordance with the internal laws of the
+State of New York.
+
+ 
+
+ 
+
+
+
+  CHURCHILL CAPITAL CORP III           By:         Name:       Title:           
+                CONTINENTAL STOCK TRANSFER & TRUST COMPANY           By:        
+Name:       Title: 
+
+ 
+
+ 
+
+[Form of Warrant]
+
+ 
+
+ 
+
+ 
+
+ 
+
+[Form of Warrant Certificate]
+
+ 
+
+[Reverse]
+
+ 
+
+The PIPE Warrants evidenced by this Warrant Certificate are part of a duly
+authorized issue of PIPE Warrants entitling the holder on exercise to receive
+shares of Common Stock and are issued or to be issued pursuant to a Warrant
+Agreement dated as of [●], 2020 (the “Warrant Agreement”), duly executed and
+delivered by the Company to Continental Stock Transfer & Trust Company, a New
+York corporation, as warrant agent (or successor warrant agent) (collectively,
+the “Warrant Agent”), which Warrant Agreement is hereby incorporated by
+reference in and made a part of this instrument and is hereby referred to for a
+description of the rights, limitation of rights, obligations, duties and
+immunities thereunder of the Warrant Agent, the Company and the holders (the
+words “holders” or “holder” meaning the Registered Holders or Registered Holder,
+respectively) of the PIPE Warrants. A copy of the Warrant Agreement may be
+obtained by the holder hereof upon written request to the Company. Defined terms
+used in this Warrant Certificate but not defined herein shall have the meanings
+given to them in the Warrant Agreement.
+
+ 
+
+PIPE Warrants may be exercised at any time during the Exercise Period set forth
+in the Warrant Agreement. The holder of PIPE Warrants evidenced by this Warrant
+Certificate may exercise them by surrendering this Warrant Certificate, with the
+form of election to purchase set forth hereon properly completed and executed,
+together with payment of the Warrant Price as specified in the Warrant Agreement
+(or through “cashless exercise” as provided for in the Warrant Agreement) at the
+designated office of the Warrant Agent. In the event that upon any exercise of
+PIPE Warrants evidenced hereby the number of PIPE Warrants exercised shall be
+less than the total number of PIPE Warrants evidenced hereby, there shall be
+issued to the holder hereof or his, her or its assignee, a new Warrant
+Certificate evidencing the number of PIPE Warrants not exercised.
+
+ 
+
+Notwithstanding anything else in this Warrant Certificate or the Warrant
+Agreement, no PIPE Warrant may be exercised unless at the time of exercise (i) a
+registration statement covering the shares of Common Stock to be issued upon
+exercise is effective under the Securities Act and (ii) a prospectus thereunder
+relating to the shares of Common Stock is current, except through “cashless
+exercise” as provided for in the Warrant Agreement.
+
+ 
+
+The Warrant Agreement provides that upon the occurrence of certain events the
+number of shares of Common Stock issuable upon exercise of the PIPE Warrants set
+forth on the face hereof may, subject to certain conditions, be adjusted. If,
+upon exercise of a PIPE Warrant, the holder thereof would be entitled to receive
+a fractional interest in a share of Common Stock, the Company shall, upon
+exercise, round down to the nearest whole number of shares of Common Stock to be
+issued to the holder of the PIPE Warrant.
+
+ 
+
+Warrant Certificates, when surrendered at the designated office of the Warrant
+Agent by the Registered Holder thereof in person or by legal representative or
+attorney duly authorized in writing, may be exchanged, in the manner and subject
+to the limitations provided in the Warrant Agreement, but without payment of any
+service charge, for another Warrant Certificate or Warrant Certificates of like
+tenor evidencing in the aggregate a like number of PIPE Warrants.
+
+ 
+
+ 
+
+ 
+
+ 
+
+Upon due presentation for registration of transfer of this Warrant Certificate
+at the office of the Warrant Agent a new Warrant Certificate or Warrant
+Certificates of like tenor and evidencing in the aggregate a like number of PIPE
+Warrants shall be issued to the transferee(s) in exchange for this Warrant
+Certificate, subject to the limitations provided in the Warrant Agreement,
+without charge except for any tax or other third-party charges imposed in
+connection therewith.
+
+ 
+
+The Company and the Warrant Agent may deem and treat the Registered Holder(s)
+hereof as the absolute owner(s) of this Warrant Certificate (notwithstanding any
+notation of ownership or other writing hereon made by anyone), for the purpose
+of any exercise hereof, of any distribution to the holder(s) hereof, and for all
+other purposes, and neither the Company nor the Warrant Agent shall be affected
+by any notice to the contrary. Neither the PIPE Warrants nor this Warrant
+Certificate entitles any holder hereof to any rights of a stockholder of the
+Company.
+
+ 
+
+ 
+
+ 
+
+ 
+
+Election to Purchase
+
+ 
+
+(To Be Executed Upon Exercise of PIPE Warrant)
+
+ 
+
+The undersigned hereby irrevocably elects to exercise the right, represented by
+this Warrant Certificate, to receive shares of Common Stock and herewith tenders
+payment for such shares of Common Stock to the order of Churchill Capital Corp
+III (the “Company”) in the amount of
+$[●] in accordance with the terms hereof. The undersigned requests that a
+certificate for such shares of Common Stock be registered in the name of [●]
+whose address is [●] and that such shares of Common Stock be delivered to [●]
+whose address is [●]. If said number of shares of Common Stock is less than all
+of the shares of Common Stock purchasable hereunder, the undersigned requests
+that a new Warrant Certificate representing the remaining balance of such shares
+of Common Stock be registered in the name of [●], whose address is [●], and that
+such Warrant Certificate be delivered to [●], whose address is [●].
+
+ 
+
+In the event that the PIPE Warrant has been called for redemption by the Company
+pursuant to Section 6.1 of the Warrant Agreement and the Company has required
+cashless exercise pursuant to Section 6.3 of the Warrant Agreement, the number
+of shares of Common Stock that this PIPE Warrant is exercisable for shall be
+determined in accordance with subsection 3.3.1(b), and Section 6.3 of the
+Warrant Agreement.
+
+ 
+
+In the event that the PIPE Warrant is to be exercised on a “cashless” basis
+pursuant to Section 7.4 of the Warrant Agreement, the number of shares of Common
+Stock that this PIPE Warrant is exercisable for shall be determined in
+accordance with Section 7.4 of the Warrant Agreement.
+
+ 
+
+In the event that the PIPE Warrant may be exercised, to the extent allowed by
+the Warrant Agreement, through cashless exercise (i) the number of shares of
+Common Stock that this PIPE Warrant is exercisable for would be determined in
+accordance with the relevant section of the Warrant Agreement which allows for
+such cashless exercise and (ii) the holder hereof shall complete the following:
+The undersigned hereby irrevocably elects to exercise the right, represented by
+this Warrant Certificate, through the cashless exercise provisions of the
+Warrant Agreement, to receive shares of Common Stock. If said number of shares
+of Common Stock is less than all of the shares of Common Stock purchasable
+hereunder (after giving effect to the cashless exercise), the undersigned
+requests that a new Warrant Certificate representing the remaining balance of
+such shares of Common Stock be registered in the name of [●], whose address is
+[●], and that such Warrant Certificate be delivered to [●], whose address is
+[●].
+
+ 
+
+Date:
+
+  (Signature)       (Address)
+
+ 
+
+ 
+
+ 
+
+ 
+
+(Tax Identification Number)
+
+ 
+
+Signature Guaranteed:
+
+ 
+
+THE SIGNATURE(S) SHOULD BE GUARANTEED BY AN ELIGIBLE GUARANTOR INSTITUTION
+(BANKS, STOCKBROKERS, SAVINGS AND LOAN ASSOCIATIONS AND CREDIT UNIONS WITH
+MEMBERSHIP IN AN APPROVED SIGNATURE GUARANTEE MEDALLION PROGRAM, PURSUANT TO SEC
+RULE 17Ad-15 (OR ANY SUCCESSOR RULE) UNDER THE SECURITIES EXCHANGE ACT, OF 1934,
+AS AMENDED).
+
+ 
+
+ 
+
+ 
+
+ 
+
+EXHIBIT B
+
+ 
+
+LEGEND
+
+ 
+
+THE SECURITIES REPRESENTED BY THIS CERTIFICATE HAVE NOT BEEN REGISTERED UNDER
+THE SECURITIES ACT OF 1933, AS AMENDED, OR ANY STATE SECURITIES LAWS, AND MAY
+NOT BE OFFERED, SOLD, TRANSFERRED OR OTHERWISE DISPOSED OF UNLESS REGISTERED
+UNDER THE SECURITIES ACT OF 1933, AS AMENDED, AND ANY APPLICABLE STATE
+SECURITIES LAWS OR AN EXEMPTION FROM REGISTRATION IS AVAILABLE.
+
+ 
+
+SHARES OF COMMON STOCK OF THE COMPANY ISSUED UPON EXERCISE OF SUCH SECURITIES
+SHALL BE ENTITLED TO REGISTRATION RIGHTS PURSUANT TO A SUBSCRIPTION AGREEMENT
+ENTERED INTO WITH THE COMPANY.
+
+# Source Metadata
+
+- Domain: legal
+- Context ID: d6acfaed684310f85dce3b4c3aafa0da
+- Approx. Length: 36856 characters

@@ -1,0 +1,2 @@
+dataset,correctness_score,semantic_similarity_score,answer_relevancy_score,avg_score
+philosophy.csv,66.64999999999999,58.11898363625927,66.0,63.58966121208642

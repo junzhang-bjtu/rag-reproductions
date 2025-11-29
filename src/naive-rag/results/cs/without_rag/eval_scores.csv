@@ -1,0 +1,2 @@
+dataset,correctness_score,semantic_similarity_score,answer_relevancy_score,avg_score
+cs.csv,69.6,63.91316512659442,66.5,66.67105504219813

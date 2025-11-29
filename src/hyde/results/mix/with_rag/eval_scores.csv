@@ -1,0 +1,2 @@
+dataset,correctness_score,semantic_similarity_score,faithfulness_score,context_relevancy_score,answer_relevancy_score,avg_score
+mix,92.07692307692308,82.01253028295194,99.23076923076923,84.125,99.23076923076923,91.33519836428269

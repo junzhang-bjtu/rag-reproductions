@@ -1,0 +1,2 @@
+dataset,correctness_score,semantic_similarity_score,answer_relevancy_score,avg_score
+mathematics.csv,56.25,52.88774301350675,53.75,54.295914337835576

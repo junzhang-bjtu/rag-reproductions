@@ -1,0 +1,4895 @@
+# Context
+
+Execution Version
+Certain identified information has been marked in the exhibit because it is both
+(i) not material and (ii) would likely cause competitive harm to the Company, if
+publicly disclosed.         Double asterisks denote omissions
+Exhibit 10.42
+OPTION AND LICENSE AGREEMENT
+This Option and License Agreement (together with any exhibits or schedules
+attached hereto, this “Agreement”) is made and entered into as of January 6,
+2020 (the “Effective Date”), by and between ImmuNext, Inc., a Delaware
+corporation located at 1 Medical Center Drive, HB7937, Lebanon, New Hampshire
+03755 (“ImmuNext”), and Curis, Inc., a Delaware corporation, with offices at 4
+Maguire Road, Lexington, Massachusetts 02421 (“Curis”). ImmuNext and Curis are
+sometimes referred to herein individually as a “Party” and collectively as the
+“Parties”.
+RECITALS
+Whereas, ImmuNext is engaged in drug discovery and development of compounds
+relating to the V-domain Ig suppressor of T cell activation (“VISTA”);
+Whereas, Curis has expertise in research and development of pharmaceutical
+products;
+Whereas, ImmuNext has rights under certain patents, patent applications and
+know-how relating to compounds that antagonize VISTA;
+Whereas, Curis desires to engage in a collaborative effort with ImmuNext
+pursuant to which Curis shall carry out a Phase 1A/1B Study (as defined below),
+and Curis shall have an exclusive option such that, upon exercise of such
+option, Curis shall have exclusive rights to further develop and commercialize
+certain compounds that antagonize VISTA, all on the terms and conditions set
+forth herein; and
+Whereas, ImmuNext desires to grant to Curis an exclusive option to obtain an
+exclusive, worldwide license to develop and commercialize such compounds in the
+Field and, upon exercise of such option, to obtain such license; in each case,
+on the terms and conditions set forth herein.
+Now, Therefore, in consideration of the foregoing premises and the mutual
+promises, covenants and conditions contained in this Agreement, the Parties
+agree as follows:
+1.Definitions.
+The terms in this Agreement with initial letters capitalized, whether used in
+the singular or the plural, shall have the meaning set forth below or, if not
+listed below, the meaning designated in places throughout this Agreement.
+
+
+- 1 -
+
+--------------------------------------------------------------------------------
+
+
+
+
+
+
+
+1.1“Academic Researcher” means an academic researcher or academic institution
+engaged by a Party or its Affiliate to conduct activities on behalf of such
+Party or its Affiliate under this Agreement.
+1.2“Actual Combination Product Net Sales” has the meaning set forth in Section
+1.125.
+1.3“Affiliate” of a Party means any Person that directly or indirectly is
+controlled by, controls or is under common control with a Party to this
+Agreement. For the purposes of this definition, the term “control” (including,
+with correlative meanings, the terms “controlled by” and “under common control
+with”) as used with respect to a Person means (a) in the case of a corporate
+entity, direct or indirect ownership of voting securities entitled to cast more
+than fifty percent (50%) of the votes in the election of directors, (b) in the
+case of a non-corporate entity, direct or indirect ownership of more than fifty
+percent (50%) of the equity interests with the power to direct the management
+and policies of such entity, or (c) any other arrangement whereby a Person
+controls or has the right to control the board of directors or equivalent
+governing body or management of a corporation or other entity; provided that, if
+local Laws restrict foreign ownership, control shall be established by direct or
+indirect ownership of the maximum ownership percentage that may, under such
+local Laws, be owned by foreign interests. Notwithstanding the foregoing,
+Immunometabolism Development LLC (“IDC”) shall not be an Affiliate of ImmuNext
+for purposes of this Agreement.
+1.4“Alliance Manager(s)” has the meaning set forth in Section 2.2.
+1.5“American Arbitration Association”, or “AAA”, has the meaning set forth in
+Section 16.3.
+1.6“Antibody” means (a) an antibody molecule, (b) any other molecule comprising
+or containing one or more immunoglobulin variable domains or a part of any such
+domains retaining the functionality of such domains, or any fragments, variants,
+modifications or derivatives thereof that retain the functionality of such
+domains, or (c) other protein molecule or polypeptide molecule. The term
+“Antibody” shall include (i) full length antibodies, (ii) less than full length
+forms of antibodies, such as Fv, Fab, F(ab’)2, and single chain antibodies and
+(iii) fusions or conjugates composed of a molecule covered by clauses (i) or
+(ii) above bound to a toxin or label or other compound or functional moiety.
+1.7“Assigned Invention” has the meaning provided in Section 12.1.2(b).
+1.8“Assigned Technology” has the meaning provided in Section 12.1.2(b).
+1.9“Aurigene Agreement” means that certain Collaboration, License and Option
+Agreement, by and between Curis and Aurigene Discovery Technologies Limited,
+dated January 18, 2015, as amended from time to time.
+1.10“Bankruptcy Code” has the meaning set forth in Section 15.6.
+1.11“Bayh-Dole Act” has the meaning set forth in Section 8.3.4(d).
+
+
+- 2 -
+
+--------------------------------------------------------------------------------
+
+
+
+
+
+
+
+1.12“Biosimilar” shall mean, with respect to a Product that has received
+Regulatory Approval in a regulatory jurisdiction and is being marketed and sold
+by Curis or any of its Affiliates or Sublicensees in such jurisdiction, any
+biological product that: (a) is sold in such jurisdiction by a Third Party that
+is not a Sublicensee of Curis or its Affiliates and did not purchase or acquire
+such product in a chain of distribution that included Curis or any of its
+Affiliates or Sublicensees; (b) is claimed to be biosimilar to or
+interchangeable with such Product or otherwise references or relies on the
+approved BLA for such Product in such jurisdiction (or the safety or efficacy
+data submitted in support of such BLA) to support a BLA submitted under
+Section 351(k) of the U.S. Public Health Service Act and the regulations
+promulgated thereunder (or any successor thereto) or any foreign equivalent
+thereof in the applicable jurisdiction; and (c) is approved for sale for at
+least one of the same Indications as such Product in such jurisdiction.
+1.13“BLA” means: (a) a Biologics License Application submitted to the FDA
+pursuant to Section 351(a) of the U.S. Public Health Service Act and the
+regulations promulgated thereunder, or its successor application; (b) an
+application for authorization to market and/or sell a biological product
+submitted to a Regulatory Authority in any country or jurisdiction other than
+the U.S., including, with respect to the European Union, a marketing
+authorization application submitted to the EMA pursuant to the Centralized
+Approval Procedure or with the applicable Regulatory Authority of a country in
+the European Economic Area with respect to the decentralized procedure, mutual
+recognition or any national approval procedure; or (c) with respect to any
+biological product for which any of the foregoing applications has been approved
+by the applicable Regulatory Authority, an application to supplement or amend
+such approved application.
+1.14“Breaching Party” has the meaning set forth in Section 15.2.1.
+1.15“Brief” has the meaning set forth in Section 17.1.2.
+1.16“Business Day” means a day other than Saturday, Sunday or any day on which
+commercial banks located in New York, New York are authorized or obligated by
+Laws to close.
+1.17“Calendar Quarter” means, with respect to any given Calendar Year, the
+respective periods of three (3) consecutive calendar months ending on March 31,
+June 30, September 30 or December 31; provided, however, that (a) the first
+calendar quarter of the Term shall extend from the Effective Date to the end of
+the first full calendar quarter thereafter; and (b) the last calendar quarter of
+the Term shall end upon the date of termination of this Agreement.
+1.18“Calendar Year” means each successive period of twelve (12) consecutive
+months commencing on January 1 and ending on December 31; provided, however,
+that (a) the first calendar year of the Term shall commence on the Effective
+Date and end on December 31 of the same year; and (b) the last calendar year of
+the Term shall commence on January 1 of the calendar year in which this
+Agreement is terminated and end on the date of termination of this Agreement.
+
+
+
+
+- 3 -
+
+--------------------------------------------------------------------------------
+
+
+
+
+
+
+
+1.19“Cessation Period” has the meaning set forth in Section 15.4.
+1.20“Change of Control” means, with respect to a Party, (a) a merger,
+reorganization, or consolidation of such Party with or into any Third Party, or
+any other corporate reorganization involving a Third Party, that results in
+those persons or entities that are stockholders of such Party immediately prior
+such merger, reorganization, or consolidation owning less than fifty percent
+(50%) of the surviving entity’s voting power immediately after such merger,
+reorganization, or consolidation, (b) a change in the legal or beneficial
+ownership of fifty percent (50%) or more of the combined voting power of the
+outstanding securities of such Party (whether in a single transaction or series
+of related transactions), where immediately after giving effect to such change,
+the legal or beneficial owner of more than fifty percent (50%) of the voting
+securities of such Party is a Third Party or (c) the sale, transfer, lease,
+license or other disposition to a Third Party of all or substantially all of
+such Party’s business or assets to which this Agreement relates in one or a
+series of related transactions; provided, however, that a “Change of Control”
+shall not include any transaction or series of related transactions principally
+conducted for bona fide equity financing purposes in which cash is received by
+such Party or any successor or indebtedness of such Party is cancelled or
+converted or a combination thereof.
+1.21“Clinical Trials” means Phase 1 Trials, Phase 2 Trials, Phase 3 Trials,
+Phase 4 Trials, and/or variations of such trials (for example, Phase 2/3).
+1.22“Combination Product” means any product that comprises a Product sold in
+conjunction with one or more Other Actives, whether or not packaged together or
+in the same therapeutic formulation.
+1.23“Commercial Milestone Event” has the meaning set forth in Section 9.3.2(a).
+1.24“Commercial Milestone Payment” has the meaning set forth in
+Section 9.3.2(a).
+1.25“Commercialization” or “Commercialize” means activities directed to
+obtaining pricing and reimbursement approvals, marketing, promoting,
+manufacturing, distributing, importing, exporting, using, offering for sale, or
+selling a product.
+1.26“Commercially Reasonable Efforts” means (a) with respect to activities of
+ImmuNext under the Research Plan as set forth in this Agreement and (b) with
+respect to activities of Curis with respect to the Development or
+Commercialization of a particular Product, and in each case of (a) and (b), the
+efforts and resources comparable to those undertaken by a biopharmaceutical or
+biotechnology company of comparable size and resources as the applicable Party
+relating to the research, Development or Commercialization of a similar product
+owned by such company, or to which such company has exclusive rights, with
+comparable market potential and at a similar stage in development or lifecycle.
+For purposes of both (a) and (b) above, all relevant factors, as measured by the
+facts and circumstances at the time such efforts are due, shall be taken into
+account, including, as applicable and without limitation, stage of development;
+efficacy and safety relative to competitive products in the marketplace; actual
+or anticipated Regulatory Approval labeling; the nature and extent of market
+exclusivity (including
+
+
+- 4 -
+
+--------------------------------------------------------------------------------
+
+
+
+
+
+
+
+patent coverage, proprietary position and regulatory exclusivity); and the cost
+and time required for and likelihood of obtaining Regulatory Approval.
+1.27“Competitive Infringement” means, on a country-by-country basis, any
+suspected or threatened infringement by a Third Party of any ImmuNext Patent,
+Curis Owned Patent or Jointly Owned Patent (“Infringement”), where (a) any such
+alleged or threatened Infringement is on account of a Third Party’s manufacture,
+use, import, offer for sale or sale of a VISTA Antagonist in the Field; (b) a
+Third Party files any certification in the United States under 21 U.S.C.
+§355(b)(2) or 21 U.S.C. §355(j)(2) or similar provisions in other jurisdictions
+in connection with an abbreviated biological product application, or any foreign
+equivalent thereof, or other BLA, in each case, for a VISTA Antagonist, wherein
+a Product is the reference product (a “Patent Certification”); or (c) any
+declaratory judgment action filed by a Third Party that is developing,
+manufacturing or commercializing Products in the Field alleging the invalidity,
+unenforceability or non-infringement of any of the ImmuNext Patents, Curis Owned
+Patents or Jointly Owned Patents.
+1.28“Compound” means (a) the Lead Compound; (b) each of the [**] distinct
+monoclonal Antibodies that are VISTA Antagonists and bear
+complementarity-determining regions (CDRs) different from the Lead Compound and
+each other, and that are Controlled by ImmuNext as of the Effective Date or
+during the Term, the CDRs for which are set forth on Schedule 1.28 (such
+Antibodies, collectively with the Lead Compound, the “Licensed VISTA
+Antagonists”); and (c) any VISTA Antagonist resulting from the modification by
+or on behalf of Curis of any portion of a Licensed VISTA Antagonist set forth in
+clause (a) or (b) of this definition; but specifically excluding (i) any
+modification that would cause a Licensed VISTA Antagonist to cease being a VISTA
+Antagonist, (ii) any modification that is prohibited by clause (a) of
+Section 8.4.2 or (iii) any conjugating that is prohibited by clause (b) of
+Section 8.4.2. The CDRs of each of the [**] Licensed VISTA Antagonists are set
+forth in Schedule 1.28, which may be amended in accordance with Section 8.6. In
+no event will any Excluded Compound be considered a “Compound” hereunder.
+1.29“Confidential Information” of a Party means, subject to the exceptions set
+forth in Section 13.2, all trade secrets, processes, formulae, Know-How,
+inventions (including Inventions), chemical or biological materials, chemical
+structures, techniques, marketing plans, strategies, customer lists, or other
+information that has been Made by such Party, or to which rights have been
+assigned or licensed to such Party, as well as any other information and
+materials that are deemed confidential or proprietary to or by such Party
+(including all information and materials of such Party’s customers and any other
+Third Party and their consultants), in each case that are disclosed by such
+Party to the other Party in connection with this Agreement, whether before or
+after the Effective Date, and regardless of whether any of the foregoing are
+marked “confidential” or “proprietary” or communicated to the other by the
+disclosing Party in oral, written, graphic or electronic form.
+1.30“Controlled” or “Controls” when used in reference to any Patent, Know-How or
+other intellectual property right, means the legal authority or right (whether
+by ownership, license or otherwise, other than by a license, sublicense or other
+rights granted pursuant to this Agreement) of a Party hereto (or its Affiliates)
+to: (a) grant, or procure the grant of, a license or sublicense, to the extent
+provided for herein, of the Patent, Know-How or other
+
+
+- 5 -
+
+--------------------------------------------------------------------------------
+
+
+
+
+
+
+
+intellectual property right to the other Party; or (b) in relation to Know-How
+only, disclose or provide access to, to the extent provided for herein, such
+Know-How to the other Party, and in each case without breaching the terms of any
+agreement with, or requiring the consent of, a Third Party. Notwithstanding the
+foregoing, a Party will be deemed not to Control any Patent, Know-How or other
+intellectual property right that is owned or controlled by a Third Party
+acquirer described in the definition of “Change of Control” or such Third
+Party’s Affiliates (A) prior to the closing of such Change of Control, except to
+the extent that any such any Patent, Know-How or other intellectual property
+right was Controlled by such Party or any of its Affiliates prior to such Change
+of Control (and for clarity, such Patents so Controlled would include any later
+filed or issued Patents that claim priority (direct or indirect, in whole or in
+part) to any such Patents to the extent that the claims of such later-filed or
+-issued Patents are supported by the claims, disclosure or specification of such
+Patents), or (B) after such Change of Control to the extent that any such
+Patent, Know-How or other intellectual property right is Made by such Third
+Party or its Affiliates (other than such Party or any of its direct or indirect
+subsidiaries) after such Change of Control but without using or incorporating
+any Patent, Know-How or other intellectual property right owned or controlled by
+such Party or any of its direct or indirect subsidiaries immediately before such
+Change of Control.
+1.31“Cover”, “Covering” or “Covered” means, with respect to a product,
+technology, process or method, that, but for a license granted to a Person under
+a Valid Claim of any Patent under which such license is granted, the
+Development, Manufacture, Commercialization and/or other use of such product or
+the practice of such technology, process or method, by such Person would
+infringe such Valid Claim (or, in the case of a Valid Claim that has not yet
+issued, would infringe such Valid Claim if it were to issue).
+1.32“Credit Cap” has the meaning set forth in Section 9.4.6.
+1.33“Curis Acquisition” has the meaning set forth in Section 8.4.4(b).
+1.34“Curis Acquisition Program” has the meaning set forth in Section 8.4.4(b).
+1.35“Curis COC Program” has the meaning set forth in Section 8.4.4(a).
+1.36“Curis Commercial License” has the meaning provided in Section 8.1.1(b).
+1.37“Curis IND” means an IND submitted by or on behalf of Curis or its Affiliate
+to a Regulatory Authority for the Phase 1A/1B Study.
+1.38“Curis Indemnitees” has the meaning set forth in Section 14.2.
+1.39“Curis Invented Excluded Compound” means any Curis Invention that is an
+Excluded Compound.
+1.40“Curis Invention” means any Invention Made solely by one or more employees,
+consultants or contractors of Curis or any of its Affiliates or Sublicensees,
+and any Know-How pertaining to such Invention that is Made solely by one or more
+employees,
+
+
+- 6 -
+
+--------------------------------------------------------------------------------
+
+
+
+
+
+
+
+consultants or contractors of Curis or any of its Affiliates or Sublicensees in
+the course of conducting activities under this Agreement during the applicable
+Period in which such Invention was Made (it being understood that
+Section 8.3.1(b) prohibits Curis and its Affiliates from Exploiting ImmuNext
+Technology, Compounds and Products outside the scope of or otherwise not in
+compliance with the licenses, sublicenses and other rights granted to Curis
+under this Agreement).
+1.41“Curis Technology” all Curis Inventions and all Patents that Cover Curis
+Inventions.
+1.42“Curis Licenses” means the Curis R&D License and the Curis Commercial
+License.
+1.43“Curis Option Period Records” has the meaning set forth in Section 3.2.4(b).
+1.44“Curis Owned Inventions” means: (a) effective as of the Option Exercise Date
+(if any) and thereafter, all Reassigned Inventions that were Curis Inventions;
+and (b) all Curis Inventions Made during the License Period, but excluding, in
+each case ((a) and (b)), (i) any such Curis Invention that is an Excluded
+Compound Invention and (ii) any Curis Invented Excluded Compound.
+1.45“Curis Owned Patents” means all Patents that Cover Curis Owned Inventions.
+1.46“Curis Owned Technology” means all Curis Owned Inventions, and Curis Owned
+Patents.
+1.47“Curis R&D License” has the meaning provided in Section 8.1.1(a).
+1.48“Curis Useful Inventions” means all Curis Owned Inventions that are
+necessary or reasonably useful to Exploit Excluded Compounds outside the Field.
+1.49“Curis Useful Patents” means all Patents that Cover Curis Useful Inventions.
+1.50“Curis Useful Technology” means Curis Useful Inventions and Curis Useful
+Patents.
+1.51“Damages” has the meaning set forth in Section 14.1.
+1.52“Development” means, with respect to a compound or product, any or all
+pre-clinical and clinical development activities reasonably related to or that
+may lead to the support, preparation and submission of regulatory filings or
+otherwise to the testing and validation of such compound or product, including,
+without limitation, toxicology, pharmacology and other pre-clinical activities,
+test method development and stability testing, manufacturing process
+development, formulation development, delivery system development, quality
+assurance and quality control development, statistical analysis, clinical trials
+(including any post-approval
+
+
+- 7 -
+
+--------------------------------------------------------------------------------
+
+
+
+
+
+
+
+studies required by Regulatory Authorities as a condition to granting Regulatory
+Approval). When used as a verb, “Develop” means to engage in Development. For
+clarity, “Development” shall not include any Commercialization activities.
+1.53“Development Milestone Event” has the meaning set forth in Section 9.3.1(a).
+1.54“Development Milestone Payment” has the meaning set forth in
+Section 9.3.1(a).
+1.55“Development Principles” means the development principles set forth in
+Schedule 1.53.
+1.56“Disclosing Party” has the meaning set forth in Section 13.1.1.
+1.57“Dispute” has the meaning set forth in Section 16.1.
+1.58“Dollar” or “$”means the lawful currency of the United States.
+1.59“Effective Royalty Rate” has the meaning set forth in Section 9.4.5(a).
+1.60“EMA” means the European Medicines Agency or any successor agency thereto.
+1.61“European Union” or “EU” means the countries comprising the European Union
+as it may be constituted from time to time, together with those additional
+countries included in the European Economic Area as it may be constituted from
+time to time, and any successors to, or new countries created from, any of the
+foregoing.
+1.62“Excluded Compound” means any compound or product that specifically binds
+VISTA and is not a VISTA Antagonist.
+1.63“Excluded Compound Invention” means any Curis Invention, ImmuNext Invention
+or Joint Invention that, in each case, is solely necessary or solely useful for
+any Excluded Compound (and, for clarity, is not necessary or useful for any
+Compound or Product). Without limiting the generality of the foregoing, Excluded
+Compound Inventions include Curis Invented Excluded Compounds and Jointly
+Invented Excluded Compounds.
+1.64“Excluded Compound Technology” means all Excluded Compound Inventions and
+all Patents that Cover Excluded Compound Inventions.
+1.65“Excluded ImmuNext Know-How” means: (a) all Know-How Controlled by ImmuNext
+or its Affiliates during the Term that is solely useful for an Excluded Compound
+or is solely useful for subject matter outside the Field (and, for clarity, is
+not necessary for any Compound or Product); and (b) all Excluded Compound
+Inventions.
+1.66“Excluded ImmuNext Patents” means: (a) all Patents Controlled by ImmuNext or
+its Affiliates during the Term that Cover an Excluded Compound or Cover subject
+
+
+- 8 -
+
+--------------------------------------------------------------------------------
+
+
+
+
+
+
+
+matter outside the Field (and, for clarity, do not Cover any Compound or
+Product); and (b) all Patents that Cover any Excluded Compound Invention (and,
+for clarity, do not Cover any Reassigned Technology, Compound or Product).
+1.67“Excluded ImmuNext Technology” means Excluded ImmuNext Know-How and Excluded
+ImmuNext Patents.
+1.68“Existing Inventory” means the inventory of drug substance and drug product
+for the Compounds and Products that ImmuNext Controls as of the Effective Date.
+1.69“Existing Patents” has the meaning set forth in Section 11.2.1.
+1.70“Expedited Arbitration” has the meaning set forth in Section 17.1.
+1.71“Expedited Dispute” has the meaning set forth in Section 17.1.
+1.72“Exploit” or “Exploitation” means, collectively, to make, have made, use,
+have used, sell, have sold, offer for sale, have offered for sale, import, have
+imported, export, have exported and otherwise exploit and have exploited,
+including Develop, Manufacture and Commercialize.
+1.73“FDA” means the U.S. Food and Drug Administration, or any successor agency
+thereto.
+1.74“Field” means any and all uses in Oncology.
+1.75“First Commercial Sale” means the first sale in an arm’s length transaction
+of a Product by Curis, any Affiliate of Curis, or any Sublicensee, in any case,
+to the first Third Party (other than a Sublicensee) in any country, in exchange
+for cash or some equivalent to which value can be assigned for the purpose of
+determining Net Sales, after Regulatory Approval of such Product has been
+granted, or such marketing and sale is otherwise permitted, by the Regulatory
+Authority of such country, excluding registration samples, compassionate use,
+and use in Clinical Trials.
+1.76“Force Majeure” has the meaning set forth in Section 18.3.
+1.77“FTE” means a full-time equivalent person year, whether as an employee or
+contractor, based upon a total of [**] hours per year of scientific work,
+technical work, project management work, or scientific/clinical/technical
+management work (but not general managerial work).
+1.78“FTE Rate” means (a) for the first FTE devoted to the conduct of activities
+under this Agreement, the then-current rate (including salary, fringe benefits,
+overhead and fees) at which the Small Business Innovation Research Program then
+pays for such person and (b) for all other FTEs devoted to the conduct of
+activities under this Agreement, [**] Dollars ($[**]) for each FTE, such rate
+set forth in (b) to be adjusted annually upon mutual agreement by the Parties,
+based on changes in the Consumer Price Index (as quoted by the U.S. Department
+of Labor, Bureau of Labor Statistics); provided, however, that the “FTE Rate”
+shall not increase by
+
+
+- 9 -
+
+--------------------------------------------------------------------------------
+
+
+
+
+
+
+
+more than [**] percent ([**]%) annually, with the first adjustment taking effect
+on January 1, 2021.
+1.79“Good Clinical Practices” or “GCP” means the international ethical and
+scientific quality requirements and standards for designing, conducting,
+recording and reporting trials that involve the participation of human subjects.
+In the United States, GCP shall be based on Good Clinical Practices established
+through FDA regulations and guidances (including International Conference on
+Harmonization (ICH) E6) and, outside the United States, GCP shall be based on
+ICH E6.
+1.80“Good Laboratory Practices” or “GLP” means the current Good Laboratory
+Practice (or similar standards) for the conduct of laboratory activities for
+pharmaceutical or biological products as are required by applicable Regulatory
+Authorities or applicable Law. In the United States, Good Laboratory Practices
+are established through FDA regulations (including 21 C.F.R. Part 58), FDA
+guidances, FDA current review and inspection standards and current industry
+standards.
+1.81“Good Manufacturing Practices” or “GMP” means current Good Manufacturing
+Practices for the manufacture of products as are required by applicable
+Regulatory Authorities or applicable Law. In the United States, GMP shall be as
+defined under the rules and regulations of the FDA (including 21 C.F.R. Parts
+210 and 211), as the same may be amended from time to time.
+1.82“ImmuNext Acquisition” has the meaning set forth in Section 8.4.3(b).
+1.83“ImmuNext Acquisition Program” has the meaning set forth in
+Section 8.4.3(b).
+1.84“ImmuNext COC Program” has the meaning set forth in Section 8.4.3(a).
+1.85“ImmuNext Exclusive Patents” means all ImmuNext Patents with claims that
+Cover any VISTA Antagonist and not any other compound or product.
+1.86“ImmuNext Hybrid Patents” means all ImmuNext Patents with claims that Cover
+both (a) any VISTA Antagonist and (b) any other compound or product.
+1.87“ImmuNext Indemnitees” has the meaning set forth in Section 14.1.
+1.88“ImmuNext Invention” means any Invention Made solely by one or more
+employees, consultants or contractors of ImmuNext or any of its Affiliates, and
+any Know-How pertaining to such Invention that is Made solely by one or more
+employees, consultants or contractors of ImmuNext or any of its Affiliates in
+the course of conducting activities under this Agreement during the applicable
+Period in which such Invention was Made.
+1.89“ImmuNext Know-How” means: (a) all Know-How Controlled by ImmuNext or its
+Affiliates during the Term that is necessary or reasonably useful to Exploit
+Compounds or Products in the Field; (b) during the Option Period only, all
+Assigned Inventions
+
+
+- 10 -
+
+--------------------------------------------------------------------------------
+
+
+
+
+
+
+
+and Assigned Technology; (c) all ImmuNext Inventions other than Excluded
+Compound Inventions; and (d) Option Period Results; but, in each case of (a) and
+(c), excluding Jointly Owned Technology and ImmuNext Patents.
+1.90“ImmuNext License” has the meaning set forth in Section 8.1.2.
+1.91“ImmuNext Option Period Records” has the meaning set forth in
+Section 3.2.4(c).
+1.92“ImmuNext Patents” means: (a) all Patents Controlled by ImmuNext or its
+Affiliates during the Term that are necessary or reasonably useful to Exploit
+Compounds or Products in the Field; (b) during the Option Period, all Patents
+Covering Assigned Inventions.
+1.93“ImmuNext Technology” means ImmuNext Know-How and ImmuNext Patents.
+1.94“IND” means an investigational new drug application, clinical trial
+application, clinical trial exemption, or similar application or submission
+filed with or submitted to a Regulatory Authority in a jurisdiction that is
+necessary to commence human clinical trials in such jurisdiction, including any
+such application filed with the FDA pursuant to 21 C.F.R. Part 312.
+1.95“Independent Monitor” has the meaning set forth in Section 3.2.5.
+1.96“Indication” means a separate and distinct disease for which (a) the Product
+is indicated for treatment or (b) the Product is directed with the aim of
+receiving Regulatory Approval for such indication. To distinguish one Indication
+from another Indication, the two Indications have to be (i) listed in two
+different blocks of the ICD-10 and (ii) developed under separate clinical
+trials. For clarity, a different line of therapy for the same disease shall be
+deemed the same Indication.
+1.97“Infringement” has the meaning set forth in Section 1.27.
+1.98“Infringement Action” has the meaning set forth in Section 12.3.5.
+1.99“Initiation” means, when used with respect to any Clinical Trial, the first
+dosing of the first patient in such Clinical Trial.
+1.100“Invention” means any invention, discovery, development, improvement,
+modification, enhancement or derivative, whether or not patentable, that is Made
+in the course of conducting activities under this Agreement. Without limiting
+the generality of the foregoing, any composition of matter, method of use or
+manufacture of a composition of matter, including any Compound or Excluded
+Compound, that is first Made in the course of conducting activities under this
+Agreement shall constitute an Invention.
+1.101“[**] IND” means U.S. IND [**].
+
+
+- 11 -
+
+--------------------------------------------------------------------------------
+
+
+
+
+
+
+
+1.102“Joint Invention” means any Invention Made jointly by, on the one hand, one
+or more employees, consultants or contractors of ImmuNext or any of its
+Affiliates, and, on the other hand, one or more employees, consultants or
+contractors of Curis or any of its Affiliates, and any Know-How pertaining to
+such Invention that is Made jointly by, on the one hand, one or more employees,
+consultants or contractors of ImmuNext or any of its Affiliates, and, on the
+other hand, one or more employees, consultants or contractors of Curis or any of
+its Affiliates in the course of conducting activities under this Agreement
+during the applicable Period in which such Invention was Made (it being
+understood that Section 8.3.1(b) prohibits Curis and its Affiliates from
+Exploiting ImmuNext Technology, Compounds and Products outside the scope of or
+otherwise not in compliance with the licenses, sublicenses and other rights
+granted to Curis under this Agreement).
+1.103“Joint Technology” means all Joint Inventions and all Patents that Cover
+Joint Inventions.
+1.104“Joint Steering Committee” or “JSC” has the meaning set forth in
+Section 2.1.1.
+1.105“Joint Useful Invention” means any Jointly Owned Invention that is
+necessary or reasonably useful to Exploit Excluded Compounds outside the Field.
+1.106“Joint Useful Technology” means all Joint Useful Inventions and all Patents
+that Cover Joint Useful Inventions.
+1.107“Jointly Invented Excluded Compound” means any Joint Invention that is an
+Excluded Compound.
+1.108“Jointly Owned Inventions” means: (a) effective as of the Option Exercise
+Date (if any) and thereafter during the Term, all Reassigned Inventions that
+were Joint Inventions; and (b) all Joint Inventions Made during the License
+Period, but excluding, in each case ((a) and (b)), (i) any such Joint Invention
+that is an Excluded Compound Invention and (ii) any Jointly Invented Excluded
+Compound.
+1.109“Jointly Owned Patents” means all Patents that Cover Jointly Owned
+Inventions.
+1.110“Jointly Owned Technology” means all Jointly Owned Inventions and Jointly
+Owned Patents.
+1.111“KOL Panel” has the meaning set forth in Section 17.2.1.
+1.112“Know-How” means any and all commercial, technical, scientific and other
+data, information, know-how, materials, compounds, trade secrets, knowledge and
+technology including all technical, scientific, pre-clinical, clinical,
+regulatory, safety, manufacturing, quality control, marketing, financial and
+other commercial data (including pharmacological, toxicological and other test
+data and results) and other information, whether communicated in writing or
+orally or by any other method, including biological and other tangible
+materials, protocols, assays, methods, processes, procedures, practices,
+inventions,
+
+
+- 12 -
+
+--------------------------------------------------------------------------------
+
+
+
+
+
+
+
+discoveries, developments, means, formulae, instructions, skills, techniques,
+sketches, designs, drawings, specifications, schematics, prototypes, expressed
+ideas and technical assistance, regulatory submissions or other intellectual
+property of any kind, including improvements, modifications, enhancements and
+derivatives of any of the foregoing, but excluding Patents.
+1.113“Laws” means all applicable laws, statutes, rules, regulations, ordinances
+and other pronouncements having the effect of law of any federal, national,
+multinational, state, provincial, county, city or other political subdivision,
+government or Regulatory Authority, domestic or foreign.
+1.114“Lead Compound” means ImmuNext’s proprietary monoclonal antibody known as
+[**], the CDRs for which are set forth on Schedule 1.28.
+1.115“License Period” means the period of time beginning on the Option Exercise
+Date, if any, and ending on the last day of the Term.
+1.116“License Period New In-License” has the meaning set forth in Section
+9.6.4(a).
+1.117“Licensed VISTA Antagonists” has the meaning set forth in Section 1.28.
+1.118“Local Agent” means, in any Minor Market where it is common practice in the
+pharmaceutical industry for pharmaceutical companies to sell pharmaceutical
+product to a local distributor/agent in such Minor Market and permit such local
+distributor/agent to resell such product in that Minor Market without any direct
+or indirect royalty or other payment obligations to the pharmaceutical company
+that is calculated based on amounts invoiced or received by such local
+distributor/agent for in-market sales of such product in such Minor Market
+(i.e., the only revenue received by the pharmaceutical company with respect to
+product for in-market distribution in such Minor Market is the purchase price
+paid by the local distributor/agent to the pharmaceutical company for such
+product), any such local distributor/agent.
+1.119“Made” means made, conceived, created, generated or reduced to practice;
+provided that “reduced to practice” shall not include constructive reduction to
+practice through filing or prosecuting a Patent.
+1.120“Maintenance Fees” has the meaning set forth in Section 9.1.2.
+1.121“Major European Country” means any of [**].
+1.122“Major Market” means each of [**].
+1.123“Manufacture” means, with respect to a product, those manufacturing
+activities involved in or relating to (a) manufacturing process development,
+(b) CMC activities including analytical development and qualification,
+formulation development, solubility testing, bulk drug substance manufacturing,
+stability testing and scale-up activities, bulk drug product manufacturing and
+stability testing, (c) quality assurance and quality control activities
+including validation testing, qualification and audit of clinical and commercial
+manufacturing facilities,
+
+
+- 13 -
+
+--------------------------------------------------------------------------------
+
+
+
+
+
+
+
+and (d) in the case of either a clinical or commercial supply of such product or
+supply of such product for any non-clinical study, the manufacturing,
+processing, formulating, packaging, labeling, holding, quality control testing
+and release of such product.
+1.124“Minor Market” means any country other than [**].
+1.125“Net Sales” means the gross amounts billed or invoiced by Curis, its
+Affiliates or Sublicensees (each, a “Selling Party”), to Third Parties that are
+not Sublicensees for the sale or other commercial disposition of Products, less
+the following deductions from such amounts calculated in accordance with United
+States generally accepted accounting principles, consistently applied and
+standard internal policies and procedures and accounting standards, consistently
+applied throughout Curis, to the extent specifically and solely allocated to
+such Product(s) and actually taken, paid, accrued, allowed, included or
+allocated based upon good faith estimates in the gross sales prices with respect
+to such sales (and consistently applied as set forth below):
+(a)trade, quantity and cash discounts, allowances, and credits allowed and
+taken, in any form, but expressly excluding discounts or allowances not
+attributable to a Product;
+(b)refunds, chargebacks and any other allowances given and taken which
+effectively reduce the gross amounts billed or invoiced;
+(c)product returns, including recalls or damaged goods and billing errors,
+credits and allowances and bad debt;
+(d)rebates, chargebacks, and discounts (or the equivalent thereof) accrued and
+actually paid or credited to any governmental agency (or agent or branch
+thereof) or to any Third Party payor, administrator or contractee, including but
+not limited to managed healthcare organizations, pharmacy benefit managers (or
+equivalent thereof) or their agencies, purchasers, reimbursers, or trade
+customers, and, any compulsory payments related to the Product(s), and any
+government levied fees as a result of healthcare reform policies;
+(e)discounts (or the equivalent thereof) mandated by, or granted to meet the
+requirements of, applicable state, provincial or federal Law, including required
+chargebacks and retroactive price reductions;
+(f)transportation, freight, postage charges and other charges such as insurance,
+relating thereto, in each case included as a specific line item on a bill or an
+invoice to such Third Parties; and
+(g)taxes, tariffs, excises, customs duties, and/or other governmental charges
+upon or measured by the production, sale, transportation, delivery or use of
+goods, in each case included as a specific line item on a bill or an invoice to
+such Third Parties (including VAT, but only to the extent that such VAT taxes
+are not reimbursable or refundable).
+All aforementioned deductions shall only be allowable to the extent they are
+commercially reasonable and shall be determined, on a country-by-country basis,
+as incurred in the ordinary
+
+
+- 14 -
+
+--------------------------------------------------------------------------------
+
+
+
+
+
+
+
+course of business in type and amount consistent with the Selling Party’s
+business practices consistently applied across its product lines and accounting
+standards and verifiable based on Curis’ sales reporting system. All such
+discounts, allowances, credits, rebates, and other deductions shall be fairly
+and equitably allocated to Product and other products of the Selling Party such
+that Product does not bear a disproportionate portion of such deductions. Sales
+or other commercial dispositions of Product between Selling Parties are not
+sales to Third Parties and shall be excluded from Net Sales calculations for all
+purposes so long as such Product is subsequently resold to a Third Party end
+user. Sales or other commercial dispositions of Product by a Selling Party to a
+Local Agent in a Minor Market for in-market resale in such Minor Market are
+sales to Third Parties and shall be included in Net Sales calculations, but the
+resale or other commercial distribution by such Local Agent in such Minor Market
+of Product purchased by such Local Agent from such Selling Party shall be
+excluded from Net Sales calculations for all purposes. In addition, Products
+provided to Third Parties without charge, in connection with research and
+development, Clinical Trials, compassionate use, humanitarian and charitable
+donations, or indigent programs or for use as samples, shall be excluded from
+the computation of Net Sales, and no payments will be payable on such sales or
+such other commercial dispositions.
+If a Product is sold or otherwise commercially disposed of for consideration
+other than cash or in a transaction that is not at arm’s length between the
+buyer and the seller, then the gross amount to be included in the calculation of
+Net Sales shall be the amount that would have been invoiced had the transaction
+been conducted at arm’s length and for cash. Such amount that would have been
+invoiced shall be determined, wherever possible, by reference to the average
+selling price of the relevant Product in arm’s length transactions in the
+relevant country. For clarity, such gross amounts shall be subject to the
+deductions as set forth above in this Section 1.125.
+Notwithstanding the foregoing, on a country-by-country basis, if a Product is
+sold in a country as part of a Combination Product in a Calendar Quarter, Net
+Sales of such Product in such country during such Calendar Quarter for the
+purpose of determining royalties and commercialization milestone payments due
+hereunder shall be calculated as follows:
+(i)In the event that both (x) a Single-Agent Product is sold separately in
+finished form in such country during such Calendar Quarter and (y) the Other
+Active(s) in such Combination Product are sold separately in finished form in
+such country during such Calendar Quarter, then Net Sales of such Product shall
+be determined by multiplying the actual Net Sales of the Combination Product
+calculated pursuant to the preceding provisions of this Section 1.125 (“Actual
+Combination Product Net Sales”) in such country during such Calendar Quarter by
+the fraction, A / (A+B) where A is the weighted average sale price of such
+Single-Agent Product when sold separately in finished form in such country
+during such Calendar Quarter, and B is the weighted average sale price of the
+Other Active(s) in the Combination Product when sold separately in finished form
+in such country during such Calendar Quarter.
+(ii)In the event that a Single-Agent Product is sold separately in finished form
+in such country during such Calendar Quarter, but the Other Active(s) in such
+Combination Product are not sold separately in finished form in such country
+during such Calendar Quarter, then Net Sales of such Product shall be calculated
+by multiplying the Actual Combination Product Net Sales of the Combination
+Product in such country during such
+
+
+- 15 -
+
+--------------------------------------------------------------------------------
+
+
+
+
+
+
+
+Calendar Quarter by the fraction A / C where A is the weighted average sale
+price of such Single-Agent Product when sold separately in finished form in such
+country during such Calendar Quarter and C is the weighted average sale price of
+the Combination Product in such country during such Calendar Quarter.
+(iii)In the event that no Single-Agent Product is sold separately in finished
+form in such country during such Calendar Quarter, but the Other Active(s) in
+such Combination Product are sold separately in finished form in such country
+during such Calendar Quarter, Net Sales of such Product shall be calculated by
+multiplying the Actual Combination Product Net Sales of the Combination Product
+by the fraction (C‑B) / C, where B is the weighted average sale price of the
+Other Active(s) in the Combination Product when sold separately in finished form
+in such country during such Calendar Quarter, and C is the weighted average sale
+price of the Combination Product in such country during such Calendar Quarter.
+(iv)In the event that neither any Single-Agent Product is sold separately in
+finished form in such country during such Calendar Quarter, nor the Other
+Active(s) in such Combination Product are sold separately in finished form in
+such country during such Calendar Quarter, then the methodology for determining
+Net Sales of such Product in such country shall be mutually agreed in writing by
+the parties in good faith based on the relative contributions of the Compound
+and the Other Active(s) in such Combination Product to the total value of the
+Combination Product.
+1.126“Non-Breaching Party” has the meaning set forth in Section 15.2.1.
+1.127“Non-Prosecuting Party” has the meaning set forth in Section 12.2.6(b)(i).
+1.128“Notification” has the meaning set forth in Section 10.5.
+1.129“Oncology” means an Indication characterized by abnormal cellular
+proliferation, including solid or liquid malignancies (including primary and
+metastatic tumors), lymphoid and myeloid proliferative disorders (including
+myelodysplastic syndrome and myelofibrosis). For clarity, “Oncology” (a)
+includes all blood-borne cancers, (b) includes cancer immunotherapy and
+immuno-oncology, (c) does not include NASH or the treatment of non‑malignant
+fibrosis for or in any organ (e.g. that could be seen as prevention of
+malignancy, for instance, HCC), but does include the treatment of desmoplastic
+tumors (e.g., that could be seen as malignancies with a fibrotic component),
+(d) does not include treatment of immune-related side effects of oncology or
+immuno-oncology treatment, (e) does not include the treatment of auto-immune or
+inflammation conditions, diseases or disorders and (f) does not include the
+treatment of reperfusion injuries.
+1.130“Option” has the meaning set forth in Section 3.1.
+1.131“Option Exercise Date” has the meaning set forth in Section 3.1.
+1.132“Option Exercise Notice” has the meaning set forth in Section 3.1.
+1.133“Option Fee” has the meaning set forth in Section 9.2.
+
+
+- 16 -
+
+--------------------------------------------------------------------------------
+
+
+
+
+
+
+
+1.134“Option Period” means the period commencing as of the Effective Date and
+expiring on the earliest of (a) four (4) years after the Effective Date, (b) the
+Option Exercise Date and (c) termination of this Agreement; provided that such
+period shall automatically end ninety (90) days after database lock for the
+first Phase 1A/1B Study in which the endpoints are met, as determined by the
+JSC.
+1.135“Option Period Negotiating Party” has the meaning set forth in
+Section 9.6.2.
+1.136“Option Period New In-License” has the meaning set forth in Section 9.6.2.
+1.137“Option Period New In-License Know-How” has the meaning set forth in
+Section 9.6.3.
+1.138 “Option Period New In-License Patents” has the meaning set forth in
+Section 9.6.3.
+1.139 “Option Period Results” means all data, results, information and reports
+Made by or on behalf of either Party or both Parties during the Option Period in
+the course of conducting activities under this Agreement, including the conduct
+of the Research Plan or Phase 1A/1B Study, but excluding all Inventions Made
+during the Option Period.
+1.140“Other Active” means any active pharmaceutical ingredient other than
+Compound.
+1.141“Patent Certification” has the meaning set forth in Section 1.27.
+1.142“Patents” means (a) patents and patent applications anywhere in the world,
+(b) all divisionals, continuations, continuations in-part thereof or any other
+patent application claiming priority, or entitled to claim priority, directly or
+indirectly to (i) any such patents or patent applications or (ii) any patent or
+patent application from which such patents or patent applications claim, or is
+entitled to claim, direct or indirect priority, and (c) all patents issuing on
+any of the foregoing anywhere in the world, together with all registrations,
+reissues, re-examinations, patents of addition, renewals, supplemental
+protection certificates, or extensions of any of the foregoing anywhere in the
+world.
+1.143“Period” means the Option Period or the License Period, as applicable.
+1.144“Person” means any individual, firm, corporation, partnership, limited
+liability company, trust, business trust, joint venture, governmental authority,
+association, or other entity.
+1.145“Phase 1 Trial” means a human clinical trial conducted on a limited number
+of study subjects for the purpose of gaining evidence of the safety and
+tolerability of, and information regarding pharmacokinetics and potential
+pharmacological activity for, a product or compound, as described in 21 C.F.R. §
+312.21(a) (including any such clinical study in any country other than the
+United States).
+
+
+- 17 -
+
+--------------------------------------------------------------------------------
+
+
+
+
+
+
+
+1.146“Phase 1A/1B Plan” has the meaning set forth in Section 3.2.2(a).
+1.147“Phase 1A/1B Study” means a human clinical trial described in the
+Phase 1A/1B Plan.
+1.148“Phase 2 Trial” means a human clinical trial conducted on study subjects
+with the disease or condition being studied for the principal purpose of
+achieving a preliminary determination of efficacy or appropriate dosage ranges,
+as further described in 21 C.F.R. §312.21(b) (including any such clinical study
+in any country other than the United States).
+1.149“Phase 3 Trial” means a pivotal clinical trial in humans conducted to gain
+evidence with statistical significance of the efficacy of a product in a target
+population and to obtain expanded evidence of safety for such product that is
+needed to evaluate the overall benefit-risk relationship of such product and to
+provide an adequate basis for physician labeling, as described in 21 C.F.R.
+§ 312.21(c) or the corresponding regulation in jurisdictions other than the
+United States.
+1.150“Phase 4 Trial” means (a) any clinical trial in humans conducted to satisfy
+a requirement of a Regulatory Authority in order to maintain a Regulatory
+Approval and (b) any clinical trial in humans conducted after the first
+Regulatory Approval in the same disease state for which the compound or product
+received Regulatory Approval.
+1.151“PMDA” means, as applicable: (a) the Pharmaceuticals and Medical Devices
+Agency of Japan or any successor agency thereto in Japan having substantially
+the same function; or (b) Ministry of Health, Labour and Welfare of Japan or any
+successor agency thereto in Japan having substantially the same function.
+1.152“Product” means any product containing a Compound, either alone or in
+combination with one or more active ingredients, in all dosages, forms,
+formulations, presentations, line extension and modes of administration. All
+references to Products in this Agreement shall be deemed to include Combination
+Products.
+1.153“Prosecuting Party” has the meaning set forth in Section 12.2.6(b)(i).
+1.154“Prosecution” (including variations such as “Prosecute”) shall mean, with
+respect to a Patent, the preparation, filing, prosecution (including conducting
+all correspondence and interactions with any patent office and seeking,
+conducting and defending all any interferences, inter partes reviews, reissue
+proceedings, reexaminations, and oppositions and similar proceedings) and
+maintenance (including payment of any patent annuity fees) of such Patent, as
+well as re-examinations, reissues, appeals, post grant reviews (PGR), inter
+partes reviews (IPR) and requests for patent term adjustments, patent term
+extensions, supplementary protection certificates, or their equivalents with
+respect to such Patent, together with the initiation or defense of
+interferences, oppositions and other similar proceedings with respect to the
+particular Patent, and any appeals therefrom. For clarification, “Prosecution”
+(including variations such as “Prosecute”) shall exclude any enforcement action
+with respect to a Patent.
+1.155“Publishing Party” has the meaning set forth in Section 13.6.1.
+
+
+- 18 -
+
+--------------------------------------------------------------------------------
+
+
+
+
+
+
+
+1.156“Reassigned Invention” has the meaning provided in Section 12.1.2(c).
+1.157“Reassigned Technology” has the meaning provided in Section 12.1.2(c).
+1.158“Receiving Party” has the meaning set forth in Section 13.1.1.
+1.159“Regulatory Approvals” means any and all approvals (including price and
+reimbursement approvals, if required for marketing or sale), licenses,
+registrations, or authorizations of any Regulatory Authority that are necessary
+for the manufacture, use, storage, import, transport or sale of a biological
+product in a country or other regulatory jurisdiction.
+1.160“Regulatory Authority” means any national, supranational or other
+regulatory agency, department, bureau or other governmental or regulatory
+authority having the administrative authority to regulate the development or
+marketing of biological products in any country or other jurisdiction, including
+the FDA, EMA and PMDA.
+1.161“Regulatory Exclusivity” means any period of regulatory data protection or
+market exclusivity or similar regulatory protection afforded by the Regulatory
+Authorities in a country, including any such periods listed in the FDA’s Purple
+Book: Lists of Licensed Biological Products with Reference Product Exclusivity
+and Biosimilarity or Interchangeability Evaluations or periods under national
+implementations of Directive 2001/83/EC, and all international equivalents.
+1.162“Regulatory Filings” means all INDs, BLAs, Regulatory Approvals, and other
+filings with, and formal submissions to, Regulatory Authorities, in each case,
+with respect to the development, manufacture, and marketing and sale of Product
+in any country or other jurisdiction.
+1.163“Remainder” has the meaning set forth in Section 12.3.7.
+1.164“Representative” has the meaning set forth in Section 13.1.1.
+1.165“Research Budget” means the budget of costs for ImmuNext’s conduct of the
+Research Plan.
+1.166“Research Plan” has the meaning set forth in Section 3.2.2(a).
+1.167“Research Principles” means the research principles set forth in
+Schedule 1.167.
+1.168“Right of Reference” means: (a) in the U.S., a right to reference
+information previously submitted in an IND, as permitted in 21 C.F.R. 312.23(b);
+or (b) in any other country or jurisdiction, the equivalent authority to rely
+upon, and otherwise use, an investigation for the purpose of filing, and
+conducting a clinical trial under, an IND, or obtaining approval of a BLA or
+other Regulatory Approval, including the ability to make available the
+underlying raw data from the investigation for audit by the applicable
+Regulatory Authority in such country or other jurisdiction, if necessary.
+
+
+- 19 -
+
+--------------------------------------------------------------------------------
+
+
+
+
+
+
+
+1.169“Risk Minimizing Actions” has the meaning set forth in Section 17.2.2.
+1.170“Royalty Reduction Date” means the first date on which royalties under
+clause (a) or (b) of the definition of “Licensed Product” (as defined in [**])
+are no longer payable with respect to Net Sales of such “Licensed Product” under
+[**], as set forth on Schedule 1.169.
+1.171“Royalty Term” has the meaning provided in Section 9.4.2.
+1.172“Sale Transaction” has the meaning set forth in Section 18.4.1.
+1.173“Selling Party” has the meaning set forth in Section 1.124.
+1.174“Single-Agent Product” shall mean a Product containing Compound as its sole
+active pharmaceutical ingredient.
+1.175“Subcontractor” means a consultant, subcontractor or other vendor engaged
+by a Party to conduct activities on behalf of such Party or its Affiliate under
+this Agreement, but excluding any Academic Researcher.
+1.176“Sublicense” means: (a) a (sub)license under the Curis Commercial License;
+or (b) a (sub)license or other right to market, promote or sell Compound or
+Product in the Field. For avoidance of doubt, a “Sublicense” shall not include
+rights granted to a Local Agent in a Minor Market that are limited to the
+in-market resale in such Minor Market of Product purchased from another Person
+(including Curis or its Affiliate), where such Local Agent has no direct or
+indirect royalty or other payment obligations to such other Person (or to Curis
+or its Affiliate), that is calculated based on amounts invoiced or received by
+such Local Agent for in-market sales of such purchased Product in such Minor
+Market.
+1.177“Sublicensee” means any Third Party that has received from Curis or its
+Affiliate, directly or indirectly through one or more tiers as set forth in
+Section 8.2.5, a Sublicense. For avoidance of doubt, a “Sublicensee” shall not
+include a Local Agent in a particular Minor Market, provided that such Local
+Agent shall be deemed not to be a “Sublicensee” solely with respect to Product
+sold or distributed in such Minor Market.
+1.178“Sublicense Revenue” means amounts received by Curis or any of its
+Affiliates from a Sublicensee in consideration for the grant by Curis or its
+Affiliate of a Sublicense, including upfront fees, license fees, milestone
+payments (except as expressly set forth below and excluding Net Sales-based
+milestone payments), premiums over the fair market value (as of the date of
+receipt) of equity securities of Curis or its Affiliate, and other payments or
+consideration of any kind, that, in each case, are received by Curis or its
+Affiliate from a Sublicensee in consideration for the grant of a Sublicense;
+provided, however, that if Curis or its Affiliate receives any milestone payment
+for the achievement by a Sublicensee of a milestone event for which Curis is
+obligated to pay ImmuNext a milestone payment under Section 9.3.1, then only the
+amount by which the milestone payment received by Curis or its Affiliate from
+the Sublicensee exceeds the milestone payment payable (and paid) by Curis to
+ImmuNext for such Sublicensee’s achievement of such milestone event shall be
+considered Sublicense Revenue; and provided, further, that “Sublicense Revenue”
+shall in any event exclude: (a) amounts paid in
+
+
+- 20 -
+
+--------------------------------------------------------------------------------
+
+
+
+
+
+
+
+consideration of equity securities of Curis or its Affiliate, except to the
+extent such payments exceed the fair market value of such securities as of the
+date of issuance, (b) reimbursement by the Sublicensee for research and
+development conducted after the date of the Sublicense, accounted for at
+reasonable and customary rates, on a full-time equivalent basis (any excess over
+a reasonable and customary FTE rate is included in Sublicense Revenue),
+(c) royalties on Net Sales of Products by a Sublicensee, and (d) payments for
+reimbursement of patent prosecution, defense, enforcement and maintenance
+expenses.
+1.179“Term” has the meaning set forth in Section 15.1.
+1.180“Terminated Product” has the meaning set forth in Section 15.8.1.
+1.181“Third Party” means any Person other than Curis, ImmuNext and their
+respective Affiliates.
+1.182“Third Party Acquiror” has the meaning set forth in Section 18.4.1.
+1.183“Third Party Claim” has the meaning set forth in Section 14.1.
+1.184“Third Party Licenses” has the meaning set forth in Section 9.4.6.
+1.185“Unacceptable Safety Risk” has the meaning set forth in Section
+2.1.6(b)(i).
+1.186“United States” or “U.S.” means the United States of America and all its
+territories and possessions.
+1.187“Upfront Fee” has the meaning set forth in Section 9.1.1.
+1.188“Upstream Agreements” means the agreements set forth on Schedule 1.188.
+1.189“Valid Claim” means a claim within a Patent that has not expired, lapsed,
+or been cancelled or abandoned, and that has not been dedicated to the public,
+disclaimed, or held unenforceable, invalid, or been cancelled by a court or
+administrative agency of competent jurisdiction in an order or decision from
+which no appeal has been or can be taken, including through opposition,
+re-examination, reissue or disclaimer; provided that, on a country-by-country
+basis, a patent application or subject matter of a claim thereof pending for
+more than [**] after the earliest filing date to which such patent application
+or claim is entitled shall not be considered to have any Valid Claim for
+purposes of this Agreement unless and until a Patent with respect to such
+application issues with such claim.
+1.190“VISTA” shall have the meaning set forth in the Recitals.
+1.191“VISTA Antagonist” means a compound that specifically binds VISTA and
+inhibits the immunosuppressive effect on T cell proliferation elicited by VISTA,
+as set forth in the Mixed Lymphocyte Reaction assay identified in Schedule 1.191
+and when tested in such compound’s unconjugated form.
+
+
+- 21 -
+
+--------------------------------------------------------------------------------
+
+
+
+
+
+
+
+1.192“Withholding Action” shall have the meaning set forth in Section 10.6.4
+2.Governance
+2.1Joint Steering Committee.
+2.1.1Formation; Membership. Within [**] after the Effective Date, the Parties
+shall establish a joint steering committee (the “Joint Steering Committee” or
+“JSC”). The JSC shall be composed of [**] representatives of each Party, and
+each Party shall designate its initial JSC representatives by written notice to
+the other Party. Each Party shall be free to change its JSC representatives on
+written notice to the other Party, provided that each Party shall ensure that,
+at all times during the existence of the JSC, its representatives on the JSC
+have (a) appropriate expertise for the then-current stage of development or
+commercialization of Product in the Field; and (b) during the Option Period, the
+authority to bind such Party with respect to matters requiring approval by the
+JSC.
+2.1.2Responsibilities and Authority.
+(a)During the Option Period. During the Option Period, the JSC will manage the
+non-clinical Development and clinical Development of Compounds and Products and
+will serve as the main forum for data sharing and decision-making regarding the
+same. The JSC shall also provide a forum for sharing progress and results
+relating to non-clinical Development and clinical Development of Compounds and
+Products during the Option Period. In particular, during the Option Period, the
+JSC shall:
+(i)manage the non-clinical Development and clinical Development of Compounds and
+Products;
+(ii)discuss and approve the Research Plan and changes thereto;
+(iii)discuss and approve the Research Budget and changes thereto;
+(iv)discuss and approve the Phase 1A/1B Plan and changes thereto;
+(v)oversee the conduct of the Phase 1A/1B Plan and the Research Plan and review
+data arising from each such plan;
+(vi)discuss the Phase 1A/1B Plan and Research Plan and provide advice regarding
+any amendments to either plan;
+(vii)discuss and determine whether the clinical endpoints for any Phase 1A/1B
+Study have been met;
+(viii)if requested by ImmuNext, discuss whether Curis will permit ImmuNext to
+use a Compound as a tool compound pursuant to Section 8.3.3(a); and
+
+
+- 22 -
+
+--------------------------------------------------------------------------------
+
+
+
+
+
+
+
+(ix)perform such other obligations as are expressly delegated to it under this
+Agreement.
+(b)During the License Period. During the License Period (if any), the JSC shall
+serve solely as a forum for information sharing and shall not have any
+decision-making authority. Without limiting the foregoing, during the License
+Period, Curis shall provide updates to the JSC regarding the status of
+Regulatory Filings made, anticipated Regulatory Approvals, and anticipated
+Product launch dates and non-binding estimates of the anticipated occurrence of
+each Development Milestone Event and Commercial Milestone Event.
+2.1.3Meetings. The JSC shall meet at least [**] during the Option Period and at
+least [**] during the License Period (if any), or, in each case, at such greater
+frequency as the JSC shall determine. The JSC may meet in person or by means of
+teleconference, videoconference or other similar communications equipment.
+In-person meetings shall alternate between ImmuNext and Curis locations within
+the United States whenever possible unless otherwise agreed by the Parties.
+Subject to the preceding sentence, JSC meetings shall be held at such times and
+places as determined by the JSC. The first JSC meeting shall be within [**]
+after the Effective Date, and the first JSC meeting during the License Period
+(if any) shall be within [**] after the start of the License Period. Following
+notice to the other Party, a reasonable number of additional representatives of
+a Party may attend meetings of the JSC in a non‑voting capacity provided that
+all such representatives are bound by written confidentiality and non-use
+obligations commensurate with Section 13. Each Party shall bear its own expenses
+of participating in meetings of the JSC. Curis shall have responsibility for
+chairing JSC meetings. The chair shall not have any greater authority than any
+other representative of either Party on the JSC. Curis’ Alliance Manager shall
+be responsible for circulating the agenda for such meeting reasonably in advance
+of such meeting, provided that at ImmuNext’s request, Curis shall include on the
+agenda for a meeting any matter requested by ImmuNext that is within the scope
+of the JSC’s responsibility or purview.
+2.1.4Minutes. Curis’ Alliance Manager shall be responsible for preparing and
+circulating minutes of each meeting of the JSC within [**] after such meeting.
+Minutes of JSC meetings shall set forth, among other things, a description, in
+reasonable detail, of the discussions at the meeting and a list of any actions,
+decisions or determinations approved by the JSC. Such minutes shall be effective
+only after being approved by both Parties. Definitive minutes of all JSC
+meetings shall be finalized no later than [**] after the meeting to which the
+minutes pertain.
+2.1.5Decision-Making. During the Option Period, decisions of the JSC shall be
+made by consensus, with each Party’s representatives on the JSC collectively
+having one vote. No vote of the JSC may be taken unless at least one of each
+Party’s representatives is present for the vote. Each Party shall be responsible
+for ensuring that, at all times, its representatives on the JSC act reasonably
+and in good faith in carrying out their respective responsibilities hereunder.
+2.1.6Dispute Resolution. During the Option Period, in the event that the JSC is
+unable to reach a unanimous decision on a matter that is within its
+decision-making authority within [**] after it has met and attempted to reach
+such decision, then either Party may
+
+
+- 23 -
+
+--------------------------------------------------------------------------------
+
+
+
+
+
+
+
+refer such matter to a senior executive officer of each Party for attempted
+resolution. Such senior executive officers shall attempt in good faith to
+promptly resolve such matter within [**] after such referral. In the event that
+such senior executive officers are unable to resolve such matter within [**]
+after such referral, then:
+(a)if the matter relates to the [**], Curis will have final-decision making
+authority with respect to such matter, provided that such decision must be in
+accordance with the Development Principles;
+(b)if the matter relates to the Research Plan, the Research Budget, the Research
+Principles, the Phase 1A/1B Plan, or the Development Principles, the matter will
+be referred to the chief executive officer of each Party for attempted
+resolution. If the chief executive officers are unable to resolve such matter
+within [**] after such referral, then:
+(i)if the matter is a good faith dispute between the Parties as to whether the
+continuation or resumption of the conduct of a Phase 1A/1B Study that has been
+halted or suspended due to safety concerns or the conduct of an additional
+Phase 1 Trial proposed to be added to the Phase 1A/1B Plan as a Phase 1A/1B
+Study poses a substantial and unacceptable risk to patient safety that outweighs
+any potential therapeutic benefit of the Product to patients, taking into
+consideration the (un)availability of therapeutic alternatives to patients (an
+“Unacceptable Safety Risk”), then either Party may refer such dispute for
+resolution by a KOL Panel in accordance with Section 17.2;
+(ii)if the matter is a dispute as to whether the clinical endpoints for any
+Phase 1A/1B Study have been met, then either Party may refer such dispute for
+resolution by a KOL Panel in accordance with Section 17.2; and
+(iii)unless Section 2.1.6(b)(i) or 2.1.6(b)(ii) applies, if such matter is a
+proposed amendment or modification to the Research Plan, the Research Budget,
+the Research Principles, the Phase 1A/1B Plan, or the Development Principles,
+the matter will remain deadlocked and the status quo will prevail; and
+(c)if such matter relates to use of a Compound as a tool compound pursuant to
+Section 8.3.3(a), Curis will have final-decision making authority with respect
+to such matter.
+The Parties intend that all matters within the scope of the JSC’s
+decision-making authority shall be resolved by the Parties in accordance with
+Sections 2.1.5 and 2.1.6 and, to the extent expressly provided in
+Section 2.1.6(b)(i) or 2.1.6(b)(ii), Section 17, and each Party acknowledges and
+agrees that, notwithstanding anything to the contrary in this Agreement, no
+matter within the scope of the JSC’s authority shall be subject to the dispute
+resolution mechanisms set forth in Section 16.
+2.1.7Limitation on Authority. The JSC shall have only such rights, powers and
+authority as are expressly delegated to it under this Agreement, and such
+rights, powers and authority shall be subject to the terms and conditions of
+this Agreement. The JSC shall not be a substitute for the rights of the Parties
+hereunder. Notwithstanding any other
+
+
+- 24 -
+
+--------------------------------------------------------------------------------
+
+
+
+
+
+
+
+provision of this Agreement to the contrary, the JSC shall not have any right,
+power or authority: (a) to determine any issue in a manner that would conflict
+with the express terms and conditions of this Agreement; or (b) to modify or
+amend the terms and conditions of this Agreement.
+2.2Alliance Managers. Promptly after the Effective Date, each Party shall
+appoint an individual to act as the alliance manager for such Party (each, an
+“Alliance Manager”) and shall notify the other Party of the name and contact
+information of its initial Alliance Manager. A Party may replace its Alliance
+Manager from time to time in its sole discretion upon written notice to the
+other Party, which shall include the name and contact information of the
+replacement Alliance Manager. The Alliance Managers shall be the primary points
+of contact for the Parties regarding the activities contemplated by this
+Agreement and shall facilitate communication regarding all activities hereunder.
+During the Option Period, the Alliance Managers shall be responsible for
+following-up on decisions made by the JSC.
+3.Option Grant; Option Exercise; Option Period Development; Option Period
+Manufacturing.
+3.1Option Grant; Option Exercise. Subject to the terms and conditions of this
+Agreement, ImmuNext hereby grants to Curis the exclusive option, exercisable at
+Curis’ sole discretion during the Option Period, to obtain the Curis Commercial
+License (the “Option”). During the Option Period, Curis will have the right (but
+not the obligation) to exercise the Option in its sole discretion by delivering
+written notice of such exercise (the “Option Exercise Notice”) to ImmuNext and
+paying the Option Fee to ImmuNext in accordance with Section 9.2. The date on
+which the Option Exercise Notice has been delivered and the Option Fee has been
+paid to ImmuNext shall be the “Option Exercise Date”. If Curis does not exercise
+the Option during the Option Period, this Agreement will expire in accordance
+with its terms pursuant to Section 15.1.
+3.2Option Period Development.
+3.2.1Goals. The objective for the Option Period is for ImmuNext to conduct the
+Research Plan in a manner that is consistent with the Research Principles and
+Curis to conduct the Phase 1A/1B Study in a manner that is consistent with the
+Development Principles, in each case, in order to permit Curis to evaluate
+whether to exercise the Option. ImmuNext shall conduct the Research Plan
+activities in accordance with the Research Plan and this Agreement. Curis shall
+conduct the Phase 1A/1B Study in accordance with the Phase 1A/1B Plan and this
+Agreement.
+3.2.2Option Period Plans; Performance.
+(a)Research Plan. During the Option Period, ImmuNext shall use Commercially
+Reasonable Efforts to conduct in vitro and in vivo experiments that support the
+Phase 1A/1B Study in accordance with a mutually agreed written research plan
+(the “Research Plan”), which Research Plan will be consistent with the Research
+Principles. The Research Plan shall set forth (i) the in vitro and in vivo
+experiments to be conducted by or on behalf of ImmuNext; (ii) the Research
+Budget; and (iii) an estimated timeline for the conduct of such experiments.
+ImmuNext shall deliver an initial draft of the Research Plan to Curis for
+
+
+- 25 -
+
+--------------------------------------------------------------------------------
+
+
+
+
+
+
+
+review and approval by the JSC (such approval not to be unreasonably withheld,
+conditioned or delayed) a draft Research Plan within [**] after the Effective
+Date. From time to time after approval of the initial Research Plan during the
+Option Period, either Party may propose amendments to the Research Plan for
+review and approval by the JSC, provided that any such amendment must be
+consistent with the Research Principles.
+(b)Phase 1A/1B Plan. Within [**] after the Effective Date, Curis shall deliver
+to ImmuNext for review and approval by the JSC (such approval not to be
+unreasonably withheld, conditioned or delayed) a draft plan for the conduct of
+the Phase 1A/1B Study, which shall be consistent with the Development
+Principles, identify the major parameters of the Phase 1A/1B Study and include
+an estimated timeline. Upon approval by the JSC in accordance with
+Section 2.1.2(a)(ii), such plan shall be the “Phase 1A/1B Plan”. From time to
+time after approval of the initial Phase 1A/1B Plan during the Option Period,
+either Party may propose amendments to the Phase 1A/1B Plan for review and
+approval by the JSC, provided that any such amendment must be consistent with
+the Development Principles.
+(c)Endpoints. If the clinical endpoints for a Phase 1A/1B Study are not met, the
+Parties shall discuss in good faith potential amendments to the Research Plan,
+Research Budget and Phase 1A/1B Plan to accommodate an additional Phase 1A/1B
+Study; such amendments to be consistent with the Research Principles and/or
+Development Principles, as applicable. In no event may Curis conduct a Phase 2
+Trial of a Product during the Option Period.
+(d)Option Period Diligence. During the Option Period, ImmuNext shall use
+Commercially Reasonable Efforts to conduct the experiments set forth in the
+Research Plan in accordance with the Research Plan, including the Research
+Budget. Without limiting the foregoing, ImmuNext shall be solely responsible for
+conducting all Research Plan activities, including ensuring that all Research
+Plan activities are conducted in compliance with applicable Law and industry
+standards. During the Option Period, Curis shall use Commercially Reasonable
+Efforts to conduct the Phase 1A/1B Study in accordance with the Phase 1A/1B
+Plan. Without limiting the foregoing, Curis shall be solely responsible for
+conducting all activities in connection with the Phase 1A/1B Study, including
+ensuring that the administration and use of Compounds and Products for the
+Phase 1A/1B Study are conducted in compliance with applicable Law and industry
+standards, including GLP, GCP and GMP.
+3.2.3Phase 1A/1B Study Costs; Research Plan Costs.
+(a)Curis shall bear all costs and expenses (including personnel costs and all
+other internal costs and external costs) incurred in connection with activities
+under the Phase 1A/1B Plan.
+(b)Following the end of each Calendar Quarter during the Option Period, ImmuNext
+shall invoice Curis, at cost and in accordance with the Research Budget, for
+documented external costs and expenses incurred by or on behalf of ImmuNext or
+its Affiliates, and at the applicable FTE Rate for FTEs used by ImmuNext, in
+each case, in carrying out its responsibilities under the Research Plan during
+the previous Calendar Quarter. Notwithstanding the foregoing, the total amount
+invoiced to Curis for each Calendar Year
+
+
+- 26 -
+
+--------------------------------------------------------------------------------
+
+
+
+
+
+
+
+pursuant to this Section 3.2.3(b) shall not exceed two hundred fifty thousand
+dollars ($250,000), unless otherwise agreed by the Parties in writing (such
+agreement to be given or withheld in each Party’s sole discretion). Curis shall
+pay each such invoice within [**] of receipt thereof. ImmuNext will not be
+required to conduct any activities under the Research Plan unless it is paid in
+full for all costs and expenses incurred in accordance with the Research Budget.
+Curis will not be required to pay any amount in excess of one hundred percent
+(100%) of the Research Budget for ImmuNext’s conduct of the Research Plan.
+3.2.4Option Period Updates and Records.
+(a)Updates. During the Option Period, (i) Curis shall keep ImmuNext reasonably
+informed with respect to the progress and results of the Phase 1A/1B Plan and
+the activities for which it is responsible thereunder by providing updates at
+each meeting of the JSC and (ii) ImmuNext shall keep Curis reasonably informed
+with respect to the progress and results of the Research Plan and the activities
+for which it is responsible thereunder by providing updates at each meeting of
+the JSC. Such updates shall include all activities conducted and all
+accomplishments achieved under the Phase 1A/1B Plan or Research Plan (as
+applicable), all Option Period Results and any new Inventions Made in the course
+of conducting such activities, and Know-How pertaining to any such Invention
+that is Made in the course of conducting such activities during the Option
+Period (it being understood that Section 8.3.1(b) prohibits Curis and its
+Affiliates from Exploiting ImmuNext Technology, Compounds and Products outside
+the scope of or otherwise not in compliance with the licenses, sublicenses and
+other rights granted to Curis under this Agreement), planned activities for the
+subsequent Calendar Quarter, progress against any timelines, and any other
+aspects that the JSC may reasonably request, in sufficient detail and in a good
+scientific manner. Upon a request by a Party, the other Party shall provide a
+copy of all available raw data relating to the activities conducted by the
+non-requesting Party under the Phase 1A/1B Plan or Research Plan, as applicable.
+(b)Curis Option Period Records. During the Option Period, Curis will maintain,
+or cause to be maintained, records and laboratory notebooks with respect to its
+conduct of activities under the Phase 1A/1B Plan (the “Curis Option Period
+Records”) in sufficient detail and in a good scientific manner and format
+appropriate for (A) scientific purposes, (B) regulatory purposes, and
+(C) obtaining and maintaining intellectual property rights and protections, in
+each case ((A)-(C)) for a period of the longer of as required by applicable Law
+or [**] after the expiration or termination of the Option Period. The Curis
+Option Period Records shall be complete and accurate in all material respects
+and shall fully and properly reflect all work done, Option Period Results, and
+Inventions Made in the course of conducting the Phase 1A/1B Plan, and Know-How
+pertaining to any such Invention that is Made in the course of conducting such
+activities during the Option Period (it being understood that Section 8.3.1(b)
+prohibits Curis and its Affiliates from Exploiting ImmuNext Technology,
+Compounds and Products outside the scope of or otherwise not in compliance with
+the licenses, sublicenses and other rights granted to Curis under this
+Agreement). Upon ImmuNext’s request during the required retention period, Curis
+will provide a copy of the Curis Option Period Records to ImmuNext and will meet
+with ImmuNext from time to time to discuss the same.
+(c)ImmuNext Option Period Records. During the Option Period, ImmuNext will
+maintain, or cause to be maintained, records and laboratory notebooks
+
+
+- 27 -
+
+--------------------------------------------------------------------------------
+
+
+
+
+
+
+
+with respect to its conduct of activities under the Research Plan (the “ImmuNext
+Option Period Records”) in sufficient detail and in a good scientific manner and
+format appropriate for (A) scientific purposes, (B) regulatory purposes, and
+(C) obtaining and maintaining intellectual property rights and protections, in
+each case ((A)-(C)) for a period of [**] after the expiration or termination of
+the Option Period. The ImmuNext Option Period Records shall be complete and
+accurate in all material respects and shall fully and properly reflect all work
+done, Option Period Results, and Inventions Made in the course of conducting
+activities under the Research Plan, and Know-How pertaining to any such
+Invention that is Made in the course of conducting such activities during the
+Option Period (it being understood that Section 8.3.1(b) prohibits Curis and its
+Affiliates from Exploiting ImmuNext Technology, Compounds and Products outside
+the scope of or otherwise not in compliance with the licenses, sublicenses and
+other rights granted to Curis under this Agreement), but are not required to
+reflect any Excluded Compound Technology or Excluded ImmuNext Technology. Upon
+Curis’ request during the required retention period, ImmuNext will provide a
+copy of the ImmuNext Option Period Records to Curis and will meet with Curis
+from time to time to discuss the same.
+(d)Final Report. Within [**] after the earlier of (i) the commencement of the
+License Period, (ii) the date of expiration of this Agreement pursuant to
+Section 15.1(a), or (iii) the date of termination of this Agreement for any
+reason during the Option Period, Curis shall deliver to ImmuNext a final written
+report of all activities conducted and all accomplishments achieved by Curis in
+connection with the Phase 1A/1B Plan and all results thereof, in sufficient
+detail and in a good scientific manner and study report format appropriate for
+(A) scientific purposes, (B) regulatory purposes, and (C) obtaining and
+maintaining intellectual property rights and protections. Within [**] after
+completion of all Research Plan activities, ImmuNext shall deliver to Curis a
+final written report of all activities conducted and all accomplishments
+achieved by ImmuNext in connection with the Research Plan and all results
+thereof, in sufficient detail and in a good scientific manner and study report
+format appropriate for (A) scientific purposes, (B) regulatory purposes, and
+(C) obtaining and maintaining intellectual property rights and protections.
+(e)Ownership. ImmuNext shall solely own all rights, title and interest
+(including all intellectual property rights) in and to the ImmuNext Option
+Period Records and the Option Period Results. Curis shall solely own all rights,
+title and interest (including all intellectual property rights) in and to the
+Curis Option Period Records; provided, however, that all Option Period Results
+recorded or disclosed therein shall be owned by ImmuNext.
+3.2.5ImmuNext Independent Monitor. At ImmuNext’s sole cost and expense, ImmuNext
+may engage an independent Third Party mutually agreeable to both Parties to
+monitor execution of the Phase 1A/1B Study (such party, the “Independent
+Monitor”). ImmuNext shall be permitted to share any Confidential Information of
+Curis with the Independent Monitor as reasonably necessary for the Independent
+Monitor to perform the obligations of the Independent Monitor as described
+above. Additionally, the Independent Monitor shall have access to relevant
+personnel of Curis and any Affiliates during normal business hours, with at
+least [**] prior notice to Curis, as reasonably necessary for the Independent
+Monitor to perform its obligations as described above. ImmuNext shall be
+
+
+- 28 -
+
+--------------------------------------------------------------------------------
+
+
+
+
+
+
+
+responsible for the compliance of the Independent Monitor with the applicable
+terms and conditions of this Agreement, including Section 13.
+3.2.6ImmuNext Clinical Representative. At ImmuNext’s sole cost and expense, up
+to [**] qualified ImmuNext representatives designated by ImmuNext shall be
+permitted to monitor the clinical site calls for the Phase 1A/1B Study. ImmuNext
+shall be responsible for the compliance of such representative(s) with the
+applicable terms and conditions of this Agreement, including Section 13.
+3.2.7Performance by Affiliates, Subcontractors and Academic Researchers.
+(a)Subject to the terms of this Section 3.2.7(a) and Section 7.1.2, each Party
+shall have the right to perform its obligations under the Phase 1A/1B Plan or
+the Research Plan or exercise rights under and Section 7.1.2, as applicable,
+through one or more Affiliates or Subcontractors, provided, in each case, that:
+(i) none of the other Party’s rights hereunder are diminished or otherwise
+adversely affected as a result of such delegation or subcontracting; (ii) each
+such Affiliate and Subcontractor undertakes in writing obligations of
+confidentiality and non-use regarding Confidential Information at least as
+stringent as those undertaken by the Parties pursuant to Section 13; (iii) prior
+to initiating conduct of any Phase 1A/1B Plan or the Research Plan activities,
+each such Affiliate and Subcontractor has signed a binding agreement or
+instrument assigning, and agreeing to assign, to such Party all Option Period
+Results, Inventions Made in the conduct of such activities, and Know-How
+pertaining to any such Invention that is Made in the course of conducting such
+activities during the Option Period (it being understood that Section 8.3.1(b)
+prohibits Curis and its Affiliates from Exploiting ImmuNext Technology,
+Compounds and Products outside the scope of or otherwise not in compliance with
+the licenses, sublicenses and other rights granted to Curis under this
+Agreement); and (iv) such Party shall at all times be fully responsible for the
+conduct of such Affiliate or Subcontractor, and no such delegation or
+subcontracting shall relieve such Party of its obligations under the Phase 1A/1B
+Plan, the Research Plan or this Agreement. Notwithstanding clause (iii) above,
+the Parties acknowledge that a Subcontractor that is a contract research
+organization or contract manufacturing organization may be unwilling to agree to
+assign to the subcontracting Party improvements to such Subcontractor’s
+pre‑existing proprietary technology that it uses in conducting such activities,
+or technology of broad applicability that such Subcontractor uses for multiple
+customers or clients in addition to such Party, and in such event such Party
+shall not be prohibited from delegating or subcontracting its obligations to
+such Subcontractor solely by reason thereof if such delegation or subcontracting
+is pursuant to commercially reasonable and customary terms that otherwise comply
+with this Section 3.2.7(a). The Party engaging a Subcontractor shall be
+responsible for the payment of such Subcontractor for the subcontracted
+activities.
+(b)Except as set forth in the remainder of this Section 3.2.7(b), neither Party
+shall subcontract any Phase 1A/1B Plan or Research Plan activities to any
+Academic Researcher without the other Party’s prior written consent, which the
+other Party may condition upon the Academic Researcher’s written agreement to
+terms and conditions regarding ownership and/or license of intellectual property
+rights and confidentiality and non‑use of information that, in each case, are
+acceptable to the other Party. Notwithstanding the foregoing,
+
+
+- 29 -
+
+--------------------------------------------------------------------------------
+
+
+
+
+
+
+
+(i) ImmuNext shall have the right to subcontract Research Plan activities to
+Upstream Licensor 1 pursuant to the Upstream SRA, (ii) ImmuNext shall have the
+right to subcontract Research Plan activities to Upstream Licensor 1 on a
+fee-for-service basis under terms and conditions that provide for any
+intellectual property Made under any such fee-for-service agreement to be owned
+by ImmuNext, or, solely in the case of engaging Upstream Licensor 1 to analyze
+samples, under terms and conditions under which ImmuNext shall have the right to
+use, without limitations on disclosure, all data generated in connection with
+such activities for any lawful purpose without obligation to Upstream
+Licensor 1, and (iii) Curis shall have the right to enter into clinical trial
+agreements with Academic Researchers at clinical trial sites for the Phase 1A/1B
+Study on customary and reasonable terms, which such clinical trial agreements
+shall include the assignment to Curis of all Inventions that are directed
+specifically to the Compound or Product that is the subject of such Phase 1A/1B
+Study (including the composition, or any method of use or manufacture, of such
+Compound or Product) or that are anticipated by the protocol for the Phase 1A/1B
+Study. In no event may either Party allow any Academic Researcher to conduct an
+investigator-sponsored trial of a Compound or Product.
+4.License Period Development and Commercialization.
+4.1Responsibility for Development and Commercialization. During the License
+Period, Curis shall have the sole right to conduct all Development and
+Commercialization activities with respect to the Compounds and Products in the
+Field, at Curis’ sole cost and expense. Curis shall be responsible for
+conducting all such Development and Commercialization activities with respect to
+Compounds and Products in compliance with all applicable Laws.
+4.2Diligence. During the License Period, Curis shall use Commercially Reasonable
+Efforts to Develop and Commercialize one (1) Product in each Major Market in the
+Field, and ImmuNext shall have no further obligations under the Research Plan.
+4.3Updates. On a [**] basis by [**] of each Calendar Year during the License
+Period prior to the First Commercial Sale of a Product, and on [**] of each
+Calendar Year thereafter, Curis shall provide a high-level update, in writing or
+as part of a JSC meeting, regarding its progress with respect to the Development
+and registration of Compounds and Products in the Field in the Major Markets,
+including the status and results of clinical trials and Regulatory Approvals
+applied for or obtained.
+4.4Marking. Curis, is Affiliates and Sublicensees shall mark all Products with
+applicable issued patent numbers or other intellectual property notices relating
+to such Products in conformance with applicable Laws and the applicable Upstream
+Agreements.
+5.Technology Transfer
+5.1ImmuNext Technology. To the extent not previously provided prior to the
+Effective Date, within [**] after the Effective Date, ImmuNext will provide to
+Curis one (1) electronic copy of the following ImmuNext Technology: (a) all
+documents in ImmuNext’s or any of its Affiliates’ possession as of the Effective
+Date that describe or contain the chemical or molecular structures, non-clinical
+data and reports on the Compounds, and (b) all documents in
+
+
+- 30 -
+
+--------------------------------------------------------------------------------
+
+
+
+
+
+
+
+ImmuNext’s or any of its Affiliates’ possession as of the Effective Date
+relating to clinical filings, data and reports on the Compounds. In addition, to
+the extent not included in clauses (a) and (b) of the preceding sentence,
+ImmuNext shall provide to Curis, within [**] after the Effective Date, true and
+complete copies of all written, graphic or electronic embodiments of data in the
+possession of ImmuNext or its Affiliates from preclinical studies and Clinical
+Trials of Compounds and Products (it being understood that ImmuNext makes no
+representation or warranty that any such embodiments of data that were provided
+to ImmuNext by Upstream Licensor 2 were or are true and complete).
+5.2Existing Inventory. Within [**] after the Effective Date, Curis shall provide
+ImmuNext with evidence that Curis has engaged contract research organizations to
+manage and store the Existing Inventory in a manner that is reasonably
+acceptable to ImmuNext. Following receipt of such evidence, ImmuNext will cause
+control of the Existing Inventory to be transferred to Curis. During the Option
+Period, (a) absent prior written consent from ImmuNext, Curis may not change any
+of the contract research organizations it engages to manage or store any of the
+Existing Inventory and (b) Curis shall not, and shall cause its Affiliates and
+Sublicensees not to, use the Existing Inventory for any purpose other than to
+conduct the Phase 1A/1B Study in accordance with the Phase 1A/1B Plan and any
+supportive non-clinical experiments for the Compounds and Products in the Field.
+6.Regulatory Responsibilities.
+6.1During the Option Period.
+6.1.1During the Option Period, Curis will submit a Curis IND cross-referencing
+the [**] IND to the appropriate Regulatory Authority in each jurisdiction where
+the Phase 1A/1B Study will be conducted. ImmuNext hereby grants to Curis and its
+Affiliates during the Option Period an exclusive Right of Reference to the [**]
+IND, solely for the purposes of: (i) filing and maintaining the Curis IND(s);
+(ii) conducting the Phase 1A/1B Study; and (iii) complying with applicable
+reporting and other regulatory requirements with respect to Products. ImmuNext
+shall, promptly upon Curis’ request, file with the applicable Regulatory
+Authority(ies) such letter(s) of authorization, access or cross-reference as may
+be necessary to accomplish the intent of the preceding sentence. Curis will have
+the sole right to conduct all regulatory activities to support the Curis IND(s),
+including all meetings, conferences and discussions (including advisory
+committee meetings), with regard to the Phase 1A/1B Study and the Curis IND(s),
+such activities to be conducted at Curis’ sole cost and expense; provided that,
+(a) Curis shall consult with ImmuNext regarding any such material communications
+and other material regulatory matters during the Option Period through the JSC,
+(b) if Curis requests that ImmuNext conduct any communications or otherwise
+interact with a Regulatory Authority, the Parties will discuss such request in
+good faith, and if the Parties agree, ImmuNext will engage in such
+communications or other interaction with such Regulatory Authority and (c) Curis
+shall provide ImmuNext with copies of all written communications with Regulatory
+Authorities and written minutes of non-written communications with Regulatory
+Authorities.
+6.1.2Prior to the transfer of the [**] IND pursuant to Section 6.2, Curis shall
+promptly provide ImmuNext with CMC data regarding the Existing Inventory
+transferred to Curis hereunder as reasonably requested by ImmuNext for ImmuNext
+to perform its reporting
+
+
+- 31 -
+
+--------------------------------------------------------------------------------
+
+
+
+
+
+
+
+obligations under the [**] IND and data required to support stability work.
+Without limiting the foregoing, Curis shall provide ImmuNext with the data set
+forth on Schedule 6.1.2 on an as-required basis to perform ImmuNext’s and its
+Affiliates’ regulatory obligations with respect to the [**] IND at the
+applicable frequency set forth on such Schedule. ImmuNext and its Affiliates may
+use the data provided under this Section 6.1.2 solely to perform ImmuNext’s and
+its Affiliates’ regulatory obligations with respect to the [**] IND. In
+addition, Curis and ImmuNext agree to cooperate in the drafting of the annual
+report for [**] and the filing thereof with relevant Regulatory Authorities.
+6.2During the License Period. Promptly upon Curis’ request following the start
+of the License Period, ImmuNext shall assign and transfer to Curis the [**] IND.
+Effective as of the Option Exercise Date (if any), unless the [**] IND is
+transferred to Curis, ImmuNext shall, and does hereby, grant to Curis and its
+Affiliates during the Option Period an exclusive Right of Reference to the [**]
+IND, solely for the purposes of: (i) obtaining and maintaining Regulatory
+Approvals for Products in the Field; (ii) to the extent Curis or any of its
+Affiliates is manufacturing, or having a contract manufacturing organization
+manufacture, Compound or Product, conducting or having conducted CMC activities
+in relation to Compound or Product; (iii) to the extent Curis or any of its
+Affiliates is manufacturing, or having a contract manufacturing organization
+manufacture, Compound or Product, the manufacture of Compound or Product for use
+or distribution anywhere in the world; and (iv) complying with applicable
+pharmacovigilance and other regulatory requirements with respect to Product, all
+in accordance with this Agreement. ImmuNext shall, promptly upon Curis’ request,
+file with applicable Regulatory Authorities such letters of authorization,
+access or cross-reference as may be necessary to accomplish the intent of the
+preceding sentence. During the License Period, Curis will be responsible for all
+regulatory matters with respect to the Compounds and Products in the Field, and
+Curis shall bear the associated costs and expenses. Without limiting the
+foregoing, during the License Period, Curis shall own all INDs and BLAs related
+to the Compounds and Products in the Field submitted by or on behalf of Curis
+and all Regulatory Approvals received with respect to Compounds and Products in
+the Field.
+6.3No Option Exercise. In the event that Curis does not exercise the Option by
+the end of the Option Period, (a) Curis shall transfer and assign to ImmuNext or
+its designee the Curis IND(s) and other Regulatory Filings submitted by Curis
+to, or filed by Curis with, any Regulatory Authority with respect to any
+Compound or Product, including any drug or biologic master files held by Curis
+solely related to Compound or Product; and (b) Curis shall have no rights under
+Section 6.2.
+6.4Pharmacovigilance. To the extent required by applicable Laws or requested by
+any Regulatory Authority with respect to the class of compounds or products that
+target VISTA, the Parties will cooperate with regard to the reporting and
+handling of safety information involving Compounds and Products, on the one
+hand, and Excluded Compounds, on the other hand. In such case, the Parties will
+negotiate in good faith and enter into a Safety Data Exchange Agreement defining
+the pharmacovigilance responsibilities of the Parties, including procedures
+governing the exchange of safety data and information affecting the class of
+compounds or products that target VISTA. If ImmuNext enters into a collaboration
+or license agreement with a Third Party to develop or commercialize one or more
+Excluded Compounds, and such agreement includes obligations of such Third Party
+for the benefit of Curis that are
+
+
+- 32 -
+
+--------------------------------------------------------------------------------
+
+
+
+
+
+
+
+substantially the same as those set forth above in this Section 6.4 (mutatis
+mutandis), then Curis agrees to comply with reciprocal obligations to such Third
+Party. Notwithstanding the foregoing, neither Party shall be obligated to enter
+into any such agreement if it determines in good faith that such agreement would
+cause a Party to violate applicable Laws.
+7.Manufacture and Supply
+7.1During the Option Period.
+7.1.1During the Option Period, Curis will have sole right, responsibility and
+control of, and will bear all costs and expenses of, managing the supply of all
+Existing Inventory. In addition, Curis will be responsible for all costs and
+expenses incurred during the Option Period for distribution of Existing
+Inventory to clinical sites, storage, testing, labeling, and, if necessary, bulk
+fill and finish; provided that, during the Option Period, Curis and its
+Affiliates and Sublicensees may only use Existing Inventory for the conduct of
+the Phase 1A/1B Study and support of the Research Plan. The Parties shall enter
+into a quality agreement, which will be consistent with this Agreement, setting
+forth the Parties’ respective rights and obligations with respect to the release
+of Existing Inventory, including the authority to release and ship Existing
+Inventory as required to support the Phase 1A/1B Study. Subject to Curis’ right
+to use Existing Inventory in accordance with this Agreement, ImmuNext shall
+retain all right, title and interest in and to all Existing Inventory during the
+Option Period.
+7.1.2Except as set forth in this Section 7.1.2 or as otherwise agreed in writing
+by the Parties, none of Curis, its Affiliates or Sublicensees may Manufacture or
+have Manufactured any Compound or Product during the Option Period. If the
+quantity and/or quality of Existing Inventory is insufficient for the conduct
+and completion of the Phase 1A/1B Study (and any additional Phase 1A/1B Study
+that the Parties agree Curis may conduct pursuant to Section 3.2.2(c), or the
+KOL Panel permits Curis to conduct in accordance with Section 17.2) and support
+of the Research Plan, Curis shall have the right during the Option Period to
+Manufacture or have Manufactured such additional quantity(ies) of Compound or
+Product as are reasonably necessary for such purposes. For clarity, Curis shall
+not be obligated to use in any Phase 1A/1B Study any Existing Inventory that
+Curis determines is not GMP-compliant, does not conform to the applicable
+specifications, or is otherwise not suitable for use in humans. If Curis
+proposes to Manufacture or have Manufactured additional quantity(ies) of
+Compound or Product in accordance with the foregoing, the Parties shall discuss
+the same in good faith and shall mutually agree as to the contract manufacturing
+organization(s) to be used for the Manufacture of such Compound or Product Curis
+shall keep ImmuNext reasonably informed of the proposed terms of any agreement
+with such contract manufacturing organization(s) for such Manufacture, shall
+consider in good faith all reasonable comments provided by ImmuNext and shall
+provide ImmuNext with a copy of the final agreement.
+7.2During the License Period. Promptly following the Option Exercise Date,
+ImmuNext shall transfer to Curis the materials Controlled by ImmuNext and its
+Affiliates that are necessary to synthesize or are reasonably useful for
+synthesizing the drug substance and/or drug product for the Compounds and
+Product, as well as all process and quality documentation, standards and assays
+for Compounds and Products that are Controlled by ImmuNext or its Affiliates;
+provided that in no event will ImmuNext or its Affiliates transfer to
+
+
+- 33 -
+
+--------------------------------------------------------------------------------
+
+
+
+
+
+
+
+Curis any Excluded ImmuNext Technology. During the License Period, Curis shall
+be responsible for Manufacturing (or having Manufactured) the drug substance and
+drug product forms of the Compounds and Products and will bear all of the
+associated costs and expenses.
+8.Licenses; Reservation of Rights; Exclusivity
+8.1Licenses.
+8.1.1To Curis.
+(a)Subject to the terms and conditions of this Agreement, ImmuNext hereby grants
+to Curis, during the Option Period, (i) an exclusive, worldwide, royalty‑free
+(sub)license, without the right to grant sublicenses but with the right to
+extend such (sub)license to Curis’ Affiliates, under the ImmuNext Technology, to
+research, develop and use Compounds and Products in the Field, and (ii) subject
+to Section 3.2.7(a) and Section 7.1.2, a co-exclusive, worldwide, royalty‑free
+(sub)license, without the right to grant sublicenses but with the right to
+extend such (sub)license to Curis’ Affiliates and the right to contract with
+Third Party contract manufacturing organizations solely in accordance with
+Section 3.2.7(a) and 7.1.2, under the ImmuNext Technology, to make and have made
+Compounds to be used to conduct the activities set forth in the Phase 1A/1B Plan
+((i) and (ii) collectively, the “Curis R&D License”).
+(b)Subject to the terms and conditions of this Agreement, effective as of the
+Option Exercise Date (if any), ImmuNext shall, and does hereby, grant to Curis
+an exclusive, worldwide, royalty-bearing (sub)license, including the right to
+sublicense through multiple tiers in accordance with Section 8.2, under the
+ImmuNext Technology and under ImmuNext’s interest in the Jointly Owned
+Technology, in each case, solely to Exploit Compounds and Products in the Field
+(the “Curis Commercial License”).
+8.1.2To ImmuNext. Subject to the terms and conditions of this Agreement,
+effective as of the Option Exercise Date (if any), Curis shall, and does hereby,
+grant to ImmuNext and its Affiliates an exclusive, worldwide, perpetual,
+irrevocable, royalty-free, fully paid-up license, including the right to
+sublicense through multiple tiers in accordance with Section 8.2, under the
+Curis Useful Technology and under Curis’ interest in the Joint Useful
+Technology, in each case, solely to Exploit Excluded Compounds outside the Field
+(the “ImmuNext License”). For the avoidance of doubt, the ImmuNext License shall
+survive the termination or expiration of this Agreement.
+8.2Sublicensing. Curis shall have the right to grant Sublicenses under the Curis
+Commercial License, and ImmuNext shall have the right to grant sublicenses under
+the ImmuNext License, in each case, through multiple tiers of sublicense solely
+in accordance with this Section 8.2, as follows:
+8.2.1each Sublicense or ImmuNext sublicense (as applicable) shall refer to this
+Agreement and shall be subordinate to and consistent with the terms and
+conditions of this Agreement, and shall not limit the ability of the granting
+Party to fully perform its obligations under this Agreement or the other Party’s
+rights under this Agreement;
+
+
+- 34 -
+
+--------------------------------------------------------------------------------
+
+
+
+
+
+
+
+8.2.2in each Sublicense, the Sublicensee shall agree to be subject to, and bound
+by, the terms and conditions of the applicable Upstream Agreements to the extent
+required under the terms of such Upstream Agreements;
+8.2.3Curis shall remain responsible for the performance of its obligations under
+this Agreement and the conduct of its Affiliates and Sublicensees hereunder,
+including the payment of all payments due, and making reports and keeping books
+and records, and shall cause each Affiliate and Sublicensee to enable Curis to
+comply with the terms and conditions of this Agreement;
+8.2.4ImmuNext shall remain responsible for the performance of its obligations
+under this Agreement and the conduct of its Affiliates and sublicensees
+hereunder, including making reports and keeping books and records, and shall
+cause each Affiliate and ImmuNext sublicensee to enable ImmuNext to comply with
+the terms and conditions of this Agreement; and
+8.2.5Sublicensees or ImmuNext sublicensees (as applicable) shall have the right
+to grant further Sublicenses or ImmuNext sublicenses (as applicable) of the same
+or lesser scope as its Sublicense or ImmuNext sublicense (as applicable) from
+the granting Party under the Curis Commercial License or the ImmuNext License,
+as applicable (the counterparty to such further Sublicense/sublicensee also
+being a “Sublicensee” or “ImmuNext sublicensee”, as applicable); provided,
+however, that such further Sublicenses or ImmuNext sublicenses (as applicable)
+shall be in accordance with and subject to all of the terms and conditions of
+this Section 8.2 and Section 8.3 (i.e., such initial Sublicensee or ImmuNext
+sublicensee shall be subject to this Section 8.2.5 in the same manner and to the
+same extent as the granting Party).
+8.3No Implied Licenses; Retained Rights; Reservation of Rights.
+8.3.1No Implied Licenses.
+(a)No license or other right is or shall be created or granted hereunder by
+implication, estoppel or otherwise. All licenses and rights are or shall be
+granted only as expressly provided in this Agreement. All rights not expressly
+granted by a Party under this Agreement are reserved by such Party and may be
+used by such Party for any purpose. Curis hereby acknowledges that neither
+ImmuNext nor any of its Affiliates is granting Curis or any of its Affiliates
+any rights under Excluded ImmuNext Technology.
+(b)Neither Curis nor any of its Affiliates will use or practice any ImmuNext
+Technology or Exploit any Compound or Product outside the scope of or otherwise
+not in compliance with the licenses, sublicenses and rights granted to Curis
+under this Agreement.
+(c)Notwithstanding any other provision of this Agreement, for the purposes of
+the Curis Licenses with respect to any Product that is a Combination Product,
+(i) such license will only include a license with respect to the Compound in
+such Combination Product, and (ii) in no event is a license granted hereunder
+with respect to any Other Active(s) included in such Combination Product.
+
+
+- 35 -
+
+--------------------------------------------------------------------------------
+
+
+
+
+
+
+
+(d)Neither ImmuNext nor any of its Affiliates will use or practice any Curis
+Useful Technology outside the scope of or otherwise not in compliance with the
+licenses and rights granted to ImmuNext under this Agreement.
+8.3.2Limited Exploitation Rights. Without limiting Section 8.4.2, Curis agrees
+(on behalf of itself and its Affiliates), and shall cause each of its
+Sublicensees to agree as a condition to the grant of a Sublicense, not to
+Exploit any ImmuNext Technology (a) for any compounds or products other than
+Compounds or Products or (b) outside the Field. Without limiting Section 8.3.1,
+ImmuNext agrees (on behalf of itself and its Affiliates), and shall cause each
+of its sublicensees to agree as a condition to the grant of a sublicense under
+the ImmuNext License, not to Exploit any Curis Useful Technology for any
+compounds or products other than Excluded Compounds outside the Field.
+8.3.3Retained Rights.
+(a)Notwithstanding anything herein to the contrary, ImmuNext and its Affiliates
+hereby retain the right under the ImmuNext Technology to make, have made and use
+(i) VISTA Antagonists other than Compounds as tool compounds and (ii) VISTA
+Antagonists for counterscreening, to perform its obligations under this
+Agreement, and as otherwise permitted by this Agreement. For clarity, except as
+expressly prohibited by Section 8.4.1, ImmuNext and its Affiliates retain all
+right, title and interest in and to the ImmuNext Technology in connection with
+the research, Development, Manufacture and Commercialization of compounds or
+products other than Compounds and Products.
+(b)Notwithstanding anything herein to the contrary, except as expressly
+prohibited by Section 8.4.2, Curis and its Affiliates retain all right, title
+and interest in and to the Curis Useful Technology and Curis’ interest in the
+Joint Useful Technology in connection with the research, Development,
+Manufacture and Commercialization of compounds or products other than Excluded
+Compounds.
+8.3.4Upstream Agreements. Curis acknowledges and agrees that this Agreement is
+subject to the terms and conditions of the Upstream Agreements. Further, without
+limiting any provision of any Upstream Agreement, this Agreement is expressly
+subject to the following reservations of rights:
+(a)this Agreement is subject to the reservation in Section 2.01 of Upstream
+Agreement 1;
+(b)this Agreement is subject to the reservation in clause 2.6 of Upstream
+Agreement 3;
+
+
+(c)this Agreement is subject to the reservation in Section 2.02 of Upstream
+Agreement 4;
+(d)this Agreement is subject to all of the terms and conditions of Title 35 of
+the United States Code §§200 et al. (“Bayh-Dole Act”) and 37 C.F.R. Part 401 et
+
+
+- 36 -
+
+--------------------------------------------------------------------------------
+
+
+
+
+
+
+
+al., as required, for example, under Section 2.02 of Upstream Agreement 4. Curis
+agrees to take all actions necessary on its part to enable ImmuNext and its
+Affiliates to perform its obligations under such Laws to the extent applicable
+to the ImmuNext Patents, including complying with the applicable sections with
+respect to the engagement of U.S. manufacturers (unless an appropriate waiver is
+obtained from the United States Government). Upon reasonable request by either
+Party, the other Party shall cooperate fully in requesting and obtaining any
+waiver with respect to any requirements of 35 U.S.C. § 204 applicable to the
+ImmuNext Patents that is necessary, and in securing the support of the relevant
+licensor of the ImmuNext Patents for such request.
+8.4Exclusivity.
+8.4.1ImmuNext. ImmuNext hereby covenants to Curis that, during the Term,
+ImmuNext shall not and shall cause its Affiliates not to: (a) clinically
+Develop, Manufacture or Commercialize any compound that specifically binds VISTA
+in the Field, nor (b) clinically Develop, Manufacture (other than Manufacture of
+Compound and Product on behalf of Curis) or Commercialize any VISTA Antagonist
+in or outside of the Field.
+8.4.2Curis. Curis hereby covenants to ImmuNext that, during the Term, Curis
+shall not and shall cause its Affiliates not to: (a) modify any of the CDRs of
+the Compounds or Products (provided, for clarity, that Curis may modify portions
+of the Compounds or Products outside of the CDRs, including the Fc portion of
+the Compounds or Products, as long as the resulting modified compound is a VISTA
+Antagonist), (b) conjugate (including any antibody- drug conjugate) any of the
+Compounds or Products, (c) research, Develop or Commercialize any of the
+Compounds or Products for any use outside the Field, nor (d) except for any
+compound licensed to Curis pursuant to the Aurigene Agreement as of the
+Effective Date, clinically Develop, Manufacture or Commercialize any compound
+that specifically binds VISTA in the Field other than the Compounds or Products
+as contemplated in this Agreement.
+8.4.3ImmuNext Change of Control or Acquisition.
+(a)ImmuNext Change of Control. Notwithstanding Section 8.4.1, if a Change of
+Control occurs with respect to ImmuNext or any of its Affiliates with a Third
+Party, and the Third Party (or any of such Third Party’s Affiliates or any
+successors or assigns of such Third Party or such Third Party’s Affiliates,
+other than ImmuNext and its Affiliates as of the Change of Control) has as of
+the Change of Control, or later has, a program (or rights thereto) that would
+otherwise violate Section 8.4.1 (each, an “ImmuNext COC Program”), then
+(i) Section 8.4.1 will not apply with respect to such ImmuNext COC Program, and
+(ii) such Third Party, or any of such Third Party’s Affiliates or any successors
+or assigns of such Third Party or such Third Party’s Affiliates, as applicable,
+will be permitted to initiate, pursue and continue such ImmuNext COC Program
+after such Change of Control and such initiation, pursuit and continuation will
+not constitute a violation of Section 8.4.1; provided that (A) none of the
+Jointly Owned Technology, Curis Useful Technology or Confidential Information of
+Curis will be used in the ImmuNext COC Program, and (B) the conduct of the
+Research Plan will be conducted separately from any activities directed to such
+ImmuNext COC Program, including the maintenance of separate lab notebooks and
+records and separate personnel working on each of the activities under this
+Agreement and the activities covered under such ImmuNext COC Program.
+
+
+- 37 -
+
+--------------------------------------------------------------------------------
+
+
+
+
+
+
+
+(b)ImmuNext Acquisition. In addition, notwithstanding Section 8.4.1, if
+(i) ImmuNext or its Affiliate acquires a Third Party (by merger, sale,
+consolidation, reorganization or otherwise) so that such Third Party becomes an
+Affiliate over which ImmuNext or its Affiliate has control, or (ii) ImmuNext or
+its Affiliate acquires all or substantially all of the assets of a Third Party
+(including any subsidiaries or divisions thereof) (each of (i) and (ii), an
+“ImmuNext Acquisition”), and, in each case, the Third Party (or any of such
+Third Party’s Affiliates or any successors or assigns of such Third Party or
+such Third Party’s Affiliates, other than ImmuNext and its Affiliates as of the
+ImmuNext Acquisition) already has, or the acquired assets contain, as
+applicable, a program that existed prior to, or was substantially in the process
+of being implemented prior to such ImmuNext Acquisition and is in fact
+implemented within the [**] period immediately following such ImmuNext
+Acquisition, the conduct of which, in each case, would otherwise violate any of
+Section 8.4.1 (an “ImmuNext Acquisition Program”), then ImmuNext or such
+Affiliate will, within [**] after the closing of such ImmuNext Acquisition,
+provide written notice to Curis that ImmuNext or such Affiliates has rights to
+an ImmuNext Acquisition Program as a result of an ImmuNext Acquisition, which
+written notice will indicate whether ImmuNext or such Affiliate will (A) divest
+its rights to such ImmuNext Acquisition Program, or (B) cease the Exploitation
+of such ImmuNext Acquisition Program. If ImmuNext provides notice as described
+in clause (A) of the preceding sentence, ImmuNext, and its Affiliates if
+applicable, will divest such ImmuNext Acquisition Program within [**] after
+Curis’ receipt of ImmuNext’s notice, and if ImmuNext provides notice as
+described in clause (B) of the preceding sentence, ImmuNext, and its Affiliates
+if applicable, will cease the Exploitation of such ImmuNext Acquisition Program
+as soon as reasonably practicable, giving due consideration to ethical concerns
+and requirements under applicable Law and any agreements with Third Parties. If
+ImmuNext or its Affiliates is unable to (1) divest an ImmuNext Acquisition
+Program within the [**] period specified above or (2) cease the Exploitation of
+such ImmuNext Acquisition Program because doing so would violate applicable Law
+or any agreements with Third Parties, then ImmuNext shall provide Curis with
+evidence of reasonable ongoing efforts to divest such ImmuNext Acquisition
+Program or reasonable plans to cease the Exploitation of such ImmuNext
+Acquisition Program, as applicable, and in each case, ImmuNext shall continue to
+work to divest or cease the Exploitation of such ImmuNext Acquisition Program.
+ImmuNext and its Affiliates will segregate the ImmuNext Acquisition Program
+prior to the time of divestiture pursuant to clause (A) or the cessation of
+Exploitation pursuant to clause (B) above, and ImmuNext and its Affiliates will
+ensure that (x) none of the Jointly Owned Technology, Curis Useful Technology or
+Confidential Information of Curis will be used in the ImmuNext Acquisition
+Program, and (y) the Research Plan will be conducted separately from any
+activities directed to such ImmuNext Acquisition Program, including the
+maintenance of separate lab notebooks and records and separate personnel working
+on each of the activities under this Agreement and the activities covered under
+such ImmuNext Acquisition Program.
+8.4.4Curis Change of Control or Acquisition.
+(a)Curis Change of Control. Notwithstanding Section 8.4.2, if a Change of
+Control occurs with respect to Curis or any of its Affiliates with a Third
+Party, and the Third Party (or any of such Third Party’s Affiliates or any
+successors or assigns of such Third Party or such Third Party’s Affiliates,
+other than Curis and its Affiliates as of the Change of Control) has as of the
+Change of Control, or later has, a program (or rights thereto) that would
+
+
+- 38 -
+
+--------------------------------------------------------------------------------
+
+
+
+
+
+
+
+otherwise violate Section 8.4.2 (each, a “Curis COC Program”), then
+(i) Section 8.4.2 will not apply with respect to such Curis COC Program, and
+(ii) such Third Party, or any of such Third Party’s Affiliates or any successors
+or assigns of such Third Party or such Third Party’s Affiliates, as applicable,
+will be permitted to initiate, pursue and continue such Curis COC Program after
+such Change of Control and such initiation, pursuit and continuation will not
+constitute a violation of Section 8.4.2; provided that (A) none of the ImmuNext
+Technology, Jointly Owned Technology, Confidential Information of ImmuNext, or
+materials supplied by or on behalf of ImmuNext to Curis or any of its Affiliates
+hereunder will be used in the Curis COC Program and (B) the activities under
+this Agreement will be conducted separately from any activities directed to such
+Curis COC Program, including the maintenance of separate lab notebooks and
+records and separate personnel working on each of the activities under this
+Agreement and the activities covered under such Curis COC Program.
+(b)Curis Acquisition. In addition, notwithstanding Section 8.4.2, if (i) Curis
+or its Affiliate acquires a Third Party (by merger, sale, consolidation,
+reorganization or otherwise) so that such Third Party becomes an Affiliate over
+which Curis or its Affiliate has control, or (ii) Curis or its Affiliate
+acquires all or substantially all of the assets of a Third Party (including any
+subsidiaries or divisions thereof) (each of (i) and (ii), a “Curis
+Acquisition”), and, in each case, the Third Party (or any of such Third Party’s
+Affiliates or any successors or assigns of such Third Party or such Third
+Party’s Affiliates, other than Curis and its Affiliates as of the Curis
+Acquisition) already has, or the acquired assets contain, as applicable, a
+program that existed prior to, or was substantially in the process of being
+implemented prior to such Curis Acquisition and is in fact implemented within
+the [**] period immediately following such Curis Acquisition, the conduct of
+which, in each case, would otherwise violate any of Section 8.4.2 (an “Curis
+Acquisition Program”), then Curis or such Affiliate will, within [**] after the
+closing of such Curis Acquisition, provide written notice to ImmuNext that Curis
+or such Affiliates has rights to a Curis Acquisition Program as a result of a
+Curis Acquisition, which written notice will indicate whether Curis or such
+Affiliate will (A) divest its rights to such Curis Acquisition Program, or
+(B) cease the Exploitation of such Curis Acquisition Program. If Curis provides
+notice as described in clause (A) of the preceding sentence, Curis, and its
+Affiliates if applicable, will divest such Curis Acquisition Program within [**]
+after ImmuNext’s receipt of Curis’ notice, and if Curis provides notice as
+described in clause (B) of the preceding sentence, Curis, and its Affiliates if
+applicable, will cease the Exploitation of such Curis Acquisition Program as
+soon as reasonably practicable, giving due consideration to ethical concerns and
+requirements under applicable Law and any agreements with Third Parties. If
+Curis or its Affiliates is unable to (1) divest a Curis Acquisition Program
+within the [**] period specified above or (2) cease the Exploitation of such
+Curis Acquisition Program because doing so would violate applicable Law or any
+agreements with Third Parties, then Curis shall provide ImmuNext with evidence
+of reasonable ongoing efforts to divest such Curis Acquisition Program or
+reasonable plans to cease the Exploitation of such Curis Acquisition Program, as
+applicable, and in each case, Curis shall continue to work to divest or cease
+the Exploitation of such Curis Acquisition Program. Curis and its Affiliates
+will segregate the Curis Acquisition Program prior to the time of divestiture
+pursuant to clause (A) or the cessation of Exploitation pursuant to clause (B)
+above, and Curis and its Affiliates will ensure that (x) none of the ImmuNext
+Technology, Jointly Owned Technology, Confidential Information of ImmuNext, or
+materials supplied by or on behalf of ImmuNext to Curis or any of its Affiliates
+hereunder will be used in
+
+
+- 39 -
+
+--------------------------------------------------------------------------------
+
+
+
+
+
+
+
+the Curis Acquisition Program, and (y) the activities required under this
+Agreement will be conducted separately from any activities directed to such
+Curis Acquisition Program, including the maintenance of separate lab notebooks
+and records and separate personnel working on each of the activities under this
+Agreement and the activities covered under such Curis Acquisition Program.
+8.5Excluded Compounds. As between the Parties, ImmuNext will retain all right,
+title and interest in and to all Excluded Compounds, and is not granting to
+Curis or its Affiliates any options, rights or licenses with respect to any
+Excluded Compounds, including the composition of matter or any method of use or
+Manufacture thereof.
+8.6Additional Vista Antagonists. If Curis determines in good faith that it needs
+access to an additional VISTA Antagonist antibody or CDR for Development under
+this Agreement in the Field, it will have the right to swap one of its existing
+Compounds for a different VISTA Antagonist antibody or CDR; provided that the
+Parties must mutually agree to the selection, and Curis must surrender a
+previously selected Compound back to ImmuNext. Upon such agreement, the Parties
+will amend Schedule 1.28 to reflect the CDRs for the then-current list of
+Licensed VISTA Antagonists. For clarity, Curis is limited to [**] distinct
+Compounds at any one time, though the specific Compounds subject to the Option,
+Curis Licenses and rights under this Agreement may change over time.
+9.Financial Terms
+9.1Program Support Payments. In partial consideration for drug substance,
+technical advice, and maintenance of the [**] IND and access to the ImmuNext
+Technology, Curis shall make payments as follows:
+9.1.1Upfront Payment. Within [**] after the Effective Date, Curis shall pay to
+ImmuNext a one-time, non-creditable, non-refundable payment of One Million Two
+Hundred Fifty Thousand Dollars ($1,250,000) (the “Upfront Fee”). If Curis fails
+to deliver the Upfront Fee within the specified period, then the Option and the
+Curis R&D License shall be deemed terminated, null and void.
+9.1.2Maintenance Fees. On each six (6)-month anniversary of the Effective Date
+during the Option Period, Curis shall pay to ImmuNext a non-creditable (except
+as set forth in this Section 9.1.2), non-refundable payment of Three Hundred
+Seventy-Five Thousand Dollars ($375,000) (collectively, the “Maintenance Fees”).
+ImmuNext shall deliver a written invoice to Curis for each Maintenance Fee due
+hereunder no earlier than [**] prior to the applicable six (6)-month period, and
+Curis shall pay such invoice within [**] of receipt. If Curis exercises the
+Option and timely paid a Maintenance Fee in the six (6) months prior to the date
+on which Curis will pay the Option Fee, then a pro-rated portion of the final
+Maintenance Fee paid prior to such Option exercise shall be creditable to the
+Option Fee. For example, if Curis exercises the Option two (2) months into the
+third (3rd) year of the Option Period, then four-sixths (4/6) of the final
+Maintenance Fee paid by Curis to ImmuNext would be credited to the Option Fee.
+
+
+- 40 -
+
+--------------------------------------------------------------------------------
+
+
+
+
+
+
+
+9.2Option Fee. On or within [**] after the date Curis delivers the Option
+Exercise Notice (but in any event prior to expiration of the Option Period),
+Curis shall pay to ImmuNext a one-time, non-creditable, non-refundable payment
+of Twenty Million Dollars ($20,000,000), subject to any credit to be applied
+pursuant to Section 9.1.2 (the “Option Fee”). If Curis fails to deliver the
+Option Fee prior to the expiration of the Option Period, then the Option, the
+Curis R&D License and all other rights and licenses granted hereunder shall be
+deemed terminated, null and void and the Curis Commercial License shall never be
+exercisable.
+9.3Milestones. In consideration for the grant of the Curis Commercial License:
+9.3.1Development Milestones.
+(a)Curis will make each of the following one-time, non-refundable,
+non-creditable milestone payments (each a “Development Milestone Payment”) to
+ImmuNext following the first occurrence of the corresponding milestone event
+(each a “Development Milestone Event”) by or on behalf of Curis, any of its
+Affiliates or any of their respective Sublicensees with respect to a Product
+during the License Period:
+Development Milestone Event
+Development Milestone Payment (in US Dollars)
+[**]
+[**]
+[**]
+[**]
+[**]
+[**]
+[**]
+[**]
+[**]
+[**]
+[**]
+[**]
+[**]
+[**]
+[**]
+[**]
+
+
+
+(b)For the avoidance of doubt, each Development Milestone Payment will be
+payable to ImmuNext no more than one (1) time.
+(c)If any of Development Milestone Events 3 through 8 is achieved and
+Development Milestone Event 1 or 2 was skipped, then the skipped Developmental
+Milestone Event(s) will be deemed to have been achieved upon the achievement of
+the first achievement of any of Development Milestone Events 3 through 8.
+Further, If Development Milestone Event 4 is achieved and Development Milestone
+Event 3 was skipped, then Development Milestone Event 3 will be deemed to have
+been achieved upon the achievement of Development Milestone Event 4.
+(d)Curis shall notify ImmuNext within [**] after the first occurrence of each
+such Development Milestone Event and shall pay to ImmuNext the corresponding
+Development Milestone Payment within [**] after the occurrence of such
+Development Milestone Event.
+
+
+- 41 -
+
+--------------------------------------------------------------------------------
+
+
+
+
+
+
+
+9.3.2Commercial Milestones.
+(a)Curis will make the following one-time, non-refundable, non-creditable
+milestone payments (each a “Commercial Milestone Payment”) to ImmuNext following
+the first occurrence of the corresponding milestone event (each a “Commercial
+Milestone Event”) with respect to Net Sales of Products by Curis, its Affiliates
+and Sublicensees:
+Commercial Milestone Event
+Commercial Milestone Payment (in US Dollars)
+First Calendar Year in which worldwide annual Net Sales of Products equal or
+exceed $[**]
+[**]
+Cumulative Net Sales of Products first reach $[**]
+[**]
+Cumulative Net Sales of Products first reach $[**]
+[**]
+Cumulative Net Sales of Products first reach $[**]
+[**]
+Cumulative Net Sales of Products first reach $[**]
+[**]
+Cumulative Net Sales of Products first reach $[**]
+[**]
+
+
+
+(b)For the avoidance of doubt, each Commercial Milestone Payment will be payable
+to ImmuNext no more than one (1) time. Further, the Commercial Milestone
+Payments in this Section 9.3.2 are additive, such that if more than one
+Commercial Milestone Event specified above is achieved in the same Calendar
+Year, then the corresponding Commercial Milestone Payment for each such
+Commercial Milestone Event will be payable.
+(c)Curis shall notify ImmuNext within [**] after the end of the Calendar Quarter
+in which each Commercial Milestone Event is achieved of the occurrence of such
+Commercial Milestone Event and shall pay to ImmuNext the corresponding payment
+within [**] after the end of the relevant Calendar Quarter.
+
+
+- 42 -
+
+--------------------------------------------------------------------------------
+
+
+
+
+
+
+
+9.4Royalty Payments to ImmuNext.
+9.4.1Royalties. Subject to Sections 9.4.2 through 9.4.8 hereof, as partial
+consideration for the Curis Commercial License, Curis will pay ImmuNext
+royalties on worldwide aggregate annual Net Sales of each Product by Curis, its
+Affiliates and Sublicensees on a Product-by-Product basis in each Calendar Year
+in which a Product is sold at the applicable incremental royalty rate(s) set
+forth below:
+Net Sales of a Product in a Calendar Year
+Column A:
+Royalty Rates for Net Sales occurring before the Royalty Reduction Date
+Column B:
+Royalty Rates for Net Sales occurring on after the Royalty Reduction Date
+Portion less than or equal to $[**]
+[**]%
+[**]%
+Portion greater than $[**] and less than or equal to $[**]
+[**]%
+[**]%
+Portion greater than $[**] and less than or equal to $[**]
+[**]%
+[**]%
+Portion greater than $[**] and less than or equal to $[**]
+[**]%
+[**]%
+Portion greater than $[**]
+[**]%
+[**]%
+
+Provided that, if any actions or omissions by or on behalf of Curis or any of
+its Affiliates or Sublicensees cause the royalty rate payable pursuant to the
+[**] Agreement to be greater than the lowest amount set forth therein on the
+Effective Date, the royalty rate set forth above in this Section 9.4.1 shall be
+increased by the increase in royalty rate payable pursuant to the [**]
+Agreement.
+Royalties under this Section 9.4.1 shall be calculated by reference to
+increments of worldwide aggregate annual Net Sales of each Product in a Calendar
+Year. By way of example, in the case of a Product to which the royalty rates in
+Column A apply, if worldwide aggregate annual Net Sales of such Product in a
+Calendar Year are $[**], the following royalty payment for such Calendar Year
+would be payable under this Section 9.4.1: [**].
+9.4.2Royalty Term. Royalties under Section 9.4.1 shall be payable on a
+Product-by-Product and country-by-country basis, from the date of First
+Commercial Sale of a Product in a country until the latest of: (a) the
+expiration of the last to expire Valid Claim of any ImmuNext Patent or Jointly
+Owned Patent Covering the manufacture, use or sale of such Product in such
+country, (b) the expiration of all Regulatory Exclusivity for such Product in
+such country, and (c) ten (10) years from the First Commercial Sale of such
+Product in such country (the “Royalty Term”). On a Product-by-Product and
+country-by-country basis, upon expiration of the Royalty Term with respect to a
+Product in a country, the Curis Commercial License with respect to such Product
+in such country shall automatically become royalty-free, fully paid-up,
+irrevocable and perpetual.
+
+
+- 43 -
+
+--------------------------------------------------------------------------------
+
+
+
+
+
+
+
+9.4.3Reduction of Royalties Due to Patent Expiration. Subject to Section 9.4.7,
+during any portion of the Royalty Term for a Product in a country when there is
+no Valid Claim of the ImmuNext Patents or Jointly Owned Patents Covering the
+manufacture, use or sale of such Product in such country, the royalties payable
+by Curis with respect to Net Sales of such Product in such country shall be
+reduced by [**] percent ([**]%) in accordance with Section 9.4.5.
+9.4.4Biosimilar Competition. Subject to Section 9.4.7, on a Product-by-Product
+and country-by-country basis, if, during the Royalty Term for a Product in a
+country, unit sales of one or more Biosimilars of such Product in a country
+account for more than [**] percent ([**]%) of combined unit sales of (a) such
+Product and (b) such Biosimilar(s), in such country, as determined by reference
+to applicable sales data obtained from IQVIA or from such other independent
+source for such sales data as may be agreed upon by the Parties (provided that
+such other source, if any, shall be generally recognized as a reliable source
+for pharmaceutical sales data among major pharmaceutical companies), then for
+the remainder of the Royalty Term for such Product in such country, the
+royalties payable by Curis with respect to Net Sales of such Product in such
+country shall be reduced by [**] percent ([**]%) in accordance with
+Section 9.4.5.
+9.4.5Calculation of Reductions to Royalties. Any reduction pursuant to
+Section 9.4.3 or Section 9.4.4 of the royalties payable by Curis to ImmuNext
+with respect to Net Sales of a particular Product in a particular country under
+Section 9.4.1 will be calculated as follows:
+(a)Determination of Effective Royalty Rate. First, the effective, or “blended,”
+royalty rate applicable to worldwide aggregate annual Net Sales of such Product
+(excluding Net Sales of such Product in any country that occur after expiration
+of the Royalty Term for such Product in such country) in the applicable Calendar
+Year will be determined by dividing: (x) the total amount of royalties that
+would be payable under Section 9.4.1 with respect to worldwide aggregate annual
+Net Sales of such Product in such Calendar Year (excluding Net Sales of such
+Product in any country that occur after expiration of the Royalty Term for such
+Product in such country), without giving effect to any royalty reduction or
+adjustment that may be available under Section 9.4.3, Section 9.4.4 or
+Section 9.4.6; by (y) the total amount of worldwide aggregate annual Net Sales
+of such Product in such Calendar Year (excluding Net Sales of such Product in
+any country that occur after expiration of the Royalty Term for such Product in
+such country); expressed as a percentage (such percentage, the “Effective
+Royalty Rate”). By way of illustration, the Effective Royalty Rate in the case
+of the example given in the last paragraph of Section 9.4.1 would be
+approximately [**].
+(b)Application of Reductions. Any available royalty reduction under
+Section 9.4.3 or Section 9.4.4 with respect to Net Sales of a particular Product
+in a particular country would be calculated by applying the applicable
+percentage reduction under such Section to the amount of royalties determined by
+multiplying the Net Sales of such Product in such country by the applicable
+Effective Royalty Rate.
+9.4.6Third Party Licenses. Subject to Section 9.4.7, in the event that Curis (or
+its Affiliate or Sublicensee, as applicable) is required to obtain one or more
+licenses
+
+
+- 44 -
+
+--------------------------------------------------------------------------------
+
+
+
+
+
+
+
+under Patents of a Third Party (“Third Party Licenses”) that are reasonably
+necessary for the manufacture, use or sale of a Product in a country, [**]% of
+the royalties actually paid under such Third Party Licenses by Curis (or by such
+Affiliate or Sublicensee, as applicable) for sales of such Product in such
+country for a Calendar Quarter will be creditable against the royalty payments
+payable by Curis to ImmuNext with respect to Net Sales of such Product in such
+country; provided, however, that in no event will the royalties owed by Curis to
+ImmuNext hereunder with respect to Net Sales of such Product for such Calendar
+Quarter be reduced by more than [**]% as a result of any and all such credits in
+the aggregate (the “Credit Cap”). In the event that [**]% of the royalty
+payments paid under such Third Party Licenses in a Calendar Quarter with respect
+to sales of such Product exceeds the amount by which Curis is permitted to
+credit against royalty payments to ImmuNext in such Calendar Quarter by reason
+of the Credit Cap, Curis shall be entitled to carry forward the excess to offset
+royalty payments due to ImmuNext in the following [**], subject, in each case,
+to the Credit Cap. For clarity, Curis will not be entitled to credit any portion
+of royalties paid by Curis or its Affiliate or Sublicensee to Third Parties
+under Third Party Licenses with respect to any Other Active in any Combination
+Product.
+9.4.7Royalty Floor. In no case shall all available reductions to royalties
+payable with respect to a particular Product in a country under Sections 9.4.3,
+9.4.4 and 9.4.6, in the aggregate, lower the amount of royalties payable under
+this Section 9.4 with respect to such Product in such country to less than the
+greater of (a) [**] percent ([**]%) of the royalty payment that would be payable
+to ImmuNext with respect to such Product in such country in such Calendar
+Quarter absent any such reductions or (b) the sum of ImmuNext’s royalty payment
+obligations under the Upstream Agreements with respect to such Product in such
+country in such Calendar Quarter plus [**] percent ([**]%).
+9.4.8Only One Royalty. The obligation to pay royalties pursuant to Section 9.4.1
+is imposed only once with respect to the same unit of a Product, regardless of
+how many ImmuNext Patents or Jointly Owned Patents may cover or claim the
+Product.
+9.5Sublicensing Revenue.
+9.5.1Curis shall pay to ImmuNext [**] percent ([**]%) of Sublicense Revenue
+received by Curis or any of its Affiliates from a Sublicensee.
+9.5.2Neither Curis nor any of its Affiliates will structure a transaction with a
+Sublicensee that includes both a Sublicense and a (sub)license under other
+technology in a manner designed to circumvent or minimize Curis’ obligations
+under Section 9.5.1 by allocating disproportionate relative value to the other
+technology being (sub)licensed.
+9.5.3Each time Curis or any of its Affiliates grants a Sublicense that is
+subject to Section 9.5.1, Curis will provide ImmuNext with a true and complete
+copy of the Sublicense agreement, and if ImmuNext believes that Curis or its
+Affiliate has structured such agreement in a manner designed to circumvent or
+minimize Curis’ obligations under Section 9.5.1 (whether pursuant solely to such
+agreement or a series of agreements or transactions), ImmuNext may refer such
+dispute to baseball arbitration in accordance with Section 17.1.
+
+
+- 45 -
+
+--------------------------------------------------------------------------------
+
+
+
+
+
+
+
+9.6Third Party Agreements.
+9.6.1Upstream Agreements. During the Term of this Agreement, except as otherwise
+expressly set forth in Section 10.5, ImmuNext will be solely responsible for all
+upfront, milestone, royalty and other payments to any Third Party under the
+Upstream Agreements.
+9.6.2Negotiation of Option Period New In-Licenses. During the Option Period, if
+a Party identifies any Patents or Know-How of a Third Party to which a Party (or
+its Affiliate) does not have rights and that may be necessary or reasonably
+useful for the development, manufacture, use, sale, offer for sale, import, or
+export of Compounds or Products in the Field, such Party shall inform the other
+Party thereof. ImmuNext shall have the first right to negotiate and enter into
+an agreement pursuant to which ImmuNext or its Affiliate will obtain a license
+or other rights to such Patents or Know-How (each such agreement, an “Option
+Period New In-License”). Within [**] of a Party providing notice to the other
+Party pursuant to the foregoing provisions of this Section 9.6.2, ImmuNext shall
+notify Curis in writing that ImmuNext shall exercise such first right to
+negotiate and enter into such Option Period New In-License or that ImmuNext is
+waiving such first right to negotiate and enter into such Option Period New
+In-License. If ImmuNext notifies Curis that ImmuNext is waiving such first right
+to negotiate and enter into such Option Period New In-License, or if ImmuNext
+fails to deliver written notice to Curis within such [**] period indicating that
+ImmuNext shall exercise such first right to negotiate and enter into such Option
+Period New In-License, then Curis shall have the right to negotiate and enter
+into such Option Period New In-License, provided that such Option Period New
+In-License shall expressly permit assignment to ImmuNext without the consent of
+the licensor in the event of termination or expiration of the Option Period
+prior to exercise of the Option by Curis. If a Party exercises its right to
+negotiate and enter into any Option Period New In-License during the Option
+Period, such Party (the “Option Period Negotiating Party”) shall keep the other
+Party reasonably informed regarding the progress of negotiating such Option
+Period New In-License and the terms thereof. If ImmuNext is the Option Period
+Negotiating Party, (a) the terms of such Option Period New In-License shall not
+disadvantage any Compound or Product (including any activities under this
+Agreement with respect to any Compound or Product) relative to any other
+compound or product covered by such Option Period New In-License, (b) ImmuNext
+shall use Commercially Reasonable Efforts to negotiate terms of such Option
+Period New In-License that apply to Compounds or Products (including sublicense
+rights, patent matters, confidentiality, reporting, audit rights,
+indemnification and diligence) that are no less favorable to Curis than the
+terms of this Agreement and (c) ImmuNext shall reasonably negotiate to include
+in such Option Period New In-License a “standby license” such that if such
+agreement is terminated by the licensor for any reason other than Curis’ breach
+of this Agreement or such Option Period New In-License, Curis shall retain
+access to the licenses granted under such Option Period New In-License. If the
+Option Period Negotiating Party (or its Affiliate) enters into an Option Period
+New In-License, the Option Period Negotiating Party will provide a true and
+complete copy of such Option Period New In-License to the other Party within
+[**] after execution of such Option Period New In-License.
+9.6.3Election Under Option Period New In-Licenses. At such time (if ever) as
+Curis exercises the Option, Curis shall notify ImmuNext in writing (either in
+the Option Exercise Notice or by other written notice to ImmuNext delivered
+prior to the Option
+
+
+- 46 -
+
+--------------------------------------------------------------------------------
+
+
+
+
+
+
+
+Exercise Date) of each Option Period New In-License entered into by ImmuNext or
+its Affiliate under which Curis elects to obtain a sublicense under the Curis
+Commercial License, including the specific Patents (if less than all) and/or
+Know-How (if less than all) subject to such Option Period New In‑License that
+Curis elects to include in the ImmuNext Patents and/or ImmuNext Know-How,
+respectively. Any such Patents and/or Know-How under which Curis elects to
+obtain a sublicense (“Option Period New In-License Patents” and “Option Period
+New In-License Know-How,” respectively) shall be deemed included the ImmuNext
+Patents and/or ImmuNext Know-How, respectively, effective as of the Option
+Exercise Date (if any). During the License Period, Curis shall pay to ImmuNext
+in a timely manner, and ImmuNext shall pay to the applicable Third Party
+licensee in a timely manner, all milestone payments and royalties with respect
+to any Compound or Product that become due under the applicable Option Period
+New In-License as a result of the development, manufacture, use, sale, offer for
+sale, import, or export of any Compound or Product by or on behalf of Curis, its
+Affiliates and Sublicensees, on a pass-through basis (i.e., without mark-up), it
+being understood that: (i) any such milestone payments or royalties payable with
+respect to any Compound or Product under such Option Period New In-License are
+in addition to the milestone payments and royalties due under Sections 9.3 and
+9.4; and (ii) with respect to any Option Period New In-License Patents covered
+by such Option Period New In-License that are included in the ImmuNext Patents,
+such Option Period New In-License shall be deemed a Third Party License for
+purposes of Section 9.4.6.
+9.6.4Negotiation of License Period New In-Licenses.
+(a)During the License Period, if a Party identifies any Patents or Know-How of a
+Third Party to which a Party (or its Affiliate) does not have rights and that
+may be necessary or reasonably useful for the development, manufacture, use,
+sale, offer for sale, import, or export of Compounds or Products in the Field,
+such Party shall inform the other Party thereof. Unless the Parties mutually
+agree in their sole discretion that one of the Parties will negotiate, for the
+benefit of both Parties, an agreement pursuant to which such Party obtains on
+behalf of both Parties a license or other rights to such Patents or Know-How
+(each such agreement, an “License Period New In-License”) as are necessary or
+reasonably useful both for the development, manufacture, use, sale, offer for
+sale import, or export of Compounds or Products in the Field and for the
+development, manufacture, use, sale, offer for sale, import, or export Excluded
+Compounds outside the Field, Curis shall have the sole right to negotiate and
+enter into a License Period New In-License with such Third Party under the
+applicable Patents and/or Know-How to develop, make, have made, use, sell, have
+sold, offer for sale, import or export Compounds and Products in the Field and
+ImmuNext shall have the sole right to negotiate and enter into a License Period
+New In-License with such Third Party under the applicable Patents and/or
+Know-How to develop, make, have made, use, sell, have sold, offer for sale,
+import or export Excluded Compounds outside the Field. Each Party shall be
+solely responsible for payment of all amounts that become due under any such
+License Period New In-License entered into by such Party or its Affiliate, and,
+to the extent applicable, any License Period New In-License entered into by
+Curis shall be deemed a Third Party License for purposes of Section 9.4.6.
+(b)Notwithstanding the definitions of ImmuNext Patents and ImmuNext Know-How,
+during the License Period, if, notwithstanding Section 9.6.4(a), ImmuNext or its
+Affiliate obtains any license from any Third Party (whether by in-license or by
+
+
+- 47 -
+
+--------------------------------------------------------------------------------
+
+
+
+
+
+
+
+assignment of a license agreement to ImmuNext or its Affiliate, but subject to
+Section 18.4.1) under any Patents and/or Know-How of such Third Party that is
+necessary or reasonably useful for the development, manufacture, use, sale,
+offer for sale, import, or export of Compounds or Products in the Field,
+ImmuNext shall provide written notice thereof to Curis no later than [**] after
+ImmuNext or its Affiliate obtains such license and a copy of the applicable
+license agreement. Curis, at its sole option exercisable by written notice to
+ImmuNext within [**] of Curis’ receipt of a copy of such license agreement,
+elect to include the Patents (or any of them) and/or Know-How (or any of it)
+subject to such license agreement in the ImmuNext Patents and/or ImmuNext
+Know-How, respectively. Thereafter during the License Period, Curis shall pay to
+ImmuNext in a timely manner, and ImmuNext shall pay to the applicable Third
+Party licensee in a timely manner, all milestone payments and royalties with
+respect to any Compound or Product that become due under such license agreement
+as a result of the development or commercialization of any Compound or Product
+by or on behalf of Curis, its Affiliates and Sublicensees, on a pass-through
+basis (i.e., without mark-up), it being understood that: (i) any such milestone
+payments or royalties payable with respect to any Compound or Product under such
+license agreement are in addition to the milestone payments and royalties due
+under Sections 9.3 and 9.4; and (ii) with respect to any Patents licensed to
+ImmuNext under such license agreement that are included in the ImmuNext Patents,
+to the extent applicable, such license agreement shall be deemed a Third Party
+License for purposes of Section 9.4.6. If, during the [**] period following
+Curis’ receipt of a copy of such license agreement, Curis does not provide a
+written notice to ImmuNext electing to include the Patents (or any of them)
+and/or Know-How (or any of it) subject to such license agreement in the ImmuNext
+Patents and/or ImmuNext Know-How, respectively, such Patents and Know-How will
+not be included in the definition of ImmuNext Patents or ImmuNext Know-How, as
+applicable.
+9.6.5Confidentiality. Any copy of an Option Period New In-License or License
+Period New In-License or other license agreement entered into by a Party that is
+provided to the other Party pursuant to Section 9.6.2 or Section 9.6.3 shall be
+deemed the Confidential Information of the Party providing such copy.
+10.Payments; Records; Audits
+10.1Royalty Payment Reports. Royalties under Section 9.4 and payments with
+respect to Sublicense Revenues under Section 9.5 shall be calculated and
+reported for each Calendar Quarter and shall be paid within [**] after the end
+of each Calendar Quarter (or portion thereof if this Agreement terminates during
+a Calendar Quarter). Each such payment shall be accompanied or preceded by a
+written report of Net Sales and Sublicense Revenues in sufficient detail to
+permit confirmation of the accuracy of the payment made, including, on a
+country-by-country basis, the amount of gross sales and Net Sales of each
+Product in each country during the applicable Calendar Quarter (including such
+amounts expressed in local currency and as converted to Dollars), and a detailed
+calculation of royalty payments due on such Net Sales for such Calendar Quarter
+(including all deductions and reductions and tax withholding). Reporting for the
+Calendar Quarter in which the rates in Column A of the table in Section 9.4.1
+cease to apply and the royalty rates in Column B of the table in Section 9.4.1
+begin to apply shall be sufficiently detailed for ImmuNext to pay the
+appropriate royalty to Upstream Licensor 4. Further, upon request, Curis shall
+meet with Upstream Licensor 4 to discuss the calculations of royalties for such
+Calendar Quarter.
+
+
+- 48 -
+
+--------------------------------------------------------------------------------
+
+
+
+
+
+
+
+10.2Exchange Rate; Manner and Place of Payment. All payment amounts in this
+Agreement are expressed in Dollars, and all payments hereunder shall be payable
+in Dollars. When conversion of payments from any foreign currency is required,
+such conversion shall be calculated at the rate of exchange for such currency
+used throughout the applicable Selling Party’s accounting system for financial
+reporting purposes for the Calendar Quarter for which payment is due. All
+payments owed under this Agreement shall be made by wire transfer of immediately
+available funds to such U.S. bank account as shall be designated by ImmuNext.
+10.3Records Retention. Curis shall keep, and shall cause each of its Affiliates
+and Sublicensees, if any, to keep, full and accurate books of accounting
+pertaining to the sale or other disposition of Products and the receipt of
+Sublicense Revenues in sufficient detail to permit ImmuNext to confirm the
+accuracy of all Net Sales-based payments under Sections 9.3.2 and 9.4 and all
+amounts payable to ImmuNext with respect to Sublicense Revenues under
+Section 9.5, for a period of [**] after the Calendar Year to which such records
+pertain. Records shall be kept at Curis’ principal place of business.
+10.4Audits.
+10.4.1By ImmuNext. During the Term and for a period of [**] thereafter, Curis
+shall permit an independent, certified public accountant of nationally
+recognized standing appointed by ImmuNext, and reasonably acceptable to Curis,
+during normal business hours and upon [**] prior written notice, but in no case
+more than [**], to examine such records, at the location(s) where such records
+are maintained by or on behalf of Curis in the ordinary course of business, as
+may be necessary for the sole purpose of verifying the calculation and reporting
+of Net Sales and the correctness of any payment made under this Agreement for
+any period within the preceding [**], provided that the records for a given
+Calendar Year shall be subject to audit pursuant to this Section 10.4 [**],
+except as otherwise permitted to be audited pursuant to the terms of an Upstream
+Agreement. Results of any such examination shall be made available
+simultaneously to both Curis and ImmuNext. The independent, certified public
+accountant shall disclose to ImmuNext only the amounts that the independent
+auditor believes to be due and payable hereunder to ImmuNext, details concerning
+any discrepancy from the amount paid and the amount due, and shall disclose no
+other information revealed in such audit. Any and all records examined by such
+independent accountant shall be deemed Curis’ Confidential Information which may
+not be disclosed by said independent, certified public accountant to any Third
+Party, and Curis may require such accountant to enter into an appropriate
+written agreement obligating it to be bound by obligations of confidentiality
+and restrictions on use of such Confidential Information that are substantially
+similar to the obligations and restrictions set forth in Section 13. If, as a
+result of any inspection of the books and records of Curis, its Affiliates or
+any Sublicensee, it is shown that payments under this Agreement were less than
+the amount, which should have been paid, then Curis shall make all payments
+required to be made to eliminate any discrepancy revealed by such inspection
+within [**] of receipt of the applicable report from the independent auditor,
+with interest from the date such amount was due (calculated in accordance with
+Section 10.7). If, as a result of any inspection of the books and records of
+Curis, its Affiliates or any Sublicensee pursuant to this Section 10.4, it is
+shown that payments under this Agreement were more than the amount which should
+have been paid, then ImmuNext shall credit such amounts to Curis against the
+next payment due ImmuNext. If there are no future payments due ImmuNext, such
+credit shall be paid to Curis within [**] after the date of
+
+
+- 49 -
+
+--------------------------------------------------------------------------------
+
+
+
+
+
+
+
+the audit report. ImmuNext shall pay for such audits, except that in the event
+that the audited amounts were underpaid by Curis by more than [**] percent
+([**]%) of the amounts that should have been paid during the period in question
+as per the audit, Curis shall pay the reasonable out-of-pocket costs of the
+audit. Except as set forth in Section 10.4.2, upon the expiration of [**]
+following the end of any Calendar Year, the calculation of royalties payable
+with respect to such year shall be binding and conclusive upon the Parties.
+10.4.2By ImmuNext on Behalf of Upstream Licensor 4. During the Term and for a
+period of [**] thereafter, Curis shall permit an independent, certified public
+accountant of nationally recognized standing appointed by Upstream Licensor 4,
+and reasonably acceptable to ImmuNext and Curis, during normal business hours
+and upon [**] prior written notice to examine such records, at the location(s)
+where such records are maintained, as may be necessary for the sole purpose of
+verifying the calculation and reporting of Net Sales and the correctness of any
+payment made under this Agreement for any period within the preceding [**]. Any
+such audit shall be conducted on behalf of Upstream Licensor 4 and [**], whether
+conducted by or on behalf of ImmuNext pursuant to Section 10.4.1 or conducted by
+or on behalf of ImmuNext on behalf of Upstream Licensor 4 pursuant to this
+Section 10.4.2, may be conducted in [**]; provided that, notwithstanding
+anything to the contrary in Section 10.4.1, ImmuNext shall be entitled to
+conduct [**] on behalf of Upstream Licensor 4 following expiration or
+termination of this Agreement and provided further that such [**] limitation
+shall not apply in the event that Upstream Licensor 4 exercises its right to an
+audit during a [**] in which ImmuNext has already exercised its own right to an
+audit. The terms set forth in Section 10.4.1 regarding sharing of the report of
+the independent public accountant, disclosure of the results of examination,
+amounts due and payable, details of discrepancy from the amounts paid and the
+amounts due, in each case, shall apply to any audit conducted under this
+Section 10.4.2; provided, however, that ImmuNext may disclose such information
+to Upstream Licensor 4, but no other Third Party. If, as a result of any
+inspection of the books and records of Curis, its Affiliates or any Sublicensee
+pursuant to this Section 10.4.2, it is shown that payments under this Agreement
+were less than the amount which should have been paid, then Curis shall make all
+payments required to be made to eliminate any discrepancy with respect to
+payments owed by ImmuNext to Upstream Licensor 4 under Upstream Agreement 4
+revealed by such inspection within [**]. Upon the expiration of [**] following
+the end of any Calendar Year, the calculation of royalties payable with respect
+to such year shall be binding and conclusive upon Upstream Licensor 4.
+10.5Diligence Payments under Upstream Agreement 1.
+10.5.1ImmuNext shall be solely responsible for the payment of any milestone
+payment that becomes due under Section 5.01(e) of Upstream Agreement 1 as a
+result of the achievement by ImmuNext, its Affiliate or any Third Party
+sublicensee of any milestone event set forth in Section 5.01 of Upstream
+Agreement 1, and Curis shall have no obligation to ImmuNext with respect to such
+payment or with respect to the corresponding diligence obligation set forth in
+Section 4.01 of Upstream Agreement 1.
+10.5.2At least [**] prior to each of the diligence obligation dates set forth
+Section 4.01 of Upstream Agreement 1 with respect to any diligence obligation
+that has not been previously performed by ImmuNext, its Affiliate or a Third
+Party sublicensee, ImmuNext shall
+
+
+- 50 -
+
+--------------------------------------------------------------------------------
+
+
+
+
+
+
+
+provide written notice to Curis of the number of Third Party sublicensees under
+the license granted to ImmuNext pursuant to Upstream Agreement 1 as of such
+date. Curis shall provide written notice to ImmuNext at least [**] prior to each
+of the diligence obligation dates set forth Section 4.01 of Upstream Agreement 1
+with respect to any diligence obligation that has not been performed by
+ImmuNext, its Affiliate or a Third Party sublicensee as to whether or not Curis
+elects to retain its sublicense under the license granted to ImmuNext pursuant
+to Upstream Agreement 1 (each, a “Notification”). If (a) Curis elects to retain
+such sublicense and (b) neither Curis nor ImmuNext nor any of its Affiliates or
+Third Party sublicensees has performed such diligence obligation by the
+applicable diligence obligation date, then Curis shall pay to ImmuNext that
+portion of the milestone payment corresponding to such diligence obligation set
+forth in Section 5.01(e) of Upstream Agreement 1 determined by [**] pursuant to
+Upstream Agreement 1.
+10.5.3During the License Period, and only if the First Commercial Sale of a
+Product has occurred prior to the time a particular minimum annual royalty
+payment is actually paid by ImmuNext to Upstream Licensor 1 under Section 4.02
+of Upstream Agreement 1, Curis shall pay to ImmuNext that portion of the
+applicable minimum annual royalty due to Upstream Licensor 1 determined by [**].
+10.5.4[**] percent ([**]%) of any payment made by Curis to ImmuNext under this
+Section 10.5 shall be credited towards the next milestone payment payable by
+Curis to ImmuNext under Section 9.3.1, if any.
+10.5.5ImmuNext shall submit to Curis a written invoice for any payment that
+becomes due pursuant to this Section 10.5, which notice shall set forth the
+number of Third Party sublicensees under the license granted to ImmuNext
+pursuant to Upstream Agreement 1 as of the date the corresponding payment became
+due to Upstream Licensor 1. Curis shall pay the undisputed amounts set forth in
+each such invoice within [**] after receipt of such invoice. For clarity, should
+there not be a next milestone payment payable by Curis to ImmuNext to offset the
+credit, then Curis may apply the full amount of such credit against royalties
+payable by Curis to ImmuNext hereunder.
+10.5.6Should a Notification indicate that Curis elects not to retain its
+sublicense under the license granted to ImmuNext pursuant to Upstream
+Agreement 1, all ImmuNext Technology that is subject to ImmuNext’s Control
+pursuant to Upstream Agreement 1 shall be automatically excluded from ImmuNext
+Technology for purposes of this Agreement, and Curis will not be responsible for
+any diligence milestone payment or annual minimum royalty (or any portion of
+either of the foregoing) that becomes due after such Notification.
+10.5.7Except as set forth in this Section 10.5, Curis will not be responsible
+for any payment obligation of ImmuNext or its Affiliates under any Upstream
+Agreement.
+
+
+- 51 -
+
+--------------------------------------------------------------------------------
+
+
+
+
+
+
+
+10.6Taxes.
+10.6.1Curis will make all payments to ImmuNext under this Agreement without
+deduction or withholding for taxes except to the extent that any such deduction
+or withholding is required by Law in effect at the time of payment.
+10.6.2Any tax required to be withheld on amounts payable under this Agreement
+will promptly be paid by Curis on behalf of ImmuNext to the appropriate
+governmental authority, and Curis will furnish ImmuNext with proof of payment of
+such tax. Any such tax required to be withheld will be borne by ImmuNext.
+10.6.3Curis and ImmuNext will cooperate with respect to all documentation
+required by any taxing authority or reasonably requested by Curis to secure a
+reduction in the rate of applicable withholding taxes. On the date of execution
+of this Agreement, ImmuNext will deliver to Curis an accurate and complete
+Internal Revenue Service Form W-9.
+10.6.4If Curis had a duty to withhold taxes in connection with any payment it
+made to ImmuNext under this Agreement but Curis failed to withhold, and such
+taxes were assessed against and paid by Curis, then ImmuNext will reimburse
+Curis for such taxes (including interest) actually paid by Curis. If Curis makes
+a claim under this Section 10.6.4, it will comply with the obligations imposed
+by Section 10.6.2 as if Curis had withheld taxes from a payment to ImmuNext,
+except as set forth in this Section 10.6.4. Notwithstanding the foregoing, if,
+as a result of a Withholding Action (as defined below) by Curis (including any
+assignee or successor), withholding is required by Laws and the amount of such
+withholding exceeds the amount of withholding that would have been required if
+Curis had not committed the Withholding Action, then Curis shall pay an
+additional amount to ImmuNext such that, after withholding from the amounts
+payable and such additional amount, ImmuNext receives the same amount as it
+would have received from Curis absent such Withholding Action by Curis. However,
+if, as a result of a Withholding Action by ImmuNext (including any assignee or
+successor), withholding is required by Laws and the amount of such withholding
+exceeds the amount of withholding that would have been required if ImmuNext (or
+its assignee or successor) had not committed the Withholding Action, no amount
+due by Curis to ImmuNext pursuant to this Agreement shall be increased for such
+excess withholding and, subject to the terms of this Agreement, the required
+amount shall be withheld and submitted to the appropriate Governmental Authority
+by Curis. For purposes of this Section 10.6.4, “Withholding Action” by a Party
+means (i) a permitted assignment or sublicense of this Agreement (in whole or in
+part) by such Party to an Affiliate or Third Party outside of the United States;
+(ii) the exercise by such Party of its rights under this Agreement (in whole or
+in part) through an Affiliate or Third Party outside of the United States (or
+the direct exercise of such rights by an Affiliate of such Party outside of the
+United States); (iii) a redomiciliation of such Party (or its assignee or
+successor of this Agreement) to a jurisdiction outside the United States; and
+(iv) any action by such Party that causes this Agreement or any payment made
+under this Agreement to become subject to tax in a jurisdiction outside of the
+United States or subject any payments made under this Agreement to withholding
+in any jurisdiction that would not have been required absent such action.
+
+
+- 52 -
+
+--------------------------------------------------------------------------------
+
+
+
+
+
+
+
+10.7Tax Treatment. For U.S. federal income tax purposes, Curis acknowledges that
+ImmuNext intends to treat (a) the Upfront Fee as the payment of option premium
+by Curis to ImmuNext in exchange for ImmuNext’s grant of the Option to obtain
+the exclusive license set forth in Section 3.1, (b) the payment of the Option
+Fee as the exercise of the Option and (c) the failure by Curis to deliver the
+Option Fee prior to the expiration of the Option Period as gain on the lapse of
+an option for ImmuNext within the meaning of Section 1234(b) of the Internal
+Revenue Code of 1986, as amended.
+10.8Interest Due. Without limiting any other rights or remedies available to
+either Party, each Party shall pay the other interest on any payments that are
+not paid on or before the date such payments are due under this Agreement at a
+rate equal to the lesser of (a) [**] percent ([**]%) above the prime rate as
+reported by Citibank, New York, New York on the date such payment was due to be
+paid, or (b) the maximum applicable legal rate on such date, calculated on the
+total number of days payment is delinquent.
+10.9Blocked Currency. If by Law or fiscal policy of a particular country,
+conversion into Dollars or transfer of funds of a convertible currency to the
+United States is restricted or forbidden, royalties accrued in such country
+shall be paid to ImmuNext in the country in local currency by deposit in a local
+bank designated by ImmuNext for such deposit, unless the Parties otherwise
+agree.
+11.Representations, Warranties, and Covenants; Disclaimers; Limitation of
+Liability
+11.1Mutual Representations and Warranties. As of the Effective Date, Each Party
+represents and warrants to the other Party, that:
+11.1.1such Party is duly organized, validly existing, and in good standing under
+the Laws of the jurisdiction of its incorporation and has full corporate power
+and authority to enter into this Agreement and to perform its obligations
+hereunder;
+11.1.2such Party has taken all requisite action on its part to authorize the
+execution and delivery of this Agreement and the performance by such Party of
+its obligations hereunder;
+11.1.3this Agreement has been duly executed and delivered on behalf of such
+Party, and constitutes a legal, valid, binding obligation of such Party,
+enforceable against it in accordance with the terms hereof, except to the extent
+that enforcement of the rights and remedies created hereby is subject to
+(a) bankruptcy, insolvency, reorganization, moratorium and other similar laws of
+general application affecting the rights and remedies of creditors, or (b) laws
+governing specific performance, injunctive relief and other equitable remedies;
+11.1.4the execution, delivery and performance of this Agreement by such Party
+does not constitute a breach or default under or conflict with any agreement,
+instrument, or understanding, oral or written, to which it is a party or by
+which it is bound, nor violate any Law of any court, governmental body or
+administrative or other agency having jurisdiction over such
+
+
+- 53 -
+
+--------------------------------------------------------------------------------
+
+
+
+
+
+
+
+Party, which breach, default, conflict or violation, in each case, would
+adversely affect the other Party;
+11.1.5no government authorization, consent, approval, license, exemption, filing
+or registration with any court or governmental department, commission, board,
+bureau, agency or instrumentality, domestic or foreign, under any Laws currently
+in effect, is or will be necessary for, or in connection with, the transaction
+contemplated by this Agreement, or for the performance by such Party of its
+obligations under this Agreement, except as may be required to transfer an IND
+or to Exploit any Product;
+11.1.6such Party has not employed and, to its knowledge, has not used a
+contractor or consultant that has employed, any individual or entity
+(a) debarred by the FDA (or subject to a similar sanction of EMA or other
+applicable Regulatory Authority), (b) who is the subject of an FDA debarment
+investigation or proceeding (or similar proceeding of EMA or other applicable
+Regulatory Authority), or (c) has been charged with or convicted under United
+States Law for conduct relating to the development or approval, or otherwise
+relating to the regulation of any product under the Generic Drug Enforcement Act
+of 1992, as amended, in each case, in the conduct of its activities prior to the
+Effective Date; and
+11.1.7such Party is not aware of any action or petition, pending or otherwise,
+for bankruptcy or insolvency of such Party in any state, country or other
+jurisdiction.
+11.2Additional Representations and Warranties of ImmuNext. As of the Effective
+Date, ImmuNext hereby represents and warrants to Curis that:
+11.2.1as of the Effective Date, the Patents set forth on Schedule 11.2.1
+constitute all Patents Controlled by ImmuNext or its Affiliates that are
+necessary for the Exploitation of Compounds and Products in the Field (the
+“Existing Patents”);
+11.2.2Schedule 11.2.1 accurately identifies each Existing Patent that is an
+ImmuNext Exclusive Patent as such and each Existing Patent that is an ImmuNext
+Hybrid Patent as such;
+11.2.3except as set forth on Schedule 11.2.1, ImmuNext is the sole owner of the
+Existing Patents. With respect to each Existing Patent that is not solely owned
+by ImmuNext, Schedule 11.2.1 accurately identifies the registered owner(s) of
+such Existing Patent;
+11.2.4with respect to those Existing Patents that ImmuNext has the right to
+Prosecute, ImmuNext has complied with all applicable Laws in connection with the
+Prosecution of such Existing Patents (including the duty of candor), and all
+material renewal and maintenance fees due prior to the Effective Date with
+respect to the prosecution and maintenance of such Existing Patents have been
+paid. With respect to those Existing Patents that are being Prosecuted by a
+Third Party, to ImmuNext’s knowledge, such Third Party has complied with all
+applicable Laws in connection with the Prosecution of such Existing Patents
+(including the duty of candor), and all material renewal and maintenance fees
+due prior to the Effective Date with respect to the prosecution and maintenance
+of such Existing Patents have been paid;
+
+
+- 54 -
+
+--------------------------------------------------------------------------------
+
+
+
+
+
+
+
+11.2.5as of the Effective Date, ImmuNext or an Affiliate of ImmuNext Controls
+the Know-How provided or to be provided to Curis in accordance with the first
+sentence of Section 5.1;
+11.2.6neither ImmuNext nor any of its Affiliates has granted to any Third Party
+or Affiliate any rights (including any license, or option or other right to
+obtain a license) (a) under the ImmuNext Technology that would conflict with any
+of the rights or licenses granted to Curis or its Affiliates hereunder or (b) to
+Develop or Commercialize any Compound or Product;
+11.2.7to ImmuNext’s knowledge, none of the manufacture, use or sale of any
+Compound as contemplated by this Agreement infringes or would infringe the
+Patents of any Third Party (excluding Patents of Third Parties that are included
+in the ImmuNext Patents);
+11.2.8neither ImmuNext nor any of its Affiliates has received any written notice
+from any Third Party claiming that the development, manufacture, use, sale,
+offer for sale, import, or export of Compound or Product infringes,
+misappropriates or would infringe or misappropriate the Patent or other
+intellectual property rights of any Third Party;
+11.2.9neither ImmuNext nor any of its Affiliates has received any written notice
+from any Third Party seeking to invalidate or otherwise challenge the ownership,
+scope, validity and/or enforceability of the claims of the Existing Patents and,
+to ImmuNext’s knowledge, no such challenge is pending or threatened;
+11.2.10to ImmuNext’s knowledge, no Third Party is infringing or
+misappropriating, or has infringed or misappropriated, any of the ImmuNext
+Technology;
+11.2.11all tangible or recorded information and data provided by or on behalf of
+ImmuNext to Curis related to any Compound or Product on or before the Effective
+Date in contemplation of this Agreement was and is, to ImmuNext’s knowledge,
+true, accurate and complete in all material respects; provided, however, that,
+in the case of any such information and data that was Made by or on behalf of
+Upstream Licensor 2 and provided to ImmuNext, ImmuNext represents and warrants
+only that the copies of such information and data provided by or on behalf of
+ImmuNext to Curis on or before the Effective Date are true and correct copies of
+the embodiments of such information and data provided to ImmuNext by or on
+behalf of Upstream Licensor 2 and that ImmuNext has no actual knowledge that any
+such information and data is untrue or inaccurate; and ImmuNext has not failed
+to disclose, or failed to cause to be disclosed, any such information or data in
+its possession and Control related to any Compound or Product that would cause
+the information and data that has been disclosed to be misleading in any
+material respect;
+11.2.12neither ImmuNext nor any of its Affiliates is a party to any litigation
+relating to the ImmuNext Technology or any Compound or Product, and neither
+ImmuNext nor any of its Affiliates has received written notice of any pending or
+threatened litigation related to the ImmuNext Technology or any Compound or
+Product;
+
+
+- 55 -
+
+--------------------------------------------------------------------------------
+
+
+
+
+
+
+
+11.2.13ImmuNext has provided or made available to Curis all relevant documents
+and written communications and materials in its and its Affiliates’ possession
+from or to any Regulatory Authority related to any Compound or Product;
+11.2.14other than the [**] IND, no IND has been filed by or on behalf of
+ImmuNext or its Affiliates, and, to ImmuNext’s knowledge, by any ImmuNext
+licensee under the ImmuNext Technology, with any Regulatory Authority for any
+Compound or Product;
+11.2.15as of the Effective Date, ImmuNext has provided Curis with true, complete
+(unless redacted and disclosed as such to Curis in writing) and correct copies
+of all Upstream Agreements, including all amendments thereto;
+11.2.16other than the Upstream Agreements, there are no agreements to which
+ImmuNext or any of its Affiliates is a party pursuant to which any ImmuNext
+Technology is licensed to ImmuNext by any Third Party;
+11.2.17as of the Effective Date, except as set forth on Schedule 11.2.17, the
+Upstream Agreements are in full force and effect and ImmuNext is in compliance
+with the material terms of each such Upstream Agreements and has made all
+necessary annual payments and/or milestone payments to keep such Upstream
+Agreements in full force and effect. The Upstream Agreements are the only
+agreements as of the Effective Date between ImmuNext and any Third Party that
+impose an obligation on ImmuNext to pay milestone payments or royalties to a
+Third Party with respect to the Development or Commercialization of any Compound
+or Product;
+11.2.18IDC is not controlled by ImmuNext, where “controlled by” has the meaning
+set forth in the definition of “Affiliate”; and
+11.2.19IDC does not Control Patents that specifically Cover Know-How that
+specifically relates to VISTA Antagonists.
+11.3Additional Representations and Warranties of Curis. As of the Effective
+Date, Curis hereby represents and warrants to ImmuNext that Curis has provided
+ImmuNext with true, complete and correct copies of all the Aurigene Agreement,
+including all amendments thereto; each, as filed by Curis with the Securities
+and Exchange Commission.
+11.4Mutual Covenants. Each Party hereby covenants to the other Party that:
+11.4.1all employees, agents, consultants and contactors of such Party or its
+Affiliates conducting activities under this Agreement shall be under the
+obligation to assign to such Party or Affiliate all right, title and interest in
+and to Inventions Made by such employee, agent, consultant or contractor in the
+course of conducting activities under this Agreement, and Know-How pertaining to
+any such Invention that is Made by such person in the course of conducting such
+person’s work for such Party or its Affiliates (it being understood that
+Section 8.3.1(b) prohibits Curis and its Affiliates from Exploiting ImmuNext
+Technology, Compounds and Products outside the scope of or otherwise not in
+compliance with the licenses, sublicenses and other rights granted to Curis
+under this Agreement), subject to any exceptions permitted under Section 3.2.5;
+
+
+- 56 -
+
+--------------------------------------------------------------------------------
+
+
+
+
+
+
+
+11.4.2such Party shall perform its obligations and conduct its activities
+pursuant to this Agreement (a) in compliance with all Laws and industry
+standards, including GLP, GCP and GMP, in each case as applicable under the Laws
+of the country and the state and local government wherein such activities are
+conducted, and with respect to the care, handling and use in research and
+Development activities hereunder of any non-human animals by or on behalf of
+such Party, shall at all times comply (and shall ensure compliance by any of its
+Subcontractors) with all Laws, and also with the standards in the pharmaceutical
+industry for the Development and Manufacture of pharmaceutical or biological
+products, and (b) with individuals who are appropriately trained and qualified;
+11.4.3neither Party shall employ (or, to its knowledge, use any contractor or
+consultant that employs) any individual or entity (a) debarred by the FDA (or
+subject to a similar sanction of EMA or other applicable Regulatory Authority),
+(b) who is the subject of an FDA debarment investigation or proceeding (or
+similar proceeding of EMA or other applicable Regulatory Authority), or (c) has
+been charged with or convicted under United States Law for conduct relating to
+the development, approval or otherwise relating to the regulation of any product
+under the Generic Drug Enforcement Act of 1992, as amended, in each case, in the
+conduct of its activities under this Agreement; and
+11.4.4neither Party shall, during the Term, grant any right or license to any
+Third Party relating to any of the intellectual property rights it Controls that
+would conflict or interfere with any of the rights or licenses granted to the
+other Party hereunder.
+11.5Additional Covenants of ImmuNext. ImmuNext hereby covenants to Curis that:
+11.5.1ImmuNext shall not terminate any Upstream Agreement without the prior
+written consent of Curis;
+11.5.2Without the prior written consent of Curis, ImmuNext shall not amend, or
+waive any of its rights under, any Upstream Agreement in any manner that would
+diminish the rights granted to Curis hereunder or impose any additional
+obligation on Curis or any of its Affiliates or Sublicensees with respect to the
+Development or Commercialization of any Compound or Product;
+11.5.3ImmuNext shall use Commercially Reasonable Efforts to avoid taking or
+omitting to take any action that would constitute a breach of any Upstream
+Agreement or that would otherwise entitle the counterparty to such Upstream
+Agreement to terminate such Upstream Agreement or terminate or reduce the scope
+of ImmuNext’s rights thereunder related to the ImmuNext Technology or any
+Compound or Product; and
+11.5.4ImmuNext promptly shall provide Curis with notice of ImmuNext’s receipt of
+written notice of an allegation of any breach, of any Upstream Agreement, and
+ImmuNext shall take reasonable steps to cure any such alleged breach or breach
+within the time period allowed for cure or, and in the event that any such
+breach or alleged breach is the consequence of ImmuNext’s failure to make any
+payment under the terms of an Upstream Agreement, and Curis, in its sole
+discretion, desires to make a payment to cure such
+
+
+- 57 -
+
+--------------------------------------------------------------------------------
+
+
+
+
+
+
+
+alleged breach or breach, any such payment made by Curis will be creditable by
+Curis against any payments due by Curis to ImmuNext hereunder.
+11.6Additional Covenants of Curis. Curis hereby covenants to ImmuNext that:
+11.6.1Curis shall not, and shall cause its Affiliates and all Sublicensees not
+to, bring suit against Upstream Licensor 4 or any of its Affiliates (as defined
+in Upstream Agreement 4) with respect to the Patent Rights (as defined in
+Upstream Agreement 4) that are the subject of such agreement and Curis hereby
+acknowledges and agrees that if Curis breaches this Section 11.6.1,
+notwithstanding anything herein to the contrary, ImmuNext or Upstream Licensor 4
+may terminate Curis’ and its Affiliates’ sublicense under Upstream Agreement 4;
+11.6.2In the event of a conflict between the terms of this Agreement and an
+Upstream Agreement as applicable to ImmuNext Technology that is subject to such
+Upstream Agreement, Curis, its Affiliates and all Sublicensees shall comply with
+the provision that is more favorable to ImmuNext or the other party to the
+Upstream Agreement;
+11.6.3Curis shall reasonably cooperate with ImmuNext in performing ImmuNext’s
+obligations under each Upstream Agreement as applicable to any Compound or
+Product (including, for instance, with respect to reporting to the other party
+to an Upstream Agreement);
+11.6.4Subject to applicable Law, during the License Period, Curis will maintain
+written policies and training programs to ensure that its sales force and that
+of its Affiliates and all Sublicensees do not engage in any advertising or
+promotional activities relating to any Compound or Product directed primarily to
+customers or other buyers or users of any Compound or Product for use outside
+the Field;
+11.6.5Without the prior written consent of ImmuNext, Curis shall not amend the
+Aurigene Agreement to obtain any license or other right to any compound the
+primary mechanism of action of which is antagonism of VISTA and that is not
+licensed to Curis under the Aurigene Agreement as of the Effective Date.
+11.7DISCLAIMERS.
+11.7.1EXCEPT AS EXPRESSLY SET FORTH IN SECTIONS 11.1 AND 11.2, NEITHER IMMUNEXT
+NOR ANY OF ITS AFFILIATES MAKES ANY REPRESENTATIONS OR WARRANTIES OF ANY KIND,
+EITHER EXPRESS OR IMPLIED, INCLUDING ANY EXPRESS OR IMPLIED WARRANTIES OF
+MERCHANTABILITY OR FITNESS FOR A PARTICULAR PURPOSE WITH RESPECT TO ANY IMMUNEXT
+CONFIDENTIAL INFORMATION, IMMUNEXT PATENTS, IMMUNEXT KNOW-HOW OR ANY LICENSE
+GRANTED BY IMMUNEXT HEREUNDER, OR WITH RESPECT TO THE PRODUCTS. EXCEPT AS
+EXPRESSLY SET FORTH IN SECTIONS 11.1 AND 11.2, NOTHING IN THIS AGREEMENT SHALL
+BE CONSTRUED AS A REPRESENTATION OR WARRANTY THAT ANY PATENT OR OTHER
+PROPRIETARY RIGHTS INCLUDED IN THE IMMUNEXT PATENTS ARE VALID OR ENFORCEABLE OR
+THAT USE OF THE
+
+
+- 58 -
+
+--------------------------------------------------------------------------------
+
+
+
+
+
+
+
+IMMUNEXT TECHNOLOGY CONTEMPLATED HEREUNDER DOES NOT INFRINGE ANY PATENTS OR
+OTHER INTELLECTUAL PROPERTY RIGHTS OF ANY THIRD PARTY.
+11.7.2EXCEPT AS EXPRESSLY SET FORTH IN SECTIONS 11.1 AND 11.3, CURIS MAKES NO
+REPRESENTATIONS OR WARRANTIES OF ANY KIND, EITHER EXPRESS OR IMPLIED, INCLUDING
+ANY EXPRESS OR IMPLIED WARRANTIES OF MERCHANTABILITY OR FITNESS FOR A PARTICULAR
+PURPOSE WITH RESPECT TO ANY CURIS CONFIDENTIAL INFORMATION OR ANY LICENSE
+GRANTED BY CURIS HEREUNDER. NOTHING IN THIS AGREEMENT SHALL BE CONSTRUED AS A
+REPRESENTATION OR WARRANTY THAT ANY PATENT OR OTHER PROPRIETARY RIGHTS OF CURIS
+ARE VALID OR ENFORCEABLE OR THAT THE USE OF ANY CURIS INTELLECTUAL PROPERTY OR
+CURIS CONFIDENTIAL INFORMATION DOES NOT INFRINGE ANY PATENTS OR OTHER
+INTELLECTUAL PROPERTY RIGHTS OF ANY THIRD PARTY.
+11.8LIMITATION OF LIABILITY. EXCEPT IN THE CASE OF BREACH OF SECTION 13 OR IN
+THE CASE OF WILLFUL MISCONDUCT OR FRAUD OF A PARTY, NEITHER PARTY SHALL BE
+ENTITLED TO RECOVER FROM THE OTHER PARTY ANY INCIDENTAL, INDIRECT, SPECIAL,
+EXEMPLARY, PUNITIVE, MULTIPLE, OR CONSEQUENTIAL DAMAGES (INCLUDING LOST PROFITS,
+LOSS OF USE, DAMAGE TO GOODWILL, OR LOSS OF BUSINESS) IN CONNECTION WITH THIS
+AGREEMENT OR ANY LICENSE OR OTHER RIGHTS GRANTED HEREUNDER, WHETHER UNDER ANY
+CONTRACT, NEGLIGENCE, STRICT LIABILITY OR OTHER LEGAL OR EQUITABLE THEORY;
+provided, however, that this Section 11.8 shall not be construed to limit either
+Party’s indemnification obligations under Section 14, or any liability (whether
+in contract, tort or otherwise) which cannot by law be excluded or limited.
+12.Intellectual Property
+12.1Disclosure; Ownership.
+12.1.1Disclosure. Inventorship of Inventions shall be determined in accordance
+with the rules of inventorship under U.S. patent laws. Each Party shall promptly
+disclose to the other Party in writing each Invention Made in whole or in part
+by such Party or its Affiliates in the course of conducting activities under
+this Agreement, and Know-How pertaining to such Invention that is Made in whole
+or in part by such Party or its Affiliates in the course of conducting
+activities under this Agreement during the applicable Period in which such
+Invention was Made (it being understood that Section 8.3.1(b) prohibits Curis
+and its Affiliates from Exploiting ImmuNext Technology, Compounds and Products
+outside the scope of or otherwise not in compliance with the licenses,
+sublicenses and other rights granted to Curis under this Agreement); provided,
+however, that ImmuNext shall have no obligation to disclose to Curis any
+ImmuNext Invention or Joint Invention that, in each case, is an Excluded
+Compound Invention or an Excluded Compound.
+12.1.2Ownership. Except as expressly set forth below in this Section 12.1.2,
+ownership of Inventions shall follow inventorship as determined in accordance
+
+
+- 59 -
+
+--------------------------------------------------------------------------------
+
+
+
+
+
+
+
+with the Laws in the United States as such laws exist on the date on which the
+relevant Invention is Made, irrespective of where such activity occurs - i.e.,
+except as expressly set forth below in this Section 12.1.2, Curis Inventions
+shall be owned solely by Curis, ImmuNext Inventions shall be owned solely by
+ImmuNext, and Joint Inventions shall be owned jointly by Curis and ImmuNext in
+equal undivided shares.
+(a)Excluded Compound Technology. ImmuNext shall solely own, and Curis hereby
+assigns to ImmuNext all right, title and interest in and to, all Curis
+Technology and Joint Technology that, in each case, is Excluded Compound
+Technology.
+(b)Assigned Technology; Option Period Results. Subject to Section 12.1.2(c),
+ImmuNext shall solely own, and Curis hereby assigns to ImmuNext all right, title
+and interest in and to, (i) each Curis Invention and each Joint Invention that,
+in each case, is Made during the Option Period and is not Excluded Compound
+Invention (collectively, “Assigned Invention”), (ii) all Patents that Cover
+Assigned Inventions (collectively with all Assigned Inventions, “Assigned
+Technology”) and (iii) all Option Period Results.
+(c)Reassigned Technology. Effective as of the Option Exercise Date (if any):
+(i) Curis shall solely own, and ImmuNext shall, and it hereby does, assign to
+Curis all right, title and interest in and to, all Assigned Technology that was
+Curis Technology; and (ii) the Parties shall jointly own in equal, undivided
+shares, and ImmuNext shall, and it hereby does, assign to Curis an equal,
+undivided joint ownership interest in and to, all Assigned Technology that was
+Joint Technology ((i) and (ii), collectively, “Reassigned Technology”).
+(d)Jointly Owned Technology. Subject to the terms and conditions of this
+Agreement, including the license grants, during and after the License Period,
+each Party shall have the right to practice, and to grant licenses under, such
+Party’s joint ownership interest in Jointly Owned Technology without the other
+Party’s consent and shall have no duty to account to the other Party for such
+practice or license, and each Party hereby waives any right it may have under
+the laws of any jurisdiction to require any such consent or accounting.
+12.2Prosecution of Patents.
+12.2.1Prosecution of ImmuNext Hybrid Patents. Subject to the Upstream Agreements
+and Section 12.2.6, ImmuNext shall have the first right, but not an obligation,
+to Prosecute all ImmuNext Hybrid Patents during the Term, at ImmuNext’s sole
+cost and expense.
+12.2.2Prosecution of ImmuNext Exclusive Patents. Subject to the Upstream
+Agreements and Section 12.2.6, (a) ImmuNext shall have the sole right, but not
+an obligation, to Prosecute the ImmuNext Exclusive Patents during the Option
+Period, and (b) Curis shall have the first right, but not an obligation, to
+Prosecute the ImmuNext Exclusive Patents during the License Period. Curis shall
+reimburse ImmuNext for the reasonable and documented expenses incurred by
+ImmuNext in the Prosecution of the ImmuNext Exclusive Patents and shall be
+solely responsible for all expenses incurred by Curis in the Prosecution of the
+ImmuNext Exclusive Patents.
+
+
+- 60 -
+
+--------------------------------------------------------------------------------
+
+
+
+
+
+
+
+12.2.3Prosecution of Certain Curis Patents. Subject to Section 12.2.6, during
+the License Period, Curis shall have the sole right, but not an obligation, to
+Prosecute Patents claiming Curis Owned Inventions, including Curis Useful
+Patents. Curis shall bear all costs and expenses incurred by or on behalf of
+Curis associated therewith.
+12.2.4Prosecution of Jointly Owned Patents. Subject to Section 12.2.6, during
+the License Period, Curis have the first right, but not an obligation, to
+Prosecute Jointly Owned Patents. Curis shall bear all costs and expenses
+incurred by or on behalf of Curis associated therewith.
+12.2.5Prosecution of Excluded ImmuNext Patents. As between the Parties, ImmuNext
+shall have the sole right, but not an obligation, to Prosecute the Excluded
+ImmuNext Patents during the Term. ImmuNext shall bear all costs and expenses
+incurred by ImmuNext associated therewith, and Curis shall have no rights with
+respect to the Prosecution of any Excluded ImmuNext Patents.
+12.2.6Review Rights with respect to Prosecution.
+(a)During the Option Period. During the Option Period, ImmuNext shall
+(i) regularly provide Curis with copies of all patent applications within the
+ImmuNext Exclusive Patents and ImmuNext Hybrid Patents filed hereunder and other
+material submissions and correspondence with the patent offices with respect to
+such Patents, in sufficient time to allow for review and comment by Curis; and
+(ii) provide Curis and its patent counsel with an opportunity to consult with
+ImmuNext and its patent counsel regarding (A) the filing and contents of any
+such application, amendment, submission or response, and (B) whether to attempt
+to segregate into separate Patents (1) claims that would cause a Patent to be an
+ImmuNext Exclusive Patent from (2) claims that would cause a Patent to be an
+ImmuNext Hybrid Patent. The advice and suggestions of Curis and its patent
+counsel shall be taken into consideration in good faith by ImmuNext and its
+patent counsel in connection with the foregoing. ImmuNext shall pursue in good
+faith all reasonable claims requested by Curis in the Prosecution of any
+ImmuNext Exclusive Patent or ImmuNext Hybrid Patent during the Option Period.
+(b)During the License Period.
+(i)During the License Period, the Party Prosecuting (the “Prosecuting Party”)
+ImmuNext Hybrid Patents, ImmuNext Exclusive Patents, Curis Useful Patents or
+Jointly Owned Patents shall (A) regularly provide the other Party (the
+“Non-Prosecuting Party”) with copies of all patent applications within such
+Patents filed hereunder and other material submissions and correspondence with
+the patent offices with respect to such Patents, in sufficient time to allow for
+review and comment by the Non-Prosecuting Party; and (B) provide the
+Non-Prosecuting and its patent counsel with an opportunity to consult with the
+Prosecuting Party and its patent counsel regarding the filing and contents of
+any such application, amendment, submission or response, and the advice and
+suggestions of the Non-Prosecuting Party and its patent counsel shall be taken
+into consideration in good faith by the Prosecuting Party and its patent counsel
+in connection with such filing. The Prosecuting Party
+
+
+- 61 -
+
+--------------------------------------------------------------------------------
+
+
+
+
+
+
+
+shall pursue in good faith all reasonable claims requested by the
+Non-Prosecuting Party in the Prosecution of Patents subject to this
+Section 12.2.6(b).
+(ii)In the event that Curis decides not to continue the Prosecution of any
+ImmuNext Exclusive Patent, Curis Useful Patent or Jointly Owned Patent under
+this Section 12.2.6(b), Curis shall provide ImmuNext with notice of such
+decision at least [**] prior to any pending lapse or abandonment thereof. In the
+event that ImmuNext decides not to continue the Prosecution of any ImmuNext
+Hybrid Patent under this Section 12.2.6(b), ImmuNext shall provide Curis with
+notice of such decision at least [**] prior to any pending lapse or abandonment
+thereof. In the event of notice under this Section 12.2.6(b)(ii), the Party
+giving notice shall provide the other Party with an opportunity to assume
+responsibility for Prosecution of the relevant Patent and for all costs and
+expenses associated therewith. In the event that a Party receiving notice
+assumes such responsibility for such Prosecution and such costs and expenses,
+such Party shall have the right to transfer the responsibility for such
+Prosecution of such Patent applications and Patents to patent counsel selected
+by it.
+12.2.7Cooperation of the Parties. Each Party agrees to reasonably cooperate in
+the Prosecution of Patents under this Section 12.2 and in the obtaining and
+maintenance of any patent extensions, supplementary protection certificates and
+the like with respect thereto. Such cooperation includes, but is not limited to:
+(a) executing papers and instruments, or requiring its employees, consultants or
+contractors, to execute such papers and instruments, so as to effectuate the
+ownership of Inventions set forth in Section 12.1.2, and Patents claiming or
+disclosing such Inventions, and to enable the other Party to apply for and to
+Prosecute patent applications in any country as permitted by this Agreement; and
+(b) promptly informing the other Party of any matters coming to such Party’s
+attention that may affect the preparation, filing, prosecution or maintenance of
+any such patent applications.
+12.3Enforcement of Patents Against Infringers. Subject to the terms and
+conditions of the Upstream Agreements, to the extent such agreements apply to
+the ImmuNext Patents, the following provisions shall apply:
+12.3.1Notice. Each Party shall exercise reasonable diligence in identifying
+actual or potential Competitive Infringement of any ImmuNext Patent, Curis Owned
+Patent or Jointly Owned Patent. Each Party shall notify the other party in
+writing within [**] (except as expressly set forth below) of becoming aware of
+any suspected or threatened Competitive Infringement of any ImmuNext Patent,
+Curis Owned Patent or Jointly Owned Patent, and the remainder of this
+Section 12.3 shall apply to such Competitive Infringement; provided, however,
+that each Party shall notify the other Party of any Patent Certification
+regarding any ImmuNext Patent, Curis Owned Patent or Jointly Owned Patent that
+it receives, and provide the other Party with a copy of such Patent
+Certification, within [**] of receipt. Notwithstanding the foregoing, ImmuNext
+is not required to give Curis notice infringement of any Excluded ImmuNext
+Patent.
+12.3.2Enforcement of ImmuNext Patents during the Option Period. As between the
+Parties, ImmuNext will have the sole right, but not an obligation, to bring (or
+defend) and control any action or proceeding with respect to Competitive
+Infringement of any ImmuNext Patent during the Option Period.
+
+
+- 62 -
+
+--------------------------------------------------------------------------------
+
+
+
+
+
+
+
+12.3.3Enforcement of ImmuNext Hybrid Patents during the License Period. As
+between the Parties, during the License Period, ImmuNext will have the first
+right, but not an obligation, to bring (or defend) and control any action or
+proceeding with respect to Competitive Infringement of any ImmuNext Hybrid
+Patent, and Curis shall have the right to be represented in any such action or
+proceeding, at Curis’ expense and by counsel of its own choice. If ImmuNext
+withdraws from any such action or proceeding with respect to Competitive
+Infringement of any ImmuNext Hybrid Patent, or fails to bring any such action or
+proceeding with respect to Competitive Infringement of any ImmuNext Hybrid
+Patent within [**] following the notice of alleged Competitive Infringement,
+then Curis shall have the right, but not the obligation, to continue, or to
+bring (or defend) and control any such action at its own expense and by counsel
+of its own choice, and ImmuNext shall have the right, at its own expense, to be
+represented in any such action by counsel of its own choice, subject to
+Section 12.3.6.
+12.3.4Enforcement of ImmuNext Exclusive Patents, Curis Owned Patents and Jointly
+Owned Patents during the License Period. As between the Parties, during the
+License Period, Curis will have the (a) first right, but not an obligation, to
+bring (or defend) and control any action or proceeding with respect to
+Competitive Infringement of any ImmuNext Exclusive Patent or Jointly Owned
+Patent and (b) the sole right, but not an obligation, to bring any (or defend)
+and control any action or proceeding with respect to Competitive Infringement of
+any Curis Owned Patent. If Curis withdraws from any such action or proceeding
+with respect to Competitive Infringement of any ImmuNext Exclusive Patent or
+Jointly Owned Patent, or fails to bring any such action or proceeding with
+respect to Competitive Infringement of any ImmuNext Exclusive Patent or Jointly
+Owned Patent within [**] following the notice of alleged Competitive
+Infringement, then ImmuNext shall have the right, but not the obligation, to
+continue, or to bring (or defend) and control any such action at its own expense
+and by counsel of its own choice, and Curis shall have the right, at its own
+expense, to be represented in any such action by counsel of its own choice,
+subject to Section 12.3.6.
+12.3.5Enforcement of Excluded ImmuNext Patents during the License Period. As
+between the Parties, during the Term, ImmuNext will have the sole right, but not
+an obligation, to bring (or defend) and control any action or proceeding with
+respect to Infringement (each, an “Infringement Action”) of any Excluded
+ImmuNext Patent, and Curis shall not have any rights with respect to any such
+Infringement Action.
+12.3.6Procedure for Enforcement.
+(a)The non-enforcing Party pursuant to Section 12.3.3 or Section 12.3.4 (as
+applicable) shall reasonably assist the enforcing Party (at the enforcing
+Party’s expense) in any such action if so requested, and shall lend its name and
+be joined as a party plaintiff to such actions if reasonably requested by such
+enforcing Party or required by Laws. The non-enforcing Party shall have the
+right to participate and be represented in any such action by its own counsel at
+its own expense. The non-enforcing Party shall cooperate, at the enforcing
+Party’s cost and expense, with the enforcing Party in investigating or
+terminating any suspected infringement, whether through legal action,
+negotiation or otherwise, including by producing all reasonably pertinent
+records, papers, information, samples, specimens and similar items, and
+directing its employees to testify and grant interviews, upon the request of the
+enforcing Party. The enforcing Party will keep the non-enforcing Party
+reasonably informed of the status of the
+
+
+- 63 -
+
+--------------------------------------------------------------------------------
+
+
+
+
+
+
+
+action. The enforcing Party will have an obligation to consult with the
+non-enforcing Party and will take any comments from the non-enforcing Party into
+good faith consideration with respect to the infringement, claim construction or
+defense of the validity or enforceability of any claim in an ImmuNext Patent or
+Jointly Owned Patent. The enforcing Party shall provide to the non-enforcing
+Party copies of any papers relating to the infringement and/or validity
+litigation of the involved Patent promptly upon their being filed or received.
+(b)The enforcing Party may not enter into a settlement of any action pursuant to
+Section 12.3.3 or Section 12.3.4 (as applicable) which restricts the scope, or
+adversely affects the enforceability, of the rights of the other Party under
+this Agreement without the prior written consent of such other Party (such
+consent not to be unreasonably withheld, conditioned or delayed).
+12.3.7Damages. Except as otherwise agreed by the parties in connection with a
+cost-sharing arrangement, any recovery as a result of any action or proceeding
+pursuant to Section 12.3.3 or Section 12.3.4, whether by way of settlement or
+otherwise, shall first be used first to reimburse the Party that brought (or
+defended) and controlled such action or proceeding for its documented,
+out-of-pocket costs and expenses (including court, attorneys’ and professional
+fees) incurred in connection with such action or proceeding, and then to
+reimburse the other Party for its documented, out-of-pocket costs and expenses
+(including court, attorneys’ and professional fees) incurred in connection with
+such action or proceeding (to the extent not previously reimbursed by the
+enforcing Party). If, after such reimbursement of the Parties’ cost and
+expenses, any funds shall remain from such damages or other sums recovered
+(“Remainder”) and any of the Upstream Agreements requires ImmuNext to share such
+Remainder with the licensor under such Upstream Agreement, such Remainder shall
+be shared with the applicable licensor in accordance with the applicable
+Upstream Agreement. After such sharing, any remaining portion of the Remainder,
+or if the Remainder is not required to be shared with any licensor under an
+Upstream Agreement, the Remainder, shall be retained by the enforcing Party;
+provided, however, that:
+(a)in the event that ImmuNext was the enforcing Party following exercise of its
+first right under Section 12.3.3 with respect to any ImmuNext Hybrid Patent,
+that part of the Remainder (or of the remaining portion thereof) that is
+attributable to Competitive Infringement of such Patent shall be allocated as
+follows: (i) to the extent it represents compensatory damages for Competitive
+Infringement, [**]% to ImmuNext and [**]% to Curis; and (ii) to the extent it
+represents special, exemplary, punitive or consequential damages (including
+treble damages) for Competitive Infringement, [**]% to ImmuNext and [**]% to
+Curis. For clarity, Curis shall not be entitled to any portion of a recovery
+realized by ImmuNext as a result of any action brought and controlled by
+ImmuNext pursuant to Section 12.3.3 with respect to any ImmuNext Hybrid Patent
+that is specifically attributable to Infringement, other than Competitive
+Infringement, of such Patent; and
+(b)in the event that Curis was the enforcing Party following exercise of its
+first right under Section 12.3.4 with respect to any ImmuNext Exclusive Patent
+or Jointly Owned Patent, that part of the Remainder (or of the remaining portion
+thereof) that is attributable to Competitive Infringement of such Patent shall
+be allocated as follows: (i) to the extent it represents compensatory damages
+for Competitive Infringement, [**]% to Curis and
+
+
+- 64 -
+
+--------------------------------------------------------------------------------
+
+
+
+
+
+
+
+[**]% to ImmuNext; and (ii) to the extent it represents special, exemplary,
+punitive or consequential damages (including treble damages) for Competitive
+Infringement, [**]% to Curis and [**]% to ImmuNext.
+12.4Patent Term Extension. Each Party shall each cooperate with the other Party
+and shall use Commercially Reasonable Efforts in obtaining patent term extension
+and Regulatory Exclusivity (including, for example, any pediatric exclusivity
+extensions as may be available) or supplemental protection certificates or their
+equivalents in any country with respect to Patents Covering the Products, as
+applicable and subject to any restrictions set forth in the Upstream Agreements.
+If elections with respect to obtaining such patent term extensions, Regulatory
+Exclusivity, or supplemental protection certificates are to be made, Curis shall
+have the right to make the election to seek (a) patent term extension solely
+with respect to ImmuNext Exclusive Patents, Curis Owned Patents and Jointly
+Owned Patents, (b) Regulatory Exclusivity, or (c) supplemental protection. For
+such purpose, for all Regulatory Approvals, Curis shall use reasonable efforts
+to provide ImmuNext with notice of each expected Regulatory Approval of a
+Product prior to the expected date of Regulatory Approval, as well as promptly
+notifying ImmuNext after receiving each Regulatory Approval of a Product in each
+territory confirming the date of such Regulatory Approval.
+12.5Patent Certification. In the event a Third Party files a Patent
+Certification (as defined in Section 1.27), upon request of a Party, the other
+Party shall provide reasonable assistance and cooperation (including making
+available to such first Party documents possessed by such other Party that are
+reasonably required by such first Party and making available personnel for
+interviews and testimony) in any actions reasonably undertaken by such first
+Party in accordance with Section 12.3. The Parties shall cooperate to compile an
+accurate list of all Patents required to be provided by Curis, its Affiliate
+and/or Sublicensee pursuant to 35 U.S.C. Section 351(l)(1)(3)(A).
+Notwithstanding the preceding sentence, Curis will retain final decision-making
+authority as to such listing of all applicable Patents for such Product.
+12.6Defense Against Claims of Infringement of Third Party Patents. If a Third
+Party asserts that a Patent or other right owned by it is or has been infringed
+by the manufacture, use, sale, offer for sale import, or export of a Compound or
+Product, the Party first obtaining knowledge of such a claim shall immediately
+provide the other Party written notice of such claim along with the related
+facts in reasonable detail. In such event, unless the Parties otherwise agree,
+[**] shall have the first right, but not the obligation, at its expense, to
+control such defense with respect to such Compound or Product. Each Party shall
+cooperate with the defending Party, at the defending Party’s reasonable request
+and expense, and shall have the right to be represented separately by counsel of
+its own choice, but at its own expense. The defending Party shall also control
+settlement of such claim; provided, however, that no settlement shall be entered
+into without the prior consent of the other Party if such settlement would
+adversely affect the rights and benefits of, or impose or adversely affect any
+obligations on, the other Party (such consent not to be unreasonably withheld,
+delayed or conditioned).
+13.Confidentiality
+13.1Nondisclosure.
+
+
+- 65 -
+
+--------------------------------------------------------------------------------
+
+
+
+
+
+
+
+13.1.1Each Party agrees that, during the Term and for a period of [**]
+thereafter, a Party (the “Receiving Party”) receiving Confidential Information
+of the other Party (the “Disclosing Party”) (or that has received any such
+Confidential Information from the other Party prior to the Effective Date) shall
+(a) maintain in confidence such Confidential Information using not less than the
+efforts such Receiving Party uses to maintain in confidence its own proprietary
+information of similar kind and value but at least reasonable efforts, (b) not
+disclose such Confidential Information to any Third Party without the prior
+written consent of the Disclosing Party, except for disclosures expressly
+permitted pursuant to this Agreement, and (c) not use such Confidential
+Information for any purpose except those permitted by this Agreement (it being
+understood that this clause (c) shall not create or imply any rights or licenses
+not expressly granted under this Agreement). The Receiving Party shall use at
+least the same standard of care as it uses to protect proprietary or
+confidential information of its own, but no less than reasonable care, to ensure
+that its, and its Affiliates’, directors, officers, employees, and consultants
+(“Representatives”) do not disclose or make any unauthorized use of the
+Confidential Information. The Receiving Party shall be responsible for any
+failure by its Representatives which, if committed by Receiving Party, would be
+a breach of this Agreement. The Receiving Party shall promptly notify the
+Disclosing Party upon discovery of any unauthorized use or disclosure of the
+Confidential Information.
+13.1.2At all times during and after the Term, all ImmuNext Technology, Excluded
+ImmuNext Technology, and, notwithstanding Section 13.2.2 and 13.2.5, Excluded
+Compound Technology are the Confidential Information of ImmuNext.
+13.1.3During the Option Period, all Curis Technology and Joint Technology (in
+each case of Curis Technology and Joint Technology, excluding Excluded Compounds
+and Excluded Compound Technology) Made during the Option Period, all Option
+Period Results, Curis Option Period Records and ImmuNext Option Period Records
+are the Confidential Information of both Parties with each Party being treated
+as the Receiving Party.
+13.1.4During the License Period and thereafter, notwithstanding Sections 13.2.2
+and 13.2.5: (i) all Curis Option Period Records and Curis Owned Technology are
+the Confidential Information of Curis; and (ii) all ImmuNext Option Period
+Records, Option Period Results and Jointly Owned Technology are the Confidential
+Information of both Parties with each Party being treated as the Receiving
+Party. Notwithstanding the foregoing, in the event of termination of this
+Agreement in its entirety by ImmuNext pursuant to Section 15.2.1, 15.3, 15.4 or
+15.6, or by Curis pursuant to Section 15.5, the Option Period Results and the
+Curis Option Period Records shall become the Confidential Information of
+ImmuNext.
+13.2Exceptions. The obligations in Section 13.1 shall not apply with respect to
+any portion of the Confidential Information that the Receiving Party can show by
+competent written proof:
+13.2.1was generally available to the public or otherwise part of the public
+domain at the time of disclosure to the Receiving Party hereunder;
+
+
+- 66 -
+
+--------------------------------------------------------------------------------
+
+
+
+
+
+
+
+13.2.2was known to the Receiving Party or any of its Affiliates, without any
+obligation to keep it confidential or any restriction on its use, prior to
+disclosure by the Disclosing Party, as evidenced by contemporaneous written
+records;
+13.2.3is subsequently disclosed to the Receiving Party or any of its Affiliates
+by a Third Party lawfully in possession thereof and without any obligation to
+keep it confidential or any restriction on its use;
+13.2.4is published by a Third Party or otherwise becomes publicly available or
+enters the public domain, after it is disclosed to the Receiving Party other
+than through any act or omission of the Receiving Party in breach of this
+Agreement; or
+13.2.5is independently developed by or for the Receiving Party or its
+Affiliates, as evidenced by written records prepared contemporaneously with such
+independent development, without reference to or reliance upon the Disclosing
+Party’s Confidential Information.
+13.3Authorized Disclosure. The Receiving Party may disclose Confidential
+Information belonging to the Disclosing Party, and Confidential Information
+deemed to belong to both Parties under the terms of this Agreement, to the
+extent (and only to the extent) such disclosure is reasonably necessary in the
+following instances:
+(a)to the extent such disclosure is to a governmental authority as reasonably
+necessary in filing or prosecuting Patent, copyright or trademark applications
+in accordance with this Agreement, prosecuting or defending litigation related
+to this Agreement, complying with applicable governmental regulations with
+respect to conduct under this Agreement, obtaining Regulatory Approval or
+performing post‑approval regulatory obligations for the Compounds or Products,
+or otherwise required by Law;
+(b)subject to Sections 13.5 and 13.7, complying with Laws (including the rules
+and regulations of the Securities and Exchange Commission or any national
+securities exchange) and with any valid order of a court of competent
+jurisdiction;
+(c)disclosure, solely on a “need to know basis,” to (i) Affiliates, (ii) any
+Third Party that is party to any Upstream Agreement, potential or actual
+collaborators (including (sub)licensees), acquirers, merger partners, assignees,
+Subcontractors, investment bankers, investors, lenders or other financial
+partners, advisors, and each of the Parties’ respective Representatives, each of
+whom prior to disclosure must be bound by written obligations of confidentiality
+and non-use no less restrictive than the obligations set forth in this
+Section 13 (but subject to a shorter period of confidentiality and non-use if
+customary under the circumstances); provided, however, that, in each of the
+foregoing situations, the Receiving Party shall remain responsible for any
+failure by any Person who receives Confidential Information pursuant to this
+Section 13.3(c) to treat such Confidential Information as required under this
+Section 13; and
+(d)With respect to pre-clinical data generated during the Option Period,
+ImmuNext may disclose such data in connection with research grant applications
+
+
+- 67 -
+
+--------------------------------------------------------------------------------
+
+
+
+
+
+
+
+prepared (and grants received thereunder) by ImmuNext or Upstream Licensor 1;
+provided, however, that ImmuNext and Upstream Licensor 1, as applicable,
+identify any such data as proprietary and/or confidential.
+If and whenever any Confidential Information is disclosed in accordance with
+this Section 13, such disclosure shall not cause any such information to cease
+to be Confidential Information, except to the extent that such disclosure
+results in a public disclosure of such information (other than by breach of this
+Agreement). Where reasonably possible and subject to Sections 13.5 and 13.7 and
+other than pursuant to Section 13.3(c), the Receiving Party shall notify the
+Disclosing Party of the Receiving Party’s intent to make such disclosure
+pursuant to this Section 13.3 sufficiently prior to making such disclosure so as
+to allow the Disclosing Party adequate time to take whatever action it may deem
+appropriate to protect the confidentiality of the information, and the Receiving
+Party will provide reasonable assistance to the Disclosing Party with respect
+thereto; provided that, in any event, the Receiving Party will use reasonable
+measures to ensure confidential treatment of such information.
+13.4Terms of this Agreement. The Parties acknowledge that this Agreement and all
+of the terms of this Agreement shall be treated as Confidential Information of
+both Parties; provided, however, that ImmuNext shall be permitted to disclose
+this Agreement to the extent required under any of the Upstream Agreements.
+13.5Filing of this Agreement. The Parties shall coordinate in advance with each
+other in connection with the filing of this Agreement (including redaction of
+certain provisions of this Agreement) with any securities authority or with any
+stock exchange on which securities issued by a Party or its Affiliate are
+traded, and each Party will use reasonable efforts to seek and obtain
+confidential treatment for the terms proposed to be redacted; provided that each
+Party will ultimately retain control over what terms are disclosed to any
+securities authority or stock exchange, as the case may be, to the extent such
+Party determines, on the advice of legal counsel, that disclosure is reasonably
+necessary to comply with applicable Laws, including disclosure requirements of
+the U.S. Securities and Exchange Commission, or with the requirements of any
+stock exchange on which securities issued by a Party or its Affiliates are
+traded, and provided further that the Parties will use their reasonable efforts
+to file redacted versions with any governing bodies which are consistent with
+redacted versions previously filed with any other governing bodies.
+13.6Publications.
+13.6.1During the Option Period, each Party shall have the right to publish
+information generated by or on behalf of such Party that is related to any
+Compound or Product; such publications include oral presentations and abstracts.
+Before any such paper is submitted for publication or an oral presentation is
+made, the Party proposing to make such publication (the “Publishing Party”)
+shall deliver to the other Party a then-current copy of the paper or materials
+for presentation at least [**] prior to submitting the paper to a publisher or
+making the presentation. The other Party shall review such materials and give
+its comments to the Publishing Party within [**]. Failure to respond within the
+time period set forth above shall be deemed approval to publish or present.
+Notwithstanding the foregoing, the Publishing Party shall comply with the other
+Party’s request to delete references to the other Party’s Confidential
+
+
+- 68 -
+
+--------------------------------------------------------------------------------
+
+
+
+
+
+
+
+Information in any such publication and, upon request, shall withhold
+publication for an additional [**] in order to permit the applicable Party to
+obtain Patent protection in accordance with this Agreement.
+13.6.2During the License Period, Curis shall have the sole right to publish
+information related to the Compounds or Products; such publications include oral
+presentations and abstracts. Before any such paper is submitted for publication
+or an oral presentation is made, Curis shall deliver to ImmuNext a then-current
+copy of the paper or materials for presentation at least [**] prior to
+submitting the paper to a publisher or making the presentation. ImmuNext shall
+review such materials and give its comments to Curis within [**]. Failure to
+respond within the time period set forth above shall be deemed approval to
+publish or present. Notwithstanding the foregoing, Curis shall comply with
+ImmuNext’s request to delete references to ImmuNext’s Confidential Information
+in any such publication and, upon request, shall withhold publication for an
+additional [**] in order to permit the applicable Party to obtain Patent
+protection in accordance with this Agreement.
+13.6.3Any publication shall include recognition of the respective contributions
+of the Parties according to standard practice for assigning scientific credit,
+either through authorship or acknowledgement, as may be appropriate.
+13.7Press Release. Promptly following the Effective Date, Curis will issue a
+press release mutually agreed upon by the Parties announcing the existence of
+this Agreement. It is further acknowledged that each Party may desire or be
+required to issue subsequent press releases relating to this Agreement or
+activities conducted hereunder. The Parties agree to consult with each other
+reasonably and in good faith with respect to the text and timing of subsequent
+press releases prior to the issuance thereof, provided that, subject to the
+remainder of this Section 13.7, consent of the non-issuing Party may not be
+withheld in the case of releases that the other Party determines, based on
+advice of counsel, are reasonably necessary to comply with applicable Laws,
+including disclosure requirements of the U.S. Securities and Exchange
+Commission, or with the requirements of any stock exchange on which securities
+issued by a Party or its Affiliates are traded. In the event of a required
+public announcement, to the extent there is sufficient time while still being
+able to comply with applicable Laws, including disclosure requirements of the
+U.S. Securities and Exchange Commission, or with the requirements of any stock
+exchange on which securities issued by a Party or its Affiliates are traded, the
+Party making such announcement shall provide the other Party with a copy of the
+proposed text of such announcement sufficiently in advance of the scheduled
+release to afford such other Party a reasonable opportunity to review and
+comment upon the proposed text. Each Party may make public statements regarding
+this Agreement in response to questions by the press, analysts, investors or
+those attending industry conferences or financial analyst calls, or issue press
+releases, so long as the contents of any such public statement or press release
+are contained in a prior public disclosure or public statement approved by the
+other Party pursuant to this Section 13.7 or permitted by Section 13.3 and does
+not reveal non‑public information about the other Party.
+
+
+- 69 -
+
+--------------------------------------------------------------------------------
+
+
+
+
+
+
+
+14.Indemnity and Insurance
+14.1Curis Indemnity. Curis shall indemnify, defend, and hold harmless ImmuNext
+and its Affiliates, and their respective officers, directors, employees, agents,
+licensors, and their respective successors, heirs and assigns, and
+representatives (the “ImmuNext Indemnitees”), from and against any and all
+losses, damages, liabilities, expenses and costs, including reasonable legal
+expense and attorneys’ fees (“Damages”), to which any ImmuNext Indemnitee may
+become subject as a result of any claim, demand, action or other proceeding by
+any Third Party (each, a “Third Party Claim”), to the extent such Damages arise
+out of or relate to: (a) the gross negligence, recklessness, or willful
+misconduct of any Curis Indemnitee (defined below) under this Agreement; (b) any
+breach by Curis or any of its Affiliates or Sublicensees of any representation,
+warranty, covenant or other agreement made by Curis in this Agreement; or
+(c) the Exploitation of Compounds or Products by or on behalf of Curis, its
+Affiliates or Sublicensees; except, in each case, to the extent such Damages
+result from the gross negligence, recklessness or willful misconduct of any
+ImmuNext Indemnitee or the breach by ImmuNext of any warranty, representation,
+covenant or agreement made by ImmuNext in this Agreement.
+14.2ImmuNext Indemnity. ImmuNext shall indemnify, defend, and hold harmless
+Curis and its Affiliates, and their respective officers, directors, employees,
+agents, licensors, and their respective successors, heirs and assigns, and
+representatives (the “Curis Indemnitees”), from and against any and all Damages
+to which any Curis Indemnitee may become subject as a result of any Third Party
+Claim, to the extent such Damages arise out of or relate to: (a) the gross
+negligence, recklessness, or willful misconduct of any ImmuNext Indemnitee under
+this Agreement; (b) any breach by ImmuNext or any of its Affiliates of any
+representation, warranty, covenant or other agreement made by ImmuNext in this
+Agreement; (c) any breach by ImmuNext or any of its Affiliates of any Upstream
+Agreement prior to the Effective Date; or (d) the Exploitation of any Excluded
+Compound by or on behalf of ImmuNext, its Affiliates, licensees or sublicensees;
+except, in each case, to the extent such Damages result from the gross
+negligence, recklessness or willful misconduct of any Curis Indemnitee or the
+breach by Curis of any warranty, representation, covenant or agreement made by
+Curis in this Agreement.
+14.3Indemnification Procedure.
+14.3.1Promptly after receipt by a Party of notice, or such Party otherwise
+becoming aware, of any actual or potential Third Party Claim which could give
+rise to a right to indemnification pursuant to Section 14.1 or Section 14.2,
+such Party shall promptly give the other Party written notice describing the
+Third Party Claim in reasonable detail. The indemnified Party shall not take any
+action that impairs the defense of any Third Party Claim by the indemnifying
+Party. The failure or delay of a Party to give notice in the manner provided
+herein shall not relieve the indemnifying Party of its obligations under this
+Section 14, except to the extent that such failure or delay to give notice
+actually prejudices the indemnifying Party’s ability to defend such Third Party
+Claim.
+14.3.2The indemnifying Party shall have the right, exercisable by written notice
+to the indemnified Party within [**] of receipt of notice of the commencement of
+or
+
+
+- 70 -
+
+--------------------------------------------------------------------------------
+
+
+
+
+
+
+
+assertion of any Third Party Claim, to assume the defense of such Third Party
+Claim. Following such notice, the indemnifying Party shall, at its sole cost and
+expense, assume and conduct such defense, with counsel selected by the
+indemnifying Party and reasonably acceptable to the indemnified Party.
+14.3.3If the indemnifying Party undertakes to defend any Third Party Claim as
+provided in Section 14.3.1 the indemnified Party agrees to reasonably cooperate
+with the indemnifying Party and its counsel in the defense of such Third Party
+Claim, including by furnishing such records, information and testimony and
+attending such conferences, discovery proceedings, hearings, trials or appeals
+as may reasonably be requested by the indemnifying Party. All reasonable costs
+and expenses incurred in connection with such cooperation shall be borne by the
+indemnifying Party. The indemnified Party shall have the right to participate in
+(but not control) and be represented by its own counsel (at the indemnified
+Party’s own expense) in connection with such Third Party Claim.
+14.3.4If the indemnifying Party does not defend the Third Party Claim, or fails
+to notify the indemnified Party of its election to defend as herein provided,
+the indemnified Party shall have the right, at its option, to defend such Third
+Party Claim by counsel of its choice and its reasonable costs and expenses for
+such Third Party Claim shall be included as part of the indemnification
+obligation of the indemnifying Party hereunder.
+14.3.5Notwithstanding the foregoing, neither Party may settle or compromise any
+Third Party Claim without the other Party’s prior written consent if such
+settlement or compromise would: (a) commit the other Party to take, or to
+forbear to take, any action; (b) subject the other Party to an injunction;
+(c) constitute an admission of guilt or liability by the other Party; or
+(d) impose any financial liability on the other Party.
+14.3.6The Parties shall in all cases reasonably cooperate in the defense of any
+Third Party Claims and each Party shall make reasonably available to the other
+Party any books, records or other documents within its control that are
+reasonably necessary or appropriate for such defense. Notwithstanding anything
+to the contrary in this Section 14.3, the Party conducting the defense of a
+Third Party Claim shall (a) keep the other party informed on a reasonable and
+timely basis as to the status of the defense of such Third Party Claim, and
+(b) conduct the defense of such Third Party Claim in a prudent manner.
+14.4Insurance. During the Term, Curis will obtain and maintain, at its sole
+expense, the following minimum required insurance: comprehensive general
+liability insurance (including umbrella and excess liability insurance) and
+products liability insurance each with minimum limits of [**] Dollars ($[**])
+per occurrence and [**] Dollars ($[**]) annual aggregate. During the Option
+Period, ImmuNext shall maintain, and during the Term, Curis shall maintain, any
+mandatory insurance, including but not limited to workers compensation coverage,
+in accordance with all applicable Laws. Commercial insurance shall be obtained
+from reputable and financially secure insurance carriers having a minimum A.M.
+Best rating (or equivalent) of A-. With respect to any such insurance policy
+that is written on a claims-made basis (and not on an occurrence basis), Curis
+shall ensure continuity of coverage for claims which may be presented during the
+[**] period following the expiration or termination of this Agreement. Curis
+will furnish to ImmuNext, on request, certificates of insurance evidencing the
+minimum
+
+
+- 71 -
+
+--------------------------------------------------------------------------------
+
+
+
+
+
+
+
+required insurance. Curis shall provide ImmuNext with written notice at least
+[**] prior to the cancellation, non-renewal or material change in such insurance
+that would result in noncompliance of the terms and conditions set forth in this
+Section 14.4. Curis shall name ImmuNext as an additional insured on the
+insurance Curis carries pursuant to this Section 14.4.
+15.Term and Termination
+15.1Term; Expiration. The term of this Agreement (the “Term”) shall begin on the
+Effective Date and, unless earlier terminated in accordance with this
+Section 15, expire upon, as applicable, either:
+(a)expiration of the Option Period if Curis has not exercised the Option prior
+to such expiration; or
+(b)if Curis timely exercises the Option, expiration of the last-to-expire
+Royalty Term for any and all Products.
+15.2Termination for Material Breach.
+15.2.1Material Breach. Either Party (the “Non-Breaching Party”) may, without
+prejudice to any other remedies available to it at law or in equity, terminate
+this Agreement in its sole discretion in the event the other Party (the
+“Breaching Party”) has materially breached this Agreement, and such breach has
+continued for [**] (or [**] in the case of failure to make payment when due)
+after written notice thereof is provided to the Breaching Party by the
+Non-Breaching Party, such notice describing the alleged material breach in
+sufficient detail to put the Breaching Party on notice; provided that, if such
+breach is not susceptible to cure within the applicable cure period set forth
+above, then, the Non-Breaching Party’s right to termination shall be suspended
+only if and for so long as the Breaching Party has provided to the Non-Breaching
+Party a written plan that is reasonably calculated to effect a cure and such
+plan is reasonably acceptable to the Non-Breaching Party, and the Breaching
+Party commits to and does carry out such plan.
+15.2.2Disagreement as to Material Breach; Cure Period. If the Parties reasonably
+and in good faith disagree as to whether there has been a material breach, the
+Party that disputes that there has been a material breach may contest the
+allegation in accordance with Section 16. Any right to terminate under
+Section 15.2.1 shall be stayed and the cure period tolled in the event that,
+during the applicable cure period for the alleged breach, the Party alleged to
+have been in material breach shall have initiated dispute resolution in
+accordance with Section 16 with respect to the alleged breach, which stay and
+tolling shall continue until such dispute has been resolved in accordance with
+Section 16 or 17, as applicable. It is understood and acknowledged that, during
+the pendency of such a dispute, this Agreement shall remain in full force and
+effect in accordance with its terms.
+15.3Termination by ImmuNext for Patent Challenge. In the event that Curis or any
+of its Affiliates or any Sublicensee institutes, prosecutes or otherwise
+participates in (or in any way aids any Third Party in instituting, prosecuting
+or participating in), at law or in equity or before any administrative or
+regulatory body, including the U.S. Patent and Trademark
+
+
+- 72 -
+
+--------------------------------------------------------------------------------
+
+
+
+
+
+
+
+Office or its foreign counterparts, any claim, demand, action or cause of action
+for declaratory relief, damages or any other remedy or for an enjoinment,
+injunction or any other equitable remedy, including any interference,
+re-examination, opposition or any similar proceeding, alleging that any claim in
+a Patent within the ImmuNext Patents is invalid, unenforceable or otherwise not
+patentable, ImmuNext may terminate this Agreement upon [**] prior written notice
+to Curis with respect to the challenged Patent.
+15.4Termination by ImmuNext for Cessation. In the event that Curis and its
+Affiliates and Sublicensees conduct no research, Development, Manufacturing or
+Commercialization activities with respect to Compounds or Products for the
+relevant Cessation Period (other than as a result of ImmuNext’s failure to
+perform its obligations under Section 3.2.2(a), 3.2.2(d), 5, 6.1.1 or 6.1.2),
+ImmuNext may, at its election, terminate this Agreement in its entirety or on a
+Product-by-Product basis upon [**] prior written notice to Curis; provided that
+the Cessation Period shall be extended on a day-by-day basis for delays due to
+any of the following causes: (a) any Force Majeure, (b) to the extent
+Development activities are being undertaken to comply with any change in
+applicable Law, or (c) to the extent Curis reasonably determines in accordance
+with Curis’ internal procedures consistently applied that additional time is
+required to investigate, respond to and resolve (i) any patient safety issue or
+(ii) any manufacturing issue; provided in all cases that Curis is using
+Commercially Reasonable Efforts to resolve the cause of the delay. The
+“Cessation Period” shall be a continuous period of [**] during the Option Period
+and [**] during the License Period.
+15.5Curis Termination for Convenience. Curis may, in its sole discretion and for
+any reason or no reason at all, terminate this Agreement, in its entirety or on
+a Product-by-Product basis, effective upon ninety (90) days’ prior written
+notice to ImmuNext.
+15.6Insolvency or Bankruptcy. To the extent permitted under Law, either Party
+may terminate this Agreement, (a) if, at any time, the other Party files in any
+court or agency pursuant to any statute or regulation of any state or country, a
+petition in bankruptcy or insolvency or for reorganization or for an arrangement
+or for the appointment of a receiver or trustee of the Party or of substantially
+all of its assets, or (b) if the other Party is served with an involuntary
+petition against it, filed in any insolvency proceeding, and such petition shall
+not be dismissed within [**] after the filing thereof, or (c) if the other Party
+shall propose or be a party to any dissolution or liquidation, or (d) if the
+other Party shall make an assignment of substantially all of its assets for the
+benefit of creditors. Upon the occurrence of any of the foregoing (a) through
+(d) affecting a Party, such Party agrees to give the other Party prompt notice
+thereof to the extent permitted by Laws. All rights and licenses granted under
+or pursuant to any section of this Agreement to either Party are and shall
+otherwise be deemed to be for purposes of Section 365(n) of Title 11, United
+States Code (the “Bankruptcy Code”) licenses of rights to “intellectual
+property” as defined in Section 101(35A) of the Bankruptcy Code. The Parties
+shall retain and may fully exercise all of their respective rights and elections
+under the Bankruptcy Code. The parties further agree that, in the event of the
+commencement of a bankruptcy proceeding by or against a Party under the United
+States Bankruptcy Code, the non‑debtor Party shall be entitled to a complete
+duplicate of (or complete access to, as appropriate) any such intellectual
+property and all embodiments of such intellectual property, and the same, which,
+if not already in the non‑debtor party’s possession, shall be promptly delivered
+to it (a) upon any such commencement of a bankruptcy proceeding upon the
+non‑debtor party’s
+
+
+- 73 -
+
+--------------------------------------------------------------------------------
+
+
+
+
+
+
+
+written request therefor, unless the debtor party continues to perform all of
+its obligations under this Agreement or (b) if not delivered under clause (a)
+above, following the rejection of this Agreement by or on behalf of the debtor
+party upon written request therefor by the non‑debtor party. All written
+agreements entered into in connection with the Parties’ conduct under this
+Agreement from time to time shall be considered agreements “supplementary” to
+this Agreement for purposes of Section 365(n) of the Bankruptcy Code.
+15.7Consequences of Expiration. In the event of expiration of this Agreement
+pursuant to Section 15.1(b), the Curis Commercial License shall automatically
+become fully-paid up, royalty-free, irrevocable and perpetual.
+15.8Consequences of Termination.
+15.2.1Consequences of Termination by Curis pursuant to Section 15.5 or by
+ImmuNext pursuant to Section 15.2.1, 15.3, 15.4 or 15.6. In the event of
+termination of this Agreement by Curis pursuant to Section 15.5 or by ImmuNext
+pursuant to Section 15.2.1, 15.3, 15.4 or 15.6, with respect to any applicable
+terminated Product:
+(a)Notwithstanding anything contained in this Agreement to the contrary, all
+rights and licenses granted herein to Curis shall terminate;
+(b)Subject to the payment of the royalty set forth in Section 15.8.1(c), Curis
+hereby grants to ImmuNext and its Affiliates (i) an exclusive, perpetual,
+nontransferable (except as provided in Section 18.4), worldwide right and
+license, with the right to grant sublicenses (through multiple tiers), under
+Patents Controlled by Curis or any of its Affiliates and existing as of the
+effective date of termination that are necessary or reasonably useful for the
+Exploitation of the Compounds or Product(s) (including all back-up candidates)
+that were the subject of Exploitation under this Agreement immediately prior the
+effective date of such termination (and any derivatives, improvements,
+modifications or enhancements thereto) (collectively, the “Terminated
+Product(s)”), solely to Exploit such Terminated Product(s), and (ii) a
+non-exclusive license (with the right to grant sublicenses through multiple
+tiers) under any Know-How Controlled by Curis or any of its Affiliates and
+existing as of the effective date of termination that is necessary or reasonably
+useful for the Exploitation of the Terminated Products, in each case ((i) and
+(ii)), to Exploit such Terminated Products in any and all fields of use;
+(c)As consideration for the rights granted to ImmuNext and its Affiliates under
+Section 15.8.1(b), ImmuNext shall pay to Curis a royalty on net sales (which
+shall be determined in a manner consistent with Section 1.124) by ImmuNext, its
+Affiliates or sublicensees of such Terminated Product. Sections 9.4.2 (mutatis
+mutandis, with the reference to “any ImmuNext Patent” therein to be deemed to
+refer to “any Curis Owned Patent”), 10.1, 10.2, 10.3, 10.4, 10.6, 10.7, 10.8 and
+10.9 shall apply to the payments due to Curis, if any, under Sections 15.8.1(b)
+and 15.8.1(c) (mutatis mutandis).
+
+
+- 74 -
+
+--------------------------------------------------------------------------------
+
+
+
+
+
+
+
+Stage of Development of such Terminated Product as of the effective date of
+termination
+Royalty Rate
+Prior to [**] for such Terminated Product
+[**]%
+After [**] for such Terminated Product
+[**]%
+
+
+
+(d)All payment obligations hereunder shall terminate, except (i) those that are
+accrued and unpaid as of the effective date of such termination; and (ii) such
+payment obligations as set forth in Section 15.8.1(c). ImmuNext will provide to
+Curis an invoice for any amounts due under this Section 15.8.1(d) and Curis
+shall, within [**] after the receipt of such invoice, pay such invoice.
+(e)Curis and its Affiliates shall promptly either, at ImmuNext’s election,
+return to ImmuNext or destroy, at no cost to ImmuNext, all ImmuNext Know-How,
+materials and other data and information transferred by ImmuNext to Curis; and
+ImmuNext, except as provided in Section 15.8.1(f), shall promptly either, at
+Curis’ election, return to Curis or destroy, at no cost to Curis, all Curis
+Confidential Information;
+(f)Curis shall promptly provide to ImmuNext any information, materials, data and
+documents in the possession or Control of Curis or its Affiliates relating to
+any Terminated Product, including copies of all results of Clinical Trials of
+any Terminated Product, and all other information developed by or for the
+benefit of Curis or any of its Affiliates with respect to any Terminated
+Product. Curis will cooperate with ImmuNext to provide a smooth transfer of such
+information, materials, data and documents. Curis shall conduct such transfer at
+Curis’ cost and expense;
+(g)Curis shall assign to ImmuNext or its designee any and all Regulatory Filings
+with respect to any Terminated Product Controlled by Curis or its Affiliate.
+(h)As between the Parties, ImmuNext shall own all right, title and interest in
+and to all Know-How Made by or on behalf of ImmuNext or its Affiliates in
+connection with the Terminated Products on or after the date of termination;
+(i)As of the date of termination, ImmuNext shall have the sole right, but not an
+obligation, to Prosecute the Jointly Owned Patents and Curis not have any rights
+with respect to such Prosecution. ImmuNext shall be responsible for all
+Prosecution costs associated with such Patents following the date of
+termination. Promptly following termination of this Agreement, the Parties shall
+cooperate to transfer to ImmuNext or its designee all records related to the
+Prosecution of such Patents reasonably requested by ImmuNext and in a format
+mutually agreed upon by the Parties;
+(j)As of the date of termination, ImmuNext shall have the sole right, not an
+obligation, to bring any Infringement Action with respect to any Jointly Owned
+Patents and Curis shall not have any right pursuant to this Agreement to bring
+or continue any Infringement Action or to share in any recoveries received by
+ImmuNext; provided that Curis and its Affiliates shall cooperate with ImmuNext
+in bringing and maintaining any such Infringement action at ImmuNext’s cost and
+expense in the manner set forth in Section 12.3.6(a);
+
+
+- 75 -
+
+--------------------------------------------------------------------------------
+
+
+
+
+
+
+
+(k)Notwithstanding anything herein to the contrary, as of the date of
+termination, Curis shall treat the following Confidential Information of Curis
+as if it were Confidential Information of ImmuNext and shall hold such
+Confidential Information confidential on ImmuNext’s behalf under the terms of
+Section 13 (mutatis mutandis): Research Plan, Phase 1A/1B Plan, Phase 1A/1B
+Study, and all information, materials, data and documents transferred to
+ImmuNext pursuant to this Section 15.8.1; provided that Sections 13.2.2 and
+13.2.5 shall not apply with respect to the foregoing and neither Curis nor any
+of its Affiliates shall have any rights under Section 13.6 with respect to any
+of the foregoing Confidential Information. ImmuNext may use or disclose such
+transferred Confidential Information of Curis consistent with its license under
+this Section 15.8.1;
+(l)For all Products for which Regulatory Approval was obtained prior to the
+effective date of termination of this Agreement, Curis may sell inventory of
+Product remaining in Curis’ or its Affiliates’ possession as of the effective
+date of termination for up to [**] after the effective date of termination,
+subject to Curis’ Commercial Milestone Payment, royalty payment and reporting
+obligations to ImmuNext under Section 9.3.2, Section 9.4 and Section 10,
+respectively;
+(m)Subject to Curis’ rights under Section 15.8.1(l), ImmuNext shall have the
+right, but not the obligation, to purchase from Curis any or all usable
+inventory of Compound or Product in Curis’ or its Affiliates’ possession as of
+the date of termination or at the end of the sell-down period set forth in
+Section 15.8.1(l) at a supply price equal to Curis’ out-of-pocket cost of such
+inventory plus [**]%. Any packaging, transport, insurance and other costs
+relating to delivery shall be at ImmuNext’s expense; and
+(n)Solely in the event such termination occurs during the Option Period,
+ImmuNext shall notify Curis no later than the effective date of such termination
+whether or not ImmuNext wishes to assume responsibility for any then-ongoing
+Phase 1A/1B Study. If ImmuNext does not timely notify Curis that ImmuNext elects
+to assume responsibility for any such Phase 1A/1B Study, then Curis shall
+wind-down such Phase 1A/1B Study in compliance with GCP and with due regard for
+patient/subject safety and close out participating clinical sites, at Curis’
+sole cost and expense. If ImmuNext timely notifies Curis that ImmuNext elects to
+assume responsibility for any such Phase 1A/1B Study, then the Parties shall
+reasonably cooperate to effect an orderly and prompt transfer of responsibility
+for such Phase 1A/1B Study to ImmuNext, at Curis’ sole cost and expense with
+respect to the costs of such transfer and the costs and expenses of conducting
+such Phase 1A/1B Study up to the time responsibility for conduct of such
+Phase 1A/1B Study is transferred to ImmuNext (it being understood that Curis
+will have no obligation to enroll any additional patients/subjects in such
+Phase 1A/1B Study after notice of termination of this Agreement has been
+delivered by a Party). ImmuNext shall be solely responsible for all costs and
+expenses of such Phase 1A/1B Study incurred from the date that responsibility
+for such Phase 1A/1B is transferred to ImmuNext. For clarity, if ImmuNext
+assumes any such activities, Curis shall remain responsible for all obligations,
+including indemnification, for all activities conducted by or on behalf of Curis
+or its Affiliates or Sublicensees prior to such assumption by ImmuNext.
+
+
+- 76 -
+
+--------------------------------------------------------------------------------
+
+
+
+
+
+
+
+15.8.2Consequences of Termination by Curis Pursuant to Section 15.2.1 or 15.6.
+In the event of termination by Curis of this Agreement pursuant to
+Section 15.2.1 or pursuant to Section 15.6:
+(a)in the event such termination occurs during the Option Period, all ImmuNext’s
+activities under the Research Plan shall terminate, ImmuNext shall invoice Curis
+pursuant to Section 3.2.3(b) for amounts due with respect to Research Plan
+activities conducted prior to the effective date of such termination, and Curis
+shall pay such invoice;
+(b)in the event such termination occurs during the License Period, the licenses
+granted by ImmuNext to Curis and its Affiliates pursuant to Section 8.1.1 shall
+continue in full force and in perpetuity, and Curis’ obligation to pay the
+milestone payments set forth in Sections 9.3.1 and 9.3.2, the royalty payments
+set forth in Section 9.4, and the payments with respect to Sublicense Revenue
+set forth in Section 9.5, shall survive and continue in accordance with the
+terms and conditions set forth in Sections 9 and 10;
+(c)ImmuNext shall promptly either, at Curis’ election, return to Curis or
+destroy, at no cost to Curis, all Curis Confidential Information, materials and
+other data and information transferred by Curis to ImmuNext; and
+(d)Curis shall have the right to pursue any other remedies available at law or
+at equity.
+15.9Survival. Notwithstanding anything to the contrary in this Agreement, the
+following provisions shall survive expiration or termination of this Agreement:
+Sections 1, 3.2.4(d), 3.2.4(e), 8.1.2, 9.4.2 (last sentence only, except as
+expressly set forth below), 8.3, 10 (excluding Section 10.5, except as expressly
+set forth below), 11.7, 11.8, 12.1, 13.1, 13.2, 13.3, 13.4, 13.5, 13.6.2,
+13.6.3, 14, 15.6, 15.7, 15.8, 15.9, 16, 17.1, and 18. In addition, in the event
+of termination of this Agreement by Curis during the License Period pursuant to
+Section 15.2.1 or pursuant to Section 15.6, Sections 9.3, 9.4, 9.5, 9.6.1, 10.5,
+12.2, 12.3, 12.4, 12.5, and 12.6 shall survive such termination. Expiration or
+any termination of this Agreement shall not relieve the Parties of any liability
+or obligation which accrued hereunder prior to the effective date of expiration
+or termination nor preclude either Party from pursuing all rights and remedies
+it may have hereunder or at law or in equity, subject to Section 16 or, as
+applicable, Section 17.1, with respect to any breach of this Agreement or
+prejudice either Party’s right to obtain performance of any obligation. Except
+as otherwise expressly set forth herein, all other rights, licenses and
+obligations shall terminate upon expiration or termination of this Agreement.
+16.Dispute Resolution
+16.1Exclusive Dispute Resolution Mechanism. Subject to Sections 2.1.6, 9.5.3 and
+17, the Parties agree that the procedures set forth in this Section 16 shall be
+the exclusive mechanism for resolving any dispute, controversy, or claim
+(collectively, “Disputes”) between the Parties that may arise from time to time
+pursuant to this Agreement relating to any Party’s rights and/or obligations
+hereunder that cannot be resolved through good faith negotiation between the
+Parties (or the JSC, as applicable).
+
+
+- 77 -
+
+--------------------------------------------------------------------------------
+
+
+
+
+
+
+
+16.2Resolution by Executive Officers. Except as otherwise provided in this
+Agreement, in the event of any dispute between the Parties in connection with
+this Agreement, the construction hereof, or the rights, duties or liabilities of
+either Party hereunder, the Parties shall first attempt in good faith to resolve
+such dispute by negotiation and consultation between themselves. In the event
+that such dispute is not resolved on an informal basis within [**] following the
+commencement of such negotiation or consultation, either Party may, by written
+notice to the other Party, refer the dispute to the executive officers
+designated by the Parties for attempted resolution. Such officers, or their
+designees, shall attempt in good faith to promptly resolve such dispute within
+[**] after such referral. In the event that any matter is not resolved under the
+foregoing provisions, each Party may, at its sole discretion, seek resolution of
+such matter in accordance with Section 16.3.
+16.3Arbitration. Subject to Section 16.4, any Dispute, shall be resolved by
+binding arbitration before a panel of three (3) independent, neutral arbitrators
+in accordance with the rules of the American Arbitration Association (“AAA”) in
+effect at the time the proceeding is initiated. In any such arbitration, the
+following procedures shall apply:
+16.3.1The arbitration shall be conducted pursuant to the then-current AAA rules
+(in the case of disputes involving [**] Dollars ($[**]) or less, or JSC disputes
+that are not finally resolved pursuant to Section 16.2, the accelerated rules
+shall be used, and for all other disputes the comprehensive rules shall be
+used), in effect on the date of the arbitration.
+16.3.2The panel will be comprised of one arbitrator chosen by Curis, one by
+ImmuNext and the third by the two so chosen. If either, or both, of Curis or
+ImmuNext fails to choose an arbitrator or arbitrators within [**] after
+receiving notice of commencement of arbitration or if the two arbitrators fail
+to choose a third arbitrator within [**] after their appointment, then either or
+both Parties shall immediately request that the AAA select the remaining number
+of arbitrators to be selected, which arbitrator(s) shall have the requisite
+scientific background, experience and expertise. The place of arbitration shall
+be Boston, Massachusetts.
+16.3.3Either Party may apply to the arbitrators for interim injunctive relief
+until the arbitration decision is rendered or the Dispute is otherwise resolved.
+The arbitrators shall have no authority to award punitive or any other type of
+damages not measured by a Party’s compensatory damages or that is otherwise
+prohibited by this Agreement. Each Party shall bear its own costs and expenses
+and attorneys’ fees in connection with any such arbitration.
+16.3.4Except to the extent necessary to confirm or to enforce an award or
+decision or as may be required by Laws, neither Party nor any arbitrator may
+disclose the existence or results of any arbitration without the prior written
+consent of both Parties. In no event shall any arbitration be initiated after
+the date when commencement of a legal or equitable proceeding based on the
+Dispute would be barred by the applicable New York statute of limitations.
+16.3.5In the event of a Dispute involving the alleged breach of this Agreement
+(including whether a Party has performed its diligence obligations hereunder),
+
+
+- 78 -
+
+--------------------------------------------------------------------------------
+
+
+
+
+
+
+
+(a) neither Party may terminate this Agreement under Section 15.2.1 until
+resolution of the Dispute pursuant to this Section 16.3 and (b) if the
+arbitrators render a decision that a breach of this Agreement has occurred, the
+arbitrators shall have no authority to modify the right of the non-breaching
+Party to terminate this Agreement in accordance with Section 15.2.
+16.3.6Any disputed performance or suspended performance pending the resolution
+of a Dispute that the arbitrators determine to be required to be performed by a
+Party shall be completed within a reasonable time period following the final
+decision of the arbitrators.
+16.3.7The decision of the arbitrators with respect to any Disputes subject to
+resolution pursuant to this Section 16 shall be final and binding upon the
+Parties. In no event shall the arbitrators be permitted to reform or amend this
+Agreement through their decision. Any monetary payment to be made by a Party
+pursuant to a decision of the arbitrators shall be made in United States
+dollars. Either Party may enforce the decision of the arbitrators in any court
+of competent jurisdiction.
+16.4Court Actions. Nothing contained in this Agreement shall deny either Party
+the right to seek injunctive or other equitable relief from a court of competent
+jurisdiction in the context of a bona fide emergency or prospective irreparable
+harm, and such an action may be filed and maintained notwithstanding any ongoing
+discussions between the Parties or any ongoing arbitration proceeding. In
+addition, either Party may bring an action in any court of competent
+jurisdiction to resolve disputes pertaining to the validity, construction,
+scope, enforceability, infringement or other violations of Patents or other
+intellectual property rights, and no such claim shall be subject to arbitration
+pursuant to Section 16.3, Expedited Arbitration pursuant to Section 17.1, or
+resolution by KOL Panel pursuant to Section 17.2.
+17.Certain Disputes.
+17.1Baseball Arbitration. If a Party exercises its rights under Section 9.5.3 to
+refer a dispute to expedited arbitration (an “Expedited Dispute”), then the
+Parties will follow the expedited dispute resolution process in this
+Section 17.1 (“Expedited Arbitration”), and not the dispute resolution processes
+in Section 16. The Expedited Dispute will be submitted to fast‑track, binding
+arbitration in accordance with the following:
+17.1.1The arbitration will be conducted in Boston, Massachusetts under the rules
+of the AAA for the resolution of commercial disputes in the most expedited
+manner permitted by such rules. The Parties will appoint a single, independent,
+neutral arbitrator to be selected by mutual agreement. If the Parties are unable
+to agree on an arbitrator, the Parties will request that the AAA select the
+arbitrator. The arbitrator will be a professional with at least [**] of
+experience in the biopharmaceutical and life sciences industries and with
+expertise in the structuring of the financial terms of licenses of
+biopharmaceutical products. The cost of the arbitration will be borne equally by
+the Parties. Except in a proceeding to enforce the results of the arbitration or
+as otherwise required by applicable Laws, neither Party nor the arbitrator may
+disclose the existence, content or results of any arbitration hereunder without
+the prior written agreement of the Parties.
+
+
+- 79 -
+
+--------------------------------------------------------------------------------
+
+
+
+
+
+
+
+17.1.2Within [**] after such matter is referred to arbitration, each Party will
+provide the arbitrator with a proposal (which will be a draft of such Party’s
+proposed resolution) and written memorandum in support of its position regarding
+the Expedited Dispute, as well as any documentary evidence it wishes to provide
+in support thereof (each, a “Brief”) and the arbitrator will provide each
+Party’s Brief to the other Party after it receives it from each Party.
+17.1.3Within [**] after a Party submits its Brief, the other Party will have the
+right to respond thereto. The response and any material in support thereof will
+be provided to the arbitrator and the other Party.
+17.1.4The arbitrator will have the right to meet with the Parties as necessary
+to inform the arbitrator’s determination and to conduct independent research and
+analysis (but shall not meet with a Party outside the presence of the other
+Party). Within [**] after the receipt by the arbitrator of both Parties’
+responses (or expiration of the [**] period if any Party fails to submit a
+response), the arbitrator will deliver his/her decision regarding the Expedited
+Dispute in writing. The sole decision-making authority of the arbitrator shall
+be to select the proposed resolution of one of the Parties in its entirety
+without modification.
+17.2KOL Panel.
+17.2.1If a Party exercises its right under Section 2.1.6(b)(i) or
+Section 2.1.6(b)(ii) to refer the applicable disputed matter for resolution
+pursuant to this Section 17.2, then the matter shall be shall be decided by a
+panel of three (3) internationally-renowned key opinion leaders in the Field or
+the relevant portion thereof, with each Party appointing one key opinion leader
+and the Party-selected key opinion leaders collectively appointing a third key
+opinion leader (such key opinion leaders, the “KOL Panel”). Promptly after
+selection of the KOL Panel, the KOL Panel shall convene a meeting to consider
+the Parties’ respective positions on the matter. The Parties shall mutually
+agree on the medium by which each Party may present its position to the KOL
+Panel (i.e., in writing and/or orally) and shall establish a reasonable limit on
+the length (i.e., page limit and/or duration) of each Party’s presentation.
+17.2.2In the case of a matter referred pursuant to Section 2.1.6(b)(i), the sole
+questions to be posed to and answered by the KOL Panel are:
+(i)Does the proposed continuation or resumption of the applicable Phase 1A/1B
+Study or the conduct of the applicable proposed additional Phase 1 Trial pose an
+Unacceptable Safety Risk?; and
+(ii)If the proposed continuation or resumption of the applicable Phase 1A/1B
+Study or the conduct of the applicable proposed additional Phase 1 Trial does
+not pose an Unacceptable Safety Risk, does the KOL Panel nevertheless recommend
+that any specific modifications to the protocol for the applicable trial be made
+or other actions be taken in connection with such trial to reduce risks to
+patient safety (“Risk-Minimizing Actions”)?
+
+
+- 80 -
+
+--------------------------------------------------------------------------------
+
+
+
+
+
+
+
+If the KOL Panel determines that the continuation or resumption of the conduct
+of the applicable Phase 1A/1B Study or the conduct of the applicable proposed
+additional Phase 1 Trial poses an Unacceptable Safety Risk, then in no event may
+Curis continue or resume such Phase 1A/1B Study or conduct such additional
+Phase 1 Trial absent ImmuNext’s written agreement. If the KOL Panel determines
+that the continuation or resumption of the conduct of the applicable Phase 1A/1B
+Study or the conduct of the applicable proposed additional Phase 1 Trial does
+not pose an Unacceptable Safety Risk but recommends that specific
+Risk-Minimizing Actions be implemented, then Curis may proceed with the
+applicable Phase 1A/1B Study or Phase 1 Trial, provided that it implements such
+Risk-Minimizing Actions.
+17.2.3In the case of a matter referred pursuant to Section 2.1.6(b)(ii), the
+sole questions to be posed to and answered by the KOL Panel are:
+(a)Did the applicable Phase 1A/1B Study meet any or all of its clinical
+endpoints?; and
+(b)If the answer to the preceding question is yes, which of the clinical
+endpoint(s) of such Phase 1A/1B Study were met?
+17.2.4The determination of the KOL Panel shall be final and binding upon the
+Parties. The Parties shall share equally the fees and costs of the KOL Panel
+members, regardless of the KOL Panel’s ultimate determination.
+18.Miscellaneous
+18.1Severability. If one or more of the provisions of this Agreement is held to
+be invalid or unenforceable, the provision shall be considered severed from this
+Agreement and shall not serve to invalidate any remaining provisions hereof. The
+Parties shall make a good faith effort to replace any invalid or unenforceable
+provision with a valid and enforceable one such that the objectives contemplated
+by the Parties when entering this Agreement may be realized.
+18.2Notices. Any notice required or permitted to be given by this Agreement
+shall be in writing and shall be (a) delivered by hand or by overnight courier
+with tracking capabilities or (b) mailed postage prepaid by first class,
+registered or certified mail, in each case ((a) and (b)), addressed as set forth
+below unless changed by notice so given:
+If to Curis:
+Curis, Inc.
+4 Maguire Road
+Lexington, MA 02421
+Attention: Chief Executive Officer
+
+
+
+
+- 81 -
+
+--------------------------------------------------------------------------------
+
+
+
+
+
+
+
+With a copy to:
+
+
+Cooley LLP
+4401 Eastgate Mall
+San Diego, CA 92121
+Attention: Jane K. Adams
+
+
+If to ImmuNext:
+ImmuNext, Inc.
+1 Medical Center Drive
+HB7937
+Lebanon, New Hampshire 03756
+Attention: David DeLucia, Chief Executive Officer
+
+
+With a copy to (which shall not constitute notice):
+
+
+Goodwin Procter LLP
+100 Northern Avenue
+Boston, MA 02210
+Attention: Sarah A. Solomon, Esquire
+
+
+McLane Middleton
+900 Elm Street
+10th Floor
+Manchester, NH 03101
+Attention: Daniel J. Norris, Esquire
+
+
+Any such notice shall be deemed given on the date received. A Party may add,
+delete or change the person or address to which notices should be sent at any
+time upon written notice delivered to the Party’s notices in accordance with
+this Section 18.2.
+18.3Force Majeure. Neither Party shall be liable for delay or failure in the
+performance of any of its obligations hereunder if such delay or failure is due
+to causes beyond its reasonable control, including acts of God, fires,
+earthquakes, acts of war, terrorism, or civil unrest (“Force Majeure”);
+provided, however, that the affected Party promptly notifies the other Party and
+provided further that the affected Party shall use its Commercially Reasonable
+Efforts to avoid or remove such causes of non-performance and to mitigate the
+effect of such occurrence, and shall continue to perform its obligations with
+the utmost dispatch whenever such causes are removed. When such circumstances
+arise, the Parties shall negotiate in good faith any modifications of the terms
+of this Agreement that may be necessary or appropriate in order to arrive at an
+equitable solution.
+18.4Assignment. Except as expressly provided hereunder, neither this Agreement
+nor any rights or obligations hereunder may be assigned or otherwise transferred
+by either Party without the prior written consent of the other Party (such
+consent not to be
+
+
+- 82 -
+
+--------------------------------------------------------------------------------
+
+
+
+
+
+
+
+unreasonably withheld); provided, however, that either Party may assign this
+Agreement and its rights and obligations hereunder without the other Party’s
+consent:
+18.4.1in connection with the transfer or sale of all or substantially all of the
+business of such Party to which this Agreement relates to a Third Party (“Third
+Party Acquirer”), whether by merger, sale of stock, sale of assets,
+reorganization, consolidation or otherwise (each, a “Sale Transaction”),
+provided that in the event of a Sale Transaction (whether this Agreement is
+actually assigned or is assumed by the Third Party Acquirer or the surviving
+corporation resulting from such Sale Transaction by operation of law (e.g., in
+the context of a reverse triangular merger)), intellectual property rights of
+the Third Party Acquirer that existed prior to the Sale Transaction shall not be
+included in the technology licensed hereunder or otherwise subject to this
+Agreement; or
+18.4.2to an Affiliate of such Party, provided that the assigning Party shall
+remain liable and responsible to the non‑assigning Party hereto for the
+performance and observance of all such duties and obligations by such Affiliate.
+Subject to the foregoing, this Agreement shall inure to the benefit of and be
+binding on the Parties’ successors and assigns. Any assignment or transfer in
+violation of the foregoing shall be null and void and wholly invalid, the
+assignee or transferee in any such assignment or transfer shall acquire no
+rights whatsoever, and the non-assigning, non-transferring Party shall not
+recognize, or be required to recognize, such assignment or transfer.
+18.5Waivers and Modifications. The failure of any Party to insist on the
+performance of any obligation hereunder shall not be deemed to be a waiver of
+such obligation. Waiver of any breach of any provision hereof shall not be
+deemed to be a waiver of any other breach of such provision or any other
+provision on such occasion or any succeeding occasion. No waiver, modification,
+release or amendment of any obligation under or provision of this Agreement
+shall be valid or effective unless in writing and signed by both Parties.
+18.6Choice of Law. This Agreement shall be governed by, enforced and construed
+in accordance with the Laws of the State of New York without regard to any
+conflicts of law provision that would result in the application of the Laws of
+any State other than the State of New York.
+18.7Relationship of the Parties. Each Party is an independent contractor under
+this Agreement. Nothing contained herein is intended or is to be construed so as
+to constitute ImmuNext and Curis as partners, agents or joint venturers. Neither
+Party shall have any express or implied right or authority to assume or create
+any obligations on behalf of or in the name of the other Party or to bind the
+other Party to any contract, agreement or undertaking with any Third Party.
+Upstream Licensor 4 is a Third Party beneficiary of this Agreement. Except for
+Upstream Licensor 4, there are no other express or implied Third Party
+beneficiaries hereunder.
+18.8Entire Agreement. This Agreement, together with the attached exhibits and
+schedules, constitutes the entire agreement between the Parties as to the
+subject matter of
+
+
+- 83 -
+
+--------------------------------------------------------------------------------
+
+
+
+
+
+
+
+this Agreement, and supersedes and merges all prior and contemporaneous
+negotiations, representations, agreements and understandings regarding the same.
+18.9Counterparts. This Agreement may be executed in counter-parts with the same
+effect as if both Parties had signed the same document. All such counterparts
+shall be deemed an original, shall be construed together and shall constitute
+one and the same instrument. Signatures to this Agreement transmitted by
+facsimile, by email in “portable document format” (“.pdf”), or by any other
+electronic means intended to preserve the original graphic and pictorial
+appearance of this Agreement shall have the same effect as physical delivery of
+the paper document bearing original signature.
+18.10Further Assurances. Each Party agrees, at its own expense, to do, or
+procure the doing of, all such further acts and things and shall execute and
+deliver such other agreements, certificates, instruments and documents as are
+reasonably necessary in order to give full effect to this Agreement.
+18.11Interpretation.
+18.11.1Each of the Parties acknowledges and agrees that this Agreement has been
+diligently reviewed by and negotiated by and between them, that in such
+negotiations each of them has been represented by competent counsel and that the
+final agreement contained herein, including the language whereby it has been
+expressed, represents the joint efforts of the Parties and their counsel.
+Accordingly, in interpreting this Agreement or any provision hereof, no
+presumption shall apply against any Party as being responsible for the wording
+or drafting of this Agreement or any such provision, and ambiguities, if any, in
+this Agreement shall not be construed against any Party, irrespective of which
+Party may be deemed to have authored the ambiguous provision.
+18.11.2The definitions of the terms herein shall apply equally to the singular
+and plural forms of the terms defined. Whenever the context may require, any
+pronoun shall include the corresponding masculine, feminine and neuter forms.
+The word “will” shall be construed to have the same meaning and effect as the
+word “shall.” The word “any” shall mean “any and all” unless otherwise clearly
+indicated by context. The word “including” will be construed as “including
+without limitation.” The word “or” is disjunctive but not necessarily exclusive.
+18.11.3Unless the context requires otherwise, (a) any definition of or reference
+to any agreement, instrument or other document herein shall be construed as
+referring to such agreement, instrument or other document as from time to time
+amended, supplemented or otherwise modified (subject to any restrictions on such
+amendments, supplements or modifications set forth herein or therein), (b) any
+reference to any Laws herein shall be construed as referring to such Laws as
+from time to time enacted, repealed or amended, (c) any reference herein to any
+Person shall be construed to include the Person’s successors and assigns, and
+(d) all references herein to Sections, Schedules or Exhibits, unless otherwise
+specifically provided, shall be construed to refer to Sections, Schedules and
+Exhibits of this Agreement.
+
+
+- 84 -
+
+--------------------------------------------------------------------------------
+
+
+
+
+
+
+
+18.11.4Headings and captions are for convenience only and are not be used in the
+interpretation of this Agreement.
+[Signature Page Follows]
+
+
+
+
+- 85 -
+
+--------------------------------------------------------------------------------
+
+
+
+
+
+
+
+IN WITNESS WHEREOF, the Parties have caused this Option and License Agreement to
+be executed by their respective duly authorized officers as of the Effective
+Date.
+
+
+ImmuNext, Inc.
+Curis, Inc.
+By:/s/ David DeLucia
+By:/s/ James Dentzer
+Name: David DeLucia
+Name:James Dentzer
+Title: CEO
+Title: President and CEO
+
+
+
+
+
+
+
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[ Signature Page to Option and License Agreement ]
+
+
+
+
+
+
+- 86 -
+
+# Source Metadata
+
+- Domain: legal
+- Context ID: e32de1f44f0a31d2e2abaa148b4ccef2
+- Approx. Length: 62354 characters

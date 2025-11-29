@@ -1,0 +1,2 @@
+dataset,correctness_score,semantic_similarity_score,faithfulness_score,context_relevancy_score,answer_relevancy_score,avg_score
+biology,94.31818181818183,77.93718631729048,98.63636363636363,87.44318181818181,99.77272727272727,91.62152817254899

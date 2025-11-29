@@ -1,0 +1,2 @@
+dataset,correctness_score,semantic_similarity_score,answer_relevancy_score,avg_score
+technology.csv,65.125,58.92645938849138,66.45833333333333,63.50326424060824

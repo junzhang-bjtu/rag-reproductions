@@ -1,0 +1,2 @@
+dataset,correctness_score,semantic_similarity_score,answer_relevancy_score,avg_score
+psychology.csv,58.95,54.26297196040717,56.25,56.487657320135725

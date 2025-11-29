@@ -1,0 +1,2 @@
+dataset,correctness_score,semantic_similarity_score,faithfulness_score,context_relevancy_score,answer_relevancy_score,avg_score
+mathematics,91.5625,75.79995736826216,99.375,87.625,100.0,90.87249147365243

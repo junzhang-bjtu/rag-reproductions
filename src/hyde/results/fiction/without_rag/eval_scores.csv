@@ -1,0 +1,2 @@
+dataset,correctness_score,semantic_similarity_score,answer_relevancy_score,avg_score
+fiction.csv,31.545454545454543,35.75758829395747,35.68181818181818,34.32828700707673
